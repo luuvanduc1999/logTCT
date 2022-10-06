@@ -171,3 +171,31 @@
 2022-10-06 09:13:25.123497 - C tpye: 0106731835-thuongmaitruongdinh@ubot.vn-T9- So hoa don tren TCT: 1
 2022-10-06 09:13:41.146942 - C tpye: 0106647414-thuongmaitruongdinh@ubot.vn-T9- So hoa don tren TCT: 17
 2022-10-06 09:15:13.829034 - C tpye: 0110068554-thuy212@ubot.vn-T9- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-06 09:21:20.768766 - C tpye: 3700778489-thepnhat@ubot.vn-T9- So hoa don tren TCT: 739
+2022-10-06 09:35:25.874116 - C tpye: 0301758647-U001-catthai@ubot.vn-T9- So hoa don tren TCT: 793
+2022-10-06 09:40:29.044597 - K tpye: 0301758647-U001-catthai@ubot.vn-T9- So hoa don tren TCT: 430
+2022-10-06 09:41:47.429490 - C tpye: 0313671359-imiti@ubot.vn-T9- So hoa don tren TCT: 91
+2022-10-06 09:41:53.854241 - C tpye: 1001244498-tienlung@ubot.vn-T7- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-06 09:42:00.242485 - K tpye: 1001244498-tienlung@ubot.vn-T7- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-06 09:42:06.565694 - C tpye: 1001244498-tienlung@ubot.vn-T8- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-06 09:47:18.692779 - K tpye: 1001244498-tienlung@ubot.vn-T8- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-06 09:47:36.480445 - C tpye: 1001244498-tienlung@ubot.vn-T9- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-06 09:47:44.173869 - K tpye: 1001244498-tienlung@ubot.vn-T9- DANG NHAP THAT BAI: TK BI KHOA
+2022-10-06 09:47:54.694038 - C tpye: 3702994196-2a@ubot.vn-T7- So hoa don tren TCT: 2
+2022-10-06 09:48:19.702030 - C tpye: 3702994196-2a@ubot.vn-T8- So hoa don tren TCT: 6
+2022-10-06 09:53:42.159761 - C tpye: 3702994196-2a@ubot.vn-T9- No inv
+2022-10-06 09:53:50.593406 - C tpye: 0317126724-kimhuong@ubot.vn-T1- So hoa don tren TCT: 1
+2022-10-06 09:54:00.609100 - K tpye: 0317126724-kimhuong@ubot.vn-T1- No inv
+2022-10-06 09:54:07.777253 - C tpye: 0317126724-kimhuong@ubot.vn-T2- No inv
+2022-10-06 09:54:21.209886 - K tpye: 0317126724-kimhuong@ubot.vn-T2- No inv
+2022-10-06 09:54:47.260950 - C tpye: 0317126724-kimhuong@ubot.vn-T3- No inv
+2022-10-06 09:54:54.102466 - K tpye: 0317126724-kimhuong@ubot.vn-T3- No inv
+2022-10-06 09:55:02.572501 - C tpye: 0317126724-kimhuong@ubot.vn-T4- No inv
+2022-10-06 09:55:08.686040 - K tpye: 0317126724-kimhuong@ubot.vn-T4- No inv
+2022-10-06 10:00:23.625834 - C tpye: 0317126724-kimhuong@ubot.vn-T5- No inv
+2022-10-06 10:00:32.400201 - K tpye: 0317126724-kimhuong@ubot.vn-T5- No inv
+2022-10-06 10:00:43.255115 - C tpye: 0317126724-kimhuong@ubot.vn-T6- So hoa don tren TCT: 3
+2022-10-06 10:00:48.897302 - K tpye: 0317126724-kimhuong@ubot.vn-T6- No inv
+2022-10-06 10:01:02.789000 - C tpye: 0317126724-kimhuong@ubot.vn-T7- So hoa don tren TCT: 2
+2022-10-06 10:01:09.887600 - K tpye: 0317126724-kimhuong@ubot.vn-T7- No inv
+2022-10-06 10:01:22.394558 - C tpye: 0317126724-kimhuong@ubot.vn-T8- So hoa don tren TCT: 5
