@@ -209,3 +209,33 @@
 2022-10-06 10:08:25.709608 - C tpye: 0314357177-kimhuong@ubot.vn-T3- DANG NHAP THAT BAI: SAI MAT KHAU
 2022-10-06 10:30:19.901040 - C tpye: 0102659320-nagase@ubot.vn-T9- So hoa don tren TCT: 1489
 2022-10-06 10:33:02.363463 - K tpye: 0102659320-nagase@ubot.vn-T9- So hoa don tren TCT: 218
+2022-10-06 13:48:52.095284 - K tpye: 0316598900-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 1
+2022-10-06 13:48:56.743840 - K tpye: 0316598900-lehoanghien@ubot.vn-T8- So hoa don tren TCT: 1
+2022-10-06 13:49:02.491906 - K tpye: 0316598900-lehoanghien@ubot.vn-T9- No inv
+2022-10-06 13:49:21.969725 - K tpye: 0316723397-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 2
+2022-10-06 13:49:27.358191 - K tpye: 0316723397-lehoanghien@ubot.vn-T8- No inv
+2022-10-06 13:49:37.641924 - K tpye: 0316723397-lehoanghien@ubot.vn-T9- So hoa don tren TCT: 1
+2022-10-06 13:51:21.767699 - K tpye: 0311956694-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 16
+2022-10-06 13:51:42.614988 - K tpye: 0311956694-lehoanghien@ubot.vn-T8- So hoa don tren TCT: 12
+2022-10-06 13:57:07.096191 - K tpye: 0311956694-lehoanghien@ubot.vn-T9- So hoa don tren TCT: 4
+2022-10-06 13:57:26.746619 - K tpye: 0317391391-lehoanghien@ubot.vn-T7- No inv
+2022-10-06 13:57:36.342499 - K tpye: 0317391391-lehoanghien@ubot.vn-T8- No inv
+2022-10-06 13:59:59.191197 - K tpye: 0317391391-lehoanghien@ubot.vn-T9- So hoa don tren TCT: 1
+2022-10-06 14:00:22.023078 - K tpye: 0316184427-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 10
+2022-10-06 14:00:45.998809 - K tpye: 0316184427-lehoanghien@ubot.vn-T8- So hoa don tren TCT: 18
+2022-10-06 14:06:17.500972 - K tpye: 0316184427-lehoanghien@ubot.vn-T9- So hoa don tren TCT: 9
+2022-10-06 14:06:32.357699 - K tpye: 0312587150-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 7
+2022-10-06 14:07:04.806030 - K tpye: 0312587150-lehoanghien@ubot.vn-T8- So hoa don tren TCT: 10
+2022-10-06 14:07:25.010860 - K tpye: 0312587150-lehoanghien@ubot.vn-T9- So hoa don tren TCT: 3
+2022-10-06 14:09:08.760888 - K tpye: 0316365021-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 1
+2022-10-06 14:09:23.575931 - K tpye: 0316365021-lehoanghien@ubot.vn-T8- So hoa don tren TCT: 3
+2022-10-06 14:09:33.713847 - K tpye: 0316365021-lehoanghien@ubot.vn-T9- So hoa don tren TCT: 2
+2022-10-06 14:18:56.712420 - K tpye: 0316168337-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 1
+2022-10-06 14:19:02.952366 - K tpye: 0316168337-lehoanghien@ubot.vn-T8- So hoa don tren TCT: 2
+2022-10-06 14:25:36.910031 - K tpye: 0316168337-lehoanghien@ubot.vn-T9- No inv
+2022-10-06 14:26:42.413163 - K tpye: 0313817294-lehoanghien@ubot.vn-T7- So hoa don tren TCT: 4
+2022-10-06 14:26:58.335687 - K tpye: 0313817294-lehoanghien@ubot.vn-T8- No inv
+2022-10-06 14:32:24.549017 - K tpye: 0313817294-lehoanghien@ubot.vn-T9- No inv
+2022-10-06 14:32:40.380784 - K tpye: 0317284791-lehoanghien@ubot.vn-T7- No inv
+2022-10-06 14:32:47.175145 - K tpye: 0317284791-lehoanghien@ubot.vn-T8- No inv
+2022-10-06 14:32:56.422957 - K tpye: 0317284791-lehoanghien@ubot.vn-T9- No inv
