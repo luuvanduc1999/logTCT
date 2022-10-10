@@ -27,3 +27,4 @@
 2022-10-09 22:04:32.874162 - C tpye: 0110108461-minhnguyet86@ubot.vn-T10- No inv
 2022-10-09 22:06:28.571584 - C tpye: 0107072141-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 27
 2022-10-09 22:07:11.658577 - C tpye: 0109479165-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-10 09:51:12.420033 - C tpye: 0109379347-huongha@ubot.vn-T10- So hoa don tren TCT: 18
