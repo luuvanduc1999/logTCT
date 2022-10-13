@@ -62,3 +62,38 @@
 2022-10-13 04:37:43.887186 - C tpye: 0317394265-ngankt87@ubot.vn-T7- So hoa don tren TCT: 1
 2022-10-13 04:40:28.892172 - C tpye: 0317394265-ngankt87@ubot.vn-T8- So hoa don tren TCT: 11
 2022-10-13 04:42:54.371661 - C tpye: 0317394265-ngankt87@ubot.vn-T9- So hoa don tren TCT: 10
+
+  
+  
+2022-10-13 10:14:53.144197 - C tpye: 0314753332-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:15:00.531520 - K tpye: 0314753332-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:15:29.059608 - C tpye: 0301758647-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 33
+2022-10-13 10:15:55.632683 - K tpye: 0301758647-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 12
+2022-10-13 10:16:02.867374 - C tpye: 0301758647-004-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:16:13.656833 - K tpye: 0301758647-004-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:16:27.368053 - C tpye: 0301758647-002-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-13 10:16:38.072102 - K tpye: 0301758647-002-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-13 10:16:43.623307 - C tpye: 0309537248-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-13 10:16:48.233327 - K tpye: 0309537248-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:16:54.821722 - C tpye: 0309758705-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:17:02.305430 - K tpye: 0309758705-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:17:11.613538 - C tpye: 0309795009-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-13 10:17:28.861234 - K tpye: 0309795009-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:17:33.883641 - C tpye: 0315397133-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:17:39.905099 - K tpye: 0315397133-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:17:49.861429 - C tpye: 0304455489-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-13 10:17:56.414347 - K tpye: 0304455489-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:18:05.873311 - C tpye: 0306905221-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:18:14.442683 - K tpye: 0306905221-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:18:22.024462 - C tpye: 0306925884-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:18:30.256751 - K tpye: 0306925884-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:18:53.874877 - C tpye: 0314999897-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:19:00.278180 - K tpye: 0314999897-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:19:12.580131 - C tpye: 0314184220-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-13 10:19:21.195047 - K tpye: 0314184220-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:19:28.690655 - C tpye: 0316492654-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:19:34.129531 - K tpye: 0316492654-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:20:08.094734 - C tpye: 0316524497-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:20:17.847282 - K tpye: 0316524497-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:20:34.191667 - C tpye: 0316436875-U001-catthai@ubot.vn-T10- No inv
+2022-10-13 10:20:40.983182 - K tpye: 0316436875-U001-catthai@ubot.vn-T10- No inv
