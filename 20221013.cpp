@@ -137,6 +137,24 @@
 2022-10-13 21:52:03.719552 - K tpye: 0106609779-002-vnr@ubot.vn-T8- So hoa don tren TCT: 4
 2022-10-13 21:53:24.416105 - C tpye: 0106609779-002-vnr@ubot.vn-T9- So hoa don tren TCT: 26
 2022-10-13 21:53:36.393340 - K tpye: 0106609779-002-vnr@ubot.vn-T9- So hoa don tren TCT: 1
+  2022-10-14 10:16:18.317855 - C tpye: 0106609779-vnr@ubot.vn-T1- No inv
+2022-10-14 10:16:30.037187 - K tpye: 0106609779-vnr@ubot.vn-T1- So hoa don tren TCT: 1
+2022-10-14 10:16:47.366134 - C tpye: 0106609779-vnr@ubot.vn-T2- No inv
+2022-10-14 10:16:55.685337 - K tpye: 0106609779-vnr@ubot.vn-T2- So hoa don tren TCT: 1
+2022-10-14 10:17:08.629192 - C tpye: 0106609779-vnr@ubot.vn-T3- So hoa don tren TCT: 1
+2022-10-14 10:17:17.059537 - K tpye: 0106609779-vnr@ubot.vn-T3- So hoa don tren TCT: 1
+2022-10-14 10:17:25.109949 - C tpye: 0106609779-vnr@ubot.vn-T4- No inv
+2022-10-14 10:17:38.156579 - K tpye: 0106609779-vnr@ubot.vn-T4- So hoa don tren TCT: 7
+2022-10-14 10:17:43.848357 - C tpye: 0106609779-vnr@ubot.vn-T5- No inv
+2022-10-14 10:17:53.887269 - K tpye: 0106609779-vnr@ubot.vn-T5- So hoa don tren TCT: 4
+2022-10-14 10:18:01.085004 - C tpye: 0106609779-vnr@ubot.vn-T6- No inv
+2022-10-14 10:18:14.153765 - K tpye: 0106609779-vnr@ubot.vn-T6- So hoa don tren TCT: 12
+2022-10-14 10:18:27.795521 - C tpye: 0106609779-vnr@ubot.vn-T7- So hoa don tren TCT: 2
+2022-10-14 10:18:39.678503 - K tpye: 0106609779-vnr@ubot.vn-T7- So hoa don tren TCT: 11
+2022-10-14 10:18:48.335919 - C tpye: 0106609779-vnr@ubot.vn-T8- No inv
+2022-10-14 10:19:12.555574 - K tpye: 0106609779-vnr@ubot.vn-T8- So hoa don tren TCT: 12
+2022-10-14 10:19:21.368562 - C tpye: 0106609779-vnr@ubot.vn-T9- No inv
+2022-10-14 10:19:53.566766 - K tpye: 0106609779-vnr@ubot.vn-T9- So hoa don tren TCT: 2
 
 
 2022-10-13 23:08:05.546982 - C tpye: 0314753332-U001-catthai@ubot.vn-T10- No inv
