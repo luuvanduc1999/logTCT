@@ -358,3 +358,202 @@
 2022-10-23 21:53:32.356314 - C tpye: 1800156801-073-shp@ubot.vn-T10- So hoa don tren TCT: 52
 2022-10-23 21:53:42.879246 - K tpye: 1800156801-073-shp@ubot.vn-T10- So hoa don tren TCT: 2
 2022-10-23 22:01:20.008469 - C tpye: 1800156801-dhg@ubot.vn-T10- So hoa don tren TCT: 865
+2022-10-23 22:02:28.220058 - K tpye: 1800156801-dhg@ubot.vn-T10- So hoa don tren TCT: 71
+2022-10-23 22:02:44.548874 - C tpye: 1800156801-001-nan@ubot.vn-T10- So hoa don tren TCT: 27
+2022-10-23 22:02:57.999119 - K tpye: 1800156801-001-nan@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 22:03:45.174109 - C tpye: 1800156801-002-hue@ubot.vn-T10- So hoa don tren TCT: 36
+2022-10-23 22:04:09.133372 - K tpye: 1800156801-002-hue@ubot.vn-T10- So hoa don tren TCT: 31
+2022-10-23 22:04:43.197346 - C tpye: 1800156801-004-qni@ubot.vn-T10- So hoa don tren TCT: 39
+2022-10-23 22:04:59.299841 - K tpye: 1800156801-004-qni@ubot.vn-T10- So hoa don tren TCT: 16
+2022-10-23 22:05:22.554412 - C tpye: 1800156801-007-hpg@ubot.vn-T10- So hoa don tren TCT: 37
+2022-10-23 22:05:28.160710 - K tpye: 1800156801-007-hpg@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:06:30.865293 - C tpye: 1800156801-009-tbh@ubot.vn-T10- So hoa don tren TCT: 88
+2022-10-23 22:06:38.472413 - K tpye: 1800156801-009-tbh@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:07:17.605429 - C tpye: 1800156801-010-dtp@ubot.vn-T10- So hoa don tren TCT: 45
+2022-10-23 22:07:25.941816 - K tpye: 1800156801-010-dtp@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-23 22:08:37.801847 - C tpye: 1800156801-011-stp@ubot.vn-T10- So hoa don tren TCT: 89
+2022-10-23 22:08:50.860439 - K tpye: 1800156801-011-stp@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:09:42.086397 - C tpye: 1800156801-012-agp@ubot.vn-T10- So hoa don tren TCT: 70
+2022-10-23 22:09:58.970842 - K tpye: 1800156801-012-agp@ubot.vn-T10- So hoa don tren TCT: 20
+2022-10-23 22:10:29.942582 - C tpye: 1800156801-014-blp@ubot.vn-T10- So hoa don tren TCT: 48
+2022-10-23 22:10:45.876229 - K tpye: 1800156801-014-blp@ubot.vn-T10- So hoa don tren TCT: 12
+2022-10-23 22:11:24.054935 - C tpye: 1800156801-015-tgp@ubot.vn-T10- So hoa don tren TCT: 66
+2022-10-23 22:12:06.361467 - K tpye: 1800156801-015-tgp@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 22:12:29.540750 - C tpye: 1800156801-016-tvh@ubot.vn-T10- So hoa don tren TCT: 38
+2022-10-23 22:12:38.161175 - K tpye: 1800156801-016-tvh@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:13:03.772548 - C tpye: 1800156801-017-bte@ubot.vn-T10- So hoa don tren TCT: 44
+2022-10-23 22:13:15.661208 - K tpye: 1800156801-017-bte@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-23 22:13:49.336550 - C tpye: 1800156801-019-htp@ubot.vn-T10- So hoa don tren TCT: 52
+2022-10-23 22:14:01.798649 - K tpye: 1800156801-019-htp@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:14:42.333831 - C tpye: 1800156801-020-vlg@ubot.vn-T10- So hoa don tren TCT: 77
+2022-10-23 22:14:53.393258 - K tpye: 1800156801-020-vlg@ubot.vn-T10- So hoa don tren TCT: 12
+2022-10-23 22:15:56.707123 - C tpye: 1800156801-029-tot@ubot.vn-T10- So hoa don tren TCT: 107
+2022-10-23 22:16:09.103836 - K tpye: 1800156801-029-tot@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 22:17:11.165973 - C tpye: 1800156801-030-hcm@ubot.vn-T10- So hoa don tren TCT: 113
+2022-10-23 22:17:37.370694 - K tpye: 1800156801-030-hcm@ubot.vn-T10- So hoa don tren TCT: 29
+2022-10-23 22:18:23.634661 - C tpye: 1800156801-031-hni@ubot.vn-T10- So hoa don tren TCT: 73
+2022-10-23 22:18:39.695642 - K tpye: 1800156801-031-hni@ubot.vn-T10- So hoa don tren TCT: 15
+2022-10-23 22:19:28.584093 - C tpye: 1800156801-035-dni@ubot.vn-T10- So hoa don tren TCT: 99
+2022-10-23 22:19:35.643758 - K tpye: 1800156801-035-dni@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:20:08.372154 - C tpye: 1800156801-038-tnn@ubot.vn-T10- So hoa don tren TCT: 48
+2022-10-23 22:20:20.347022 - K tpye: 1800156801-038-tnn@ubot.vn-T10- So hoa don tren TCT: 12
+2022-10-23 22:20:50.032139 - C tpye: 1800156801-040-nbh@ubot.vn-T10- So hoa don tren TCT: 46
+2022-10-23 22:20:59.318909 - K tpye: 1800156801-040-nbh@ubot.vn-T10- No inv
+2022-10-23 22:22:00.732550 - C tpye: 1800156801-041-ntg@ubot.vn-T10- So hoa don tren TCT: 56
+2022-10-23 22:22:08.806521 - K tpye: 1800156801-041-ntg@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-23 22:22:37.792795 - C tpye: 1800156801-042-qnn@ubot.vn-T10- So hoa don tren TCT: 28
+2022-10-23 22:23:02.930339 - K tpye: 1800156801-042-qnn@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-23 22:23:43.546377 - C tpye: 1800156801-045-bdg@ubot.vn-T10- So hoa don tren TCT: 47
+2022-10-23 22:23:49.493447 - K tpye: 1800156801-045-bdg@ubot.vn-T10- No inv
+2022-10-23 22:24:11.480753 - C tpye: 1800156801-046-dlk@ubot.vn-T10- So hoa don tren TCT: 23
+2022-10-23 22:24:52.392776 - K tpye: 1800156801-046-dlk@ubot.vn-T10- So hoa don tren TCT: 17
+2022-10-23 22:25:31.957134 - C tpye: 1800156801-050-tha@ubot.vn-T10- So hoa don tren TCT: 61
+2022-10-23 22:25:44.161766 - K tpye: 1800156801-050-tha@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 22:26:16.033357 - C tpye: 1800156801-051-hdg@ubot.vn-T10- So hoa don tren TCT: 37
+2022-10-23 22:26:26.759723 - K tpye: 1800156801-051-hdg@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:27:16.752825 - C tpye: 1800156801-053-bnh@ubot.vn-T10- So hoa don tren TCT: 63
+2022-10-23 22:27:22.593574 - K tpye: 1800156801-053-bnh@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:27:57.832306 - C tpye: 1800156801-054-vpc@ubot.vn-T10- So hoa don tren TCT: 54
+2022-10-23 22:28:08.663799 - K tpye: 1800156801-054-vpc@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-23 22:28:38.597061 - C tpye: 1800156801-055-btn@ubot.vn-T10- So hoa don tren TCT: 36
+2022-10-23 22:28:46.349870 - K tpye: 1800156801-055-btn@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:29:27.139382 - C tpye: 1800156801-057-vtu@ubot.vn-T10- So hoa don tren TCT: 52
+2022-10-23 22:29:38.408756 - K tpye: 1800156801-057-vtu@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-23 22:30:04.749331 - C tpye: 1800156801-060-cmp@ubot.vn-T10- So hoa don tren TCT: 42
+2022-10-23 22:30:14.436934 - K tpye: 1800156801-060-cmp@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 22:30:56.141590 - C tpye: 1800156801-074-wh1@ubot.vn-T10- So hoa don tren TCT: 62
+2022-10-23 22:31:17.867800 - K tpye: 1800156801-074-wh1@ubot.vn-T10- No inv
+2022-10-23 22:31:48.117589 - C tpye: 1800156801-075-wh2@ubot.vn-T10- So hoa don tren TCT: 44
+2022-10-23 22:31:54.266484 - K tpye: 1800156801-075-wh2@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-23 22:32:38.868786 - C tpye: 1800156801-073-shp@ubot.vn-T10- So hoa don tren TCT: 52
+2022-10-23 22:32:45.739636 - K tpye: 1800156801-073-shp@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:32:57.593004 - C tpye: 0313379530-dhpp@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-23 22:33:06.912903 - K tpye: 0313379530-dhpp@ubot.vn-T10- No inv
+2022-10-23 22:33:15.603825 - C tpye: 0106541601-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:33:27.263914 - C tpye: 0108675424-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 10
+2022-10-23 22:33:41.998610 - C tpye: 0107949175-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 22:33:51.623110 - C tpye: 0108358898-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 22:33:59.889419 - C tpye: 0106504399-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:34:08.027476 - C tpye: 0104074849-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:34:21.026120 - C tpye: 0107449736-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 10
+2022-10-23 22:34:37.062171 - C tpye: 0108915034-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 17
+2022-10-23 22:34:46.547911 - C tpye: 0107525803-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:34:53.153331 - C tpye: 0109977227-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:35:00.609423 - C tpye: 0110108951-minhnguyet86@ubot.vn-T10- No inv
+2022-10-23 22:35:07.797887 - C tpye: 0110108461-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:35:24.382254 - C tpye: 0107072141-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 13
+2022-10-23 22:35:31.027448 - C tpye: 0109479165-minhnguyet86@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:35:56.714310 - C tpye: 0100113381-004-lixilvungtau@ubot.vn-T10- So hoa don tren TCT: 43
+2022-10-23 22:36:37.990457 - C tpye: 0100113381-009-lixilbinhduong@ubot.vn-T10- So hoa don tren TCT: 71
+2022-10-23 22:38:10.118476 - C tpye: 0100113381-lixilhanoi@ubot.vn-T10- So hoa don tren TCT: 200
+2022-10-23 22:44:23.791762 - C tpye: 0100113381-002-lixilhungyen@ubot.vn-T10- So hoa don tren TCT: 75
+2022-10-23 22:47:50.487471 - C tpye: 0100113381-003-lixilquangnam@ubot.vn-T10- So hoa don tren TCT: 60
+2022-10-23 22:48:12.436153 - C tpye: 2500580137-domovp@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-23 22:48:27.210364 - K tpye: 2500580137-domovp@ubot.vn-T10- No inv
+2022-10-23 22:48:53.134495 - C tpye: 2500508620-domovp@ubot.vn-T10- So hoa don tren TCT: 32
+2022-10-23 22:49:08.896487 - K tpye: 2500508620-domovp@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 22:49:21.415068 - C tpye: 2500592478-domovp@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 22:49:30.540388 - K tpye: 2500592478-domovp@ubot.vn-T10- No inv
+2022-10-23 22:49:39.894110 - C tpye: 1701898584-chiing@ubot.vn-T10- No inv
+2022-10-23 22:50:15.557840 - C tpye: 1702098439-chiing@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:50:26.884449 - C tpye: 0106609779-002-vnr@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-23 22:50:32.460419 - K tpye: 0106609779-002-vnr@ubot.vn-T10- No inv
+2022-10-23 22:50:41.697435 - C tpye: 0106609779-vnr@ubot.vn-T10- No inv
+2022-10-23 22:50:52.942783 - K tpye: 0106609779-vnr@ubot.vn-T10- No inv
+2022-10-23 22:51:05.765063 - C tpye: 0102282561-tinhocaz@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-23 22:51:12.529715 - K tpye: 0102282561-tinhocaz@ubot.vn-T10- No inv
+2022-10-23 22:51:25.145335 - C tpye: 0201972439-hantt@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-23 22:52:11.681468 - C tpye: 5100454687-minhhanh86tq@ubot.vn-T10- No inv
+2022-10-23 22:52:18.452085 - C tpye: 5100484402-minhhanh86tq@ubot.vn-T10- No inv
+2022-10-23 22:52:54.356557 - C tpye: 0108473996-okxe@ubot.vn-T10- So hoa don tren TCT: 29
+2022-10-23 22:53:11.577439 - K tpye: 0108473996-okxe@ubot.vn-T10- So hoa don tren TCT: 9
+2022-10-23 22:53:32.289857 - C tpye: 5801225798-giang@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 22:53:39.618808 - K tpye: 5801225798-giang@ubot.vn-T10- No inv
+2022-10-23 22:53:52.040212 - C tpye: 5801365435-giang@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:53:58.177212 - K tpye: 5801365435-giang@ubot.vn-T10- No inv
+2022-10-23 22:54:12.937394 - C tpye: 5801194042-giang@ubot.vn-T10- So hoa don tren TCT: 8
+2022-10-23 22:54:25.424712 - K tpye: 5801194042-giang@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 22:54:36.342263 - C tpye: 5800671013-giang@ubot.vn-T10- No inv
+2022-10-23 22:54:44.358099 - K tpye: 5800671013-giang@ubot.vn-T10- No inv
+2022-10-23 22:54:56.921151 - C tpye: 5801416351-giang@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 22:55:33.018574 - K tpye: 5801416351-giang@ubot.vn-T10- So hoa don tren TCT: 17
+2022-10-23 22:55:40.317056 - C tpye: 5801410776-giang@ubot.vn-T10- No inv
+2022-10-23 22:55:52.900107 - K tpye: 5801410776-giang@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 22:55:57.843339 - C tpye: 5801460343-giang@ubot.vn-T10- No inv
+2022-10-23 22:56:10.911430 - K tpye: 5801460343-giang@ubot.vn-T10- No inv
+2022-10-23 23:27:26.457846 - C tpye: 0100931299-005-bicbactrungbo@ubot.vn-T10- So hoa don tren TCT: 192
+2022-10-23 23:27:59.121342 - K tpye: 0100931299-005-bicbactrungbo@ubot.vn-T10- So hoa don tren TCT: 46
+2022-10-23 23:28:07.312461 - C tpye: 0315538546-phamanh@ubot.vn-T10- No inv
+2022-10-23 23:28:16.652610 - C tpye: 0305307564-phamanh@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:28:26.926264 - C tpye: 1000267277-hungmanh@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:28:38.451977 - K tpye: 1000267277-hungmanh@ubot.vn-T10- CreateItem.Send
+2022-10-23 23:28:56.702297 - C tpye: 0107818729-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-23 23:29:04.399899 - K tpye: 0107818729-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:29:26.826696 - C tpye: 0107019081-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 12
+2022-10-23 23:29:46.314516 - K tpye: 0107019081-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 17
+2022-10-23 23:29:56.750678 - C tpye: 2600944099-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-23 23:30:30.248091 - K tpye: 2600944099-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:30:39.065458 - C tpye: 0109219079-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:30:49.174804 - K tpye: 0109219079-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:30:59.903630 - C tpye: 0108131287-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:31:06.670367 - K tpye: 0108131287-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:31:15.568707 - C tpye: 0107551761-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:31:29.181717 - K tpye: 0107551761-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 23:31:37.960118 - C tpye: 0109079897-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-23 23:31:50.509130 - K tpye: 0109079897-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:33:07.957918 - C tpye: 0109088323-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-23 23:33:20.411921 - K tpye: 0109088323-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:33:28.676603 - C tpye: 0106593825-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:33:35.448513 - K tpye: 0106593825-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:33:46.282044 - C tpye: 0105015571-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-23 23:33:58.984340 - K tpye: 0105015571-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:34:20.576080 - C tpye: 0109218910-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:34:30.161918 - K tpye: 0109218910-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:34:49.401771 - C tpye: 0107644215-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:34:58.151072 - K tpye: 0107644215-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:35:08.799968 - C tpye: 0104989451-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:35:18.549808 - K tpye: 0104989451-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:35:28.562380 - C tpye: 0107462977-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:35:40.899433 - K tpye: 0107462977-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 23:36:18.954883 - C tpye: 0102018662-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:36:36.501933 - K tpye: 0102018662-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:37:23.793732 - C tpye: 0107482733-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:37:44.515489 - K tpye: 0107482733-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 14
+2022-10-23 23:38:15.159371 - C tpye: 0108229941-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-23 23:38:32.466867 - K tpye: 0108229941-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 10
+2022-10-23 23:38:37.665263 - C tpye: 0107711302-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:38:52.485797 - K tpye: 0107711302-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:39:08.006820 - C tpye: 0105929712-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 23:39:17.876769 - K tpye: 0105929712-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:39:29.485123 - C tpye: 0108409905-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-23 23:39:35.702272 - K tpye: 0108409905-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:39:48.515200 - C tpye: 0103713002-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-23 23:40:06.030052 - K tpye: 0103713002-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 23:40:16.794015 - C tpye: 0109111195-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:40:26.640489 - K tpye: 0109111195-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:40:47.842483 - C tpye: 2500581194-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:41:03.498992 - K tpye: 2500581194-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-23 23:41:15.109070 - C tpye: 0105249202-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-23 23:41:23.188815 - K tpye: 0105249202-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-23 23:41:31.850016 - C tpye: 0104906222-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:41:41.981584 - K tpye: 0104906222-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:41:57.845854 - C tpye: 0104215627-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:42:16.934860 - K tpye: 0104215627-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:42:23.902585 - C tpye: 0105993595-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:42:32.400326 - K tpye: 0105993595-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:42:42.558634 - C tpye: 0109155107-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:42:54.143059 - K tpye: 0109155107-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:43:03.280201 - C tpye: 0104598296-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:43:10.634619 - K tpye: 0104598296-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:43:16.836876 - C tpye: 0109187853-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:43:26.658289 - K tpye: 0109187853-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:43:36.292563 - C tpye: 0107630565-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:43:42.778303 - K tpye: 0107630565-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:44:22.543373 - C tpye: 0109577525-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-23 23:44:30.796275 - K tpye: 0109577525-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:44:38.863795 - C tpye: 0106505811-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:44:45.654744 - K tpye: 0106505811-dltvietphat@ubot.vn-T10- No inv
+2022-10-23 23:44:54.880203 - C tpye: 0105777280-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-23 23:45:05.569118 - K tpye: 0105777280-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-24 00:01:16.443748 - C tpye: 0108078393-dltvietphat@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-24 00:01:29.291637 - K tpye: 0108078393-dltvietphat@ubot.vn-T10- No inv
