@@ -1,0 +1,406 @@
+2022-10-25 09:10:56.725898 - C tpye: 0110079919-dzlbros@ubot.vn-T10- So hoa don tren TCT: 12
+2022-10-25 09:11:09.563939 - C tpye: 0109184299-dzlbros@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-25 09:11:24.432932 - C tpye: 0107550221-dzlbros@ubot.vn-T10- So hoa don tren TCT: 13
+2022-10-25 09:11:48.816730 - C tpye: 0109199898-dzlbros@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 09:30:40.685869 - SUCCESS - OUTPUT: 0105444838-T10- Excel co 22 hoa don, tai ve duoc 22 hoa don
+2022-10-25 09:31:13.508645 - ERROR - OUTPUT: 0106868540-T10- No inv
+2022-10-25 09:31:27.527186 - ERROR - OUTPUT: 0108389906-T10- No inv
+2022-10-25 09:31:35.052768 - ERROR - OUTPUT: 0201814520-T10- No inv
+2022-10-25 09:32:10.076671 - SUCCESS - OUTPUT: 0107933464-001-T10- Excel co 12 hoa don, tai ve duoc 12 hoa don
+2022-10-25 09:32:18.386316 - ERROR - OUTPUT: 0109798933-T10- No inv
+2022-10-25 09:32:36.997722 - ERROR - OUTPUT: 0108162207-T10- No inv
+2022-10-25 09:32:43.838463 - SUCCESS - OUTPUT: 0108371994-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:32:52.032301 - SUCCESS - OUTPUT: 2300937301-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 09:32:59.967891 - ERROR - OUTPUT: 2300945662-T10- No inv
+2022-10-25 09:33:22.194336 - SUCCESS - OUTPUT: 2500620492-T10- Excel co 9 hoa don, tai ve duoc 9 hoa don
+2022-10-25 09:33:53.009554 - SUCCESS - OUTPUT: 2300901545-T10- Excel co 7 hoa don, tai ve duoc 7 hoa don
+2022-10-25 09:34:50.249052 - SUCCESS - OUTPUT: 0106665678-T10- Excel co 40 hoa don, tai ve duoc 40 hoa don
+2022-10-25 09:34:59.424050 - SUCCESS - OUTPUT: 2400825376-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:35:25.263518 - SUCCESS - OUTPUT: 2400644595-001-T10- Excel co 12 hoa don, tai ve duoc 12 hoa don
+2022-10-25 09:35:51.922848 - SUCCESS - OUTPUT: 0107842658-T10- Excel co 16 hoa don, tai ve duoc 16 hoa don
+2022-10-25 09:35:59.665174 - ERROR - OUTPUT: 0108973068-T10- No inv
+2022-10-25 09:36:05.846132 - SUCCESS - OUTPUT: 0106509855-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:36:15.275559 - SUCCESS - OUTPUT: 0108388973-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:36:26.513294 - SUCCESS - OUTPUT: 0801092637-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:36:38.417890 - SUCCESS - OUTPUT: 2400940019-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:36:46.882170 - SUCCESS - OUTPUT: 0107953238-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:36:55.897364 - ERROR - OUTPUT: 0107963941-T10- No inv
+2022-10-25 09:37:00.385247 - ERROR - OUTPUT: 2300940255-T10- No inv
+2022-10-25 09:37:14.979083 - SUCCESS - OUTPUT: 2301053376-T10- Excel co 6 hoa don, tai ve duoc 6 hoa don
+2022-10-25 09:37:26.027852 - SUCCESS - OUTPUT: 2301109981-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 09:37:42.533333 - SUCCESS - OUTPUT: 2400762292-T10- Excel co 10 hoa don, tai ve duoc 10 hoa don
+2022-10-25 09:38:51.736599 - SUCCESS - OUTPUT: 2600882212-T10- Excel co 56 hoa don, tai ve duoc 56 hoa don
+2022-10-25 09:39:19.591046 - SUCCESS - OUTPUT: 0201617723-T10- Excel co 21 hoa don, tai ve duoc 21 hoa don
+2022-10-25 09:39:25.584002 - ERROR - OUTPUT: 2300834842-T10- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-25 09:39:33.178352 - ERROR - OUTPUT: 2400774770-T10- No inv
+2022-10-25 09:39:53.130707 - ERROR - OUTPUT: 2300747364-T10- No inv
+2022-10-25 09:40:51.992264 - SUCCESS - OUTPUT: 2300895387-T10- Excel co 41 hoa don, tai ve duoc 41 hoa don
+2022-10-25 09:41:38.455721 - SUCCESS - OUTPUT: 2700837220-T10- Excel co 14 hoa don, tai ve duoc 14 hoa don
+2022-10-25 09:42:08.469554 - SUCCESS - OUTPUT: 0700801485-T10- Excel co 17 hoa don, tai ve duoc 17 hoa don
+2022-10-25 09:42:37.633673 - SUCCESS - OUTPUT: 2300834867-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 09:42:53.303625 - SUCCESS - OUTPUT: 2400876162-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 09:43:09.503420 - SUCCESS - OUTPUT: 2300767963-T10- Excel co 7 hoa don, tai ve duoc 7 hoa don
+2022-10-25 09:43:33.368287 - SUCCESS - OUTPUT: 0202089561-T10- Excel co 15 hoa don, tai ve duoc 15 hoa don
+2022-10-25 09:44:16.394583 - SUCCESS - OUTPUT: 2300784165-T10- Excel co 9 hoa don, tai ve duoc 9 hoa don
+2022-10-25 09:44:24.908163 - ERROR - OUTPUT: 2300951754-T10- No inv
+2022-10-25 09:44:39.086617 - SUCCESS - OUTPUT: 4601165268-T10- Excel co 6 hoa don, tai ve duoc 6 hoa don
+2022-10-25 09:44:45.959130 - ERROR - OUTPUT: 0106948637-T10- No inv
+2022-10-25 09:44:53.612196 - ERROR - OUTPUT: 2301057902-T10- No inv
+2022-10-25 09:45:03.454753 - ERROR - OUTPUT: 2400709563-T10- No inv
+2022-10-25 09:45:15.455522 - SUCCESS - OUTPUT: 2500587485-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:45:26.206616 - SUCCESS - OUTPUT: 0700259047-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 09:45:34.565202 - SUCCESS - OUTPUT: 2300902891-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 09:45:50.385345 - ERROR - OUTPUT: 2400740323-T10- No inv
+2022-10-25 09:46:08.585731 - SUCCESS - OUTPUT: 2500585512-T10- Excel co 9 hoa don, tai ve duoc 9 hoa don
+2022-10-25 09:46:30.528769 - SUCCESS - OUTPUT: 2601037551-T10- Excel co 9 hoa don, tai ve duoc 9 hoa don
+2022-10-25 09:50:36.437611 - SUCCESS - OUTPUT: 0105945224-T10- Excel co 214 hoa don, tai ve duoc 214 hoa don
+2022-10-25 09:50:49.457812 - SUCCESS - OUTPUT: 0108534776-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 09:51:39.140886 - SUCCESS - OUTPUT: 0109008166-T10- Excel co 43 hoa don, tai ve duoc 43 hoa don
+2022-10-25 09:51:50.799560 - SUCCESS - OUTPUT: 2500623609-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 09:52:08.614057 - SUCCESS - OUTPUT: 0801312434-T10- Excel co 7 hoa don, tai ve duoc 7 hoa don
+2022-10-25 09:52:28.035150 - SUCCESS - OUTPUT: 2300836342-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 09:52:36.049047 - ERROR - OUTPUT: 2300898684-T10- No inv
+2022-10-25 09:52:50.617170 - ERROR - OUTPUT: 2300990048-T10- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-25 09:53:01.222102 - SUCCESS - OUTPUT: 0109961675-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:53:27.452008 - SUCCESS - OUTPUT: 0801036706-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 09:53:36.199783 - ERROR - OUTPUT: 5702037673-T10- No inv
+2022-10-25 09:54:41.698860 - SUCCESS - OUTPUT: 2300848122-T10- Excel co 45 hoa don, tai ve duoc 45 hoa don
+2022-10-25 09:54:51.281565 - ERROR - OUTPUT: 0102246108-T10- No inv
+2022-10-25 09:55:00.716192 - SUCCESS - OUTPUT: 2300898130-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:55:09.584773 - ERROR - OUTPUT: 2400897902-T10- No inv
+2022-10-25 09:55:20.906124 - ERROR - OUTPUT: 0106363405-T10- No inv
+2022-10-25 09:55:29.288359 - ERROR - OUTPUT: 0700857921-T10- No inv
+2022-10-25 09:55:43.456284 - SUCCESS - OUTPUT: 0800918159-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 09:55:49.754549 - ERROR - OUTPUT: 2300990023-T10- No inv
+2022-10-25 09:55:59.043820 - SUCCESS - OUTPUT: 2301081077-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:56:20.464171 - SUCCESS - OUTPUT: 0700732009-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 09:56:31.211792 - SUCCESS - OUTPUT: 2300928635-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 09:56:38.900292 - ERROR - OUTPUT: 2300971126-T10- No inv
+2022-10-25 09:56:57.481043 - SUCCESS - OUTPUT: 4601586467-T10- Excel co 7 hoa don, tai ve duoc 7 hoa don
+2022-10-25 09:57:30.322653 - SUCCESS - OUTPUT: 0901009921-T10- Excel co 24 hoa don, tai ve duoc 24 hoa don
+2022-10-25 09:57:49.783745 - SUCCESS - OUTPUT: 2301032136-T10- Excel co 11 hoa don, tai ve duoc 11 hoa don
+2022-10-25 09:57:57.304725 - ERROR - OUTPUT: 2400829194-T10- No inv
+2022-10-25 09:58:06.599926 - ERROR - OUTPUT: 2601032049-T10- No inv
+2022-10-25 09:58:13.239515 - ERROR - OUTPUT: 0104749185-T10- No inv
+2022-10-25 09:58:20.336679 - ERROR - OUTPUT: 0107724887-T10- No inv
+2022-10-25 09:58:35.564803 - ERROR - OUTPUT: 0108437035-T10- No inv
+2022-10-25 09:58:46.008799 - ERROR - OUTPUT: 2301080059-T10- No inv
+2022-10-25 09:59:02.655186 - SUCCESS - OUTPUT: 2400644595-T10- Excel co 9 hoa don, tai ve duoc 9 hoa don
+2022-10-25 09:59:18.394263 - SUCCESS - OUTPUT: 0107571246-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 09:59:31.710531 - SUCCESS - OUTPUT: 0700798384-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 09:59:39.721275 - ERROR - OUTPUT: 0700851045-T10- No inv
+2022-10-25 10:00:25.871528 - SUCCESS - OUTPUT: 2500589429-T10- Excel co 31 hoa don, tai ve duoc 31 hoa don
+2022-10-25 10:00:42.523142 - SUCCESS - OUTPUT: 0106783128-T10- Excel co 8 hoa don, tai ve duoc 8 hoa don
+2022-10-25 10:01:00.675906 - SUCCESS - OUTPUT: 0201880001-T10- Excel co 13 hoa don, tai ve duoc 13 hoa don
+2022-10-25 10:01:11.238389 - SUCCESS - OUTPUT: 2400774788-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 10:01:22.809721 - SUCCESS - OUTPUT: 0108168262-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 10:02:24.252932 - SUCCESS - OUTPUT: 0108897956-T10- Excel co 42 hoa don, tai ve duoc 42 hoa don
+2022-10-25 10:02:50.938019 - SUCCESS - OUTPUT: 0201890049-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 10:03:18.534729 - SUCCESS - OUTPUT: 0900286256-T10- Excel co 18 hoa don, tai ve duoc 18 hoa don
+2022-10-25 10:03:50.721469 - SUCCESS - OUTPUT: 0108567919-T10- Excel co 24 hoa don, tai ve duoc 24 hoa don
+2022-10-25 10:04:07.194072 - SUCCESS - OUTPUT: 0108712556-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 10:04:14.417568 - ERROR - OUTPUT: 2500514504-T10- No inv
+2022-10-25 10:04:45.865587 - SUCCESS - OUTPUT: 2700901187-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 10:05:02.686551 - SUCCESS - OUTPUT: 0108087013-T10- Excel co 9 hoa don, tai ve duoc 9 hoa don
+2022-10-25 10:05:11.492595 - SUCCESS - OUTPUT: 0108180710-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 10:05:25.664033 - SUCCESS - OUTPUT: 0801219932-T10- Excel co 7 hoa don, tai ve duoc 7 hoa don
+2022-10-25 10:05:47.794981 - SUCCESS - OUTPUT: 2400879974-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 10:06:21.377140 - SUCCESS - OUTPUT: 2600971328-T10- Excel co 18 hoa don, tai ve duoc 18 hoa don
+2022-10-25 10:06:48.049111 - SUCCESS - OUTPUT: 0201713843-T10- Excel co 19 hoa don, tai ve duoc 19 hoa don
+2022-10-25 10:07:19.585063 - SUCCESS - OUTPUT: 0700809357-T10- Excel co 21 hoa don, tai ve duoc 21 hoa don
+2022-10-25 10:07:28.901780 - SUCCESS - OUTPUT: 2400824950-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 10:07:49.377061 - SUCCESS - OUTPUT: 2500624345-T10- Excel co 10 hoa don, tai ve duoc 10 hoa don
+2022-10-25 10:07:56.669603 - ERROR - OUTPUT: 0201880001-001-T10- No inv
+2022-10-25 10:08:13.188854 - SUCCESS - OUTPUT: 2300643446-T10- Excel co 7 hoa don, tai ve duoc 7 hoa don
+2022-10-25 10:09:04.906279 - SUCCESS - OUTPUT: 2300895387-T10- Excel co 41 hoa don, tai ve duoc 41 hoa don
+2022-10-25 10:09:19.723720 - ERROR - OUTPUT: 2301057902-T10- No inv
+2022-10-25 10:09:30.766565 - SUCCESS - OUTPUT: 2500587485-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 10:09:45.876723 - ERROR - OUTPUT: 2300990048-T10- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-25 10:09:54.872842 - ERROR - OUTPUT: 2301080059-T10- No inv
+2022-10-25 10:10:19.967714 - SUCCESS - OUTPUT: 2400644595-T10- Excel co 9 hoa don, tai ve duoc 9 hoa don
+2022-10-25 18:30:36.245375 - C tpye: 0106571123-vuvan@ubot.vn-T1- No inv
+2022-10-25 18:30:42.769790 - K tpye: 0106571123-vuvan@ubot.vn-T1- No inv
+2022-10-25 18:30:47.791841 - C tpye: 0106571123-vuvan@ubot.vn-T2- No inv
+2022-10-25 18:32:30.620788 - K tpye: 0106571123-vuvan@ubot.vn-T2- ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2022-10-25 18:32:43.898666 - C tpye: 0106571123-vuvan@ubot.vn-T3- So hoa don tren TCT: 16
+2022-10-25 18:33:04.441303 - K tpye: 0106571123-vuvan@ubot.vn-T3- So hoa don tren TCT: 2
+2022-10-25 18:33:12.937021 - C tpye: 0106571123-vuvan@ubot.vn-T4- So hoa don tren TCT: 15
+2022-10-25 18:33:22.697685 - K tpye: 0106571123-vuvan@ubot.vn-T4- So hoa don tren TCT: 4
+2022-10-25 18:33:34.171565 - C tpye: 0106571123-vuvan@ubot.vn-T5- So hoa don tren TCT: 19
+2022-10-25 18:33:43.204651 - K tpye: 0106571123-vuvan@ubot.vn-T5- So hoa don tren TCT: 4
+2022-10-25 18:33:54.938642 - C tpye: 0106571123-vuvan@ubot.vn-T6- So hoa don tren TCT: 9
+2022-10-25 18:34:03.781027 - K tpye: 0106571123-vuvan@ubot.vn-T6- So hoa don tren TCT: 5
+2022-10-25 18:34:11.428372 - C tpye: 0106571123-vuvan@ubot.vn-T7- So hoa don tren TCT: 3
+2022-10-25 18:34:20.714082 - K tpye: 0106571123-vuvan@ubot.vn-T7- So hoa don tren TCT: 9
+2022-10-25 18:34:26.060326 - C tpye: 0106571123-vuvan@ubot.vn-T8- So hoa don tren TCT: 5
+2022-10-25 18:35:04.533474 - K tpye: 0106571123-vuvan@ubot.vn-T8- So hoa don tren TCT: 16
+2022-10-25 18:35:11.669006 - C tpye: 0106571123-vuvan@ubot.vn-T9- So hoa don tren TCT: 8
+2022-10-25 18:35:19.991156 - K tpye: 0106571123-vuvan@ubot.vn-T9- So hoa don tren TCT: 15
+2022-10-25 18:35:26.517107 - C tpye: 0106571123-vuvan@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-25 18:35:36.197633 - K tpye: 0106571123-vuvan@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 18:35:49.315735 - C tpye: 0109294703-lachongthai@ubot.vn-T7- So hoa don tren TCT: 23
+2022-10-25 18:36:01.584315 - K tpye: 0109294703-lachongthai@ubot.vn-T7- So hoa don tren TCT: 21
+2022-10-25 18:36:14.821921 - C tpye: 0109294703-lachongthai@ubot.vn-T8- So hoa don tren TCT: 26
+2022-10-25 18:36:23.470773 - K tpye: 0109294703-lachongthai@ubot.vn-T8- So hoa don tren TCT: 23
+2022-10-25 18:36:37.583830 - C tpye: 0109294703-lachongthai@ubot.vn-T9- So hoa don tren TCT: 42
+2022-10-25 18:36:48.537930 - K tpye: 0109294703-lachongthai@ubot.vn-T9- So hoa don tren TCT: 30
+2022-10-25 22:10:16.502487 - C tpye: 0314753332-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:10:45.384811 - K tpye: 0314753332-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:11:16.101884 - C tpye: 0301758647-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 57
+2022-10-25 22:11:33.110771 - K tpye: 0301758647-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 21
+2022-10-25 22:11:40.654118 - C tpye: 0301758647-004-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:11:48.509314 - K tpye: 0301758647-004-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:11:56.491518 - C tpye: 0301758647-002-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:12:05.482493 - K tpye: 0301758647-002-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:12:17.996412 - C tpye: 0309537248-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:12:37.595441 - K tpye: 0309537248-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:12:45.887778 - C tpye: 0309758705-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:13:07.244922 - K tpye: 0309758705-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:13:19.929140 - C tpye: 0309795009-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-25 22:13:24.493870 - K tpye: 0309795009-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:13:30.719104 - C tpye: 0315397133-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:13:40.719145 - K tpye: 0315397133-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:13:50.944545 - C tpye: 0304455489-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:14:00.694408 - K tpye: 0304455489-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:14:08.811628 - C tpye: 0306905221-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:14:16.982610 - K tpye: 0306905221-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:14:24.966748 - C tpye: 0306925884-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:14:54.897449 - K tpye: 0306925884-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:15:14.482072 - C tpye: 0314999897-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:15:22.519380 - K tpye: 0314999897-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:15:40.809588 - C tpye: 0314184220-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 11
+2022-10-25 22:15:47.035757 - K tpye: 0314184220-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:15:55.656431 - C tpye: 0316492654-U001-catthai@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:16:04.908927 - K tpye: 0316492654-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:16:14.172942 - C tpye: 0316524497-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:16:26.645961 - K tpye: 0316524497-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:16:34.618063 - C tpye: 0316436875-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:16:41.286315 - K tpye: 0316436875-U001-catthai@ubot.vn-T10- No inv
+2022-10-25 22:16:48.455750 - C tpye: 0105444838-daiha1@ubot.vn-T10- No inv
+2022-10-25 22:16:55.009571 - C tpye: 0106868540-daiha1@ubot.vn-T10- No inv
+2022-10-25 22:17:05.688349 - C tpye: 0108389906-daiha1@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:17:22.607392 - C tpye: 0201814520-daiha1@ubot.vn-T10- No inv
+2022-10-25 22:17:29.962248 - C tpye: 0107933464-001-daiha1@ubot.vn-T10- No inv
+2022-10-25 22:17:36.838833 - C tpye: 0109798933-daiha1@ubot.vn-T10- No inv
+2022-10-25 22:17:49.905070 - C tpye: 0108162207-daiha2@ubot.vn-T10- So hoa don tren TCT: 11
+2022-10-25 22:17:57.875870 - C tpye: 0108371994-daiha2@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:18:20.267304 - C tpye: 2300937301-daiha2@ubot.vn-T10- So hoa don tren TCT: 17
+2022-10-25 22:18:29.706645 - C tpye: 2300945662-daiha2@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:18:38.423529 - C tpye: 2500620492-daiha2@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:19:02.312663 - C tpye: 2300901545-daiha29@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-25 22:19:12.490329 - C tpye: 0106665678-daiha3@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:19:20.075447 - C tpye: 2400825376-daiha3@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:19:31.105675 - C tpye: 2400644595-001-daiha3@ubot.vn-T10- So hoa don tren TCT: 11
+2022-10-25 22:20:16.264787 - C tpye: 0107842658-daiha4@ubot.vn-T10- So hoa don tren TCT: 46
+2022-10-25 22:20:33.942989 - C tpye: 0108973068-daiha4@ubot.vn-T10- No inv
+2022-10-25 22:20:40.691017 - C tpye: 0106509855-daiha6@ubot.vn-T10- No inv
+2022-10-25 22:20:52.675224 - C tpye: 0108388973-daiha6@ubot.vn-T10- No inv
+2022-10-25 22:21:00.942574 - C tpye: 0801092637-daiha6@ubot.vn-T10- No inv
+2022-10-25 22:21:09.752027 - C tpye: 2400940019-daiha6@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:21:26.376579 - C tpye: 0107953238-daiha7@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:21:35.010164 - C tpye: 0107963941-daiha7@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:21:45.880034 - C tpye: 2300940255-daiha7@ubot.vn-T10- No inv
+2022-10-25 22:21:57.127847 - C tpye: 2301053376-daiha8@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:22:32.558735 - C tpye: 2301109981-daiha8@ubot.vn-T10- So hoa don tren TCT: 8
+2022-10-25 22:22:49.918599 - C tpye: 2400762292-daiha8@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:23:38.768135 - C tpye: 2600882212-daiha8@ubot.vn-T10- So hoa don tren TCT: 18
+2022-10-25 22:23:46.388178 - C tpye: 0201617723-daiha9@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:23:58.195889 - C tpye: 2300834842-daiha9@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-25 22:24:07.135180 - C tpye: 2400774770-daiha9@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:24:13.648527 - C tpye: 2300747364-daiha10@ubot.vn-T10- No inv
+2022-10-25 22:24:41.166166 - C tpye: 2300895387-daiha10@ubot.vn-T10- So hoa don tren TCT: 13
+2022-10-25 22:24:51.881952 - C tpye: 2700837220-daiha10@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:25:01.045906 - C tpye: 0700801485-daiha11@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:25:12.030605 - C tpye: 2300834867-daiha11@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:25:21.469297 - C tpye: 2400876162-daiha11@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-25 22:25:43.475598 - C tpye: 2300767963-daiha11@ubot.vn-T10- So hoa don tren TCT: 8
+2022-10-25 22:25:54.626236 - C tpye: 0202089561-daiha12@ubot.vn-T10- So hoa don tren TCT: 12
+2022-10-25 22:26:07.115587 - C tpye: 2300784165-daiha12@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:26:12.764491 - C tpye: 2300951754-daiha12@ubot.vn-T10- No inv
+2022-10-25 22:26:29.143863 - C tpye: 4601165268-daiha12@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-25 22:26:41.936988 - C tpye: 0106948637-daiha13@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:26:54.619442 - C tpye: 2301057902-daiha13@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:27:51.816663 - C tpye: 2400709563-daiha13@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:28:00.694067 - C tpye: 2500587485-daiha13@ubot.vn-T10- No inv
+2022-10-25 22:28:08.243826 - C tpye: 0700259047-daiha14@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:28:33.870310 - C tpye: 2300902891-daiha14@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:28:44.224520 - C tpye: 2400740323-daiha14@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:28:53.538687 - C tpye: 2500585512-daiha14@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:29:03.812118 - C tpye: 2601037551-daiha14@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:29:25.174096 - C tpye: 0105945224-daiha15@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:29:38.874057 - C tpye: 0108534776-daiha15@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:29:45.637860 - C tpye: 0109008166-daiha15@ubot.vn-T10- No inv
+2022-10-25 22:29:54.006980 - C tpye: 2500623609-daiha15@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:30:03.255380 - C tpye: 0801312434-daiha16@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:30:13.322515 - C tpye: 2300836342-daiha16@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-25 22:30:23.111585 - C tpye: 2300898684-daiha16@ubot.vn-T10- No inv
+2022-10-25 22:31:00.246641 - C tpye: 2300990048-daiha16@ubot.vn-T10- So hoa don tren TCT: 11
+2022-10-25 22:31:08.764528 - C tpye: 0109961675-daiha17@ubot.vn-T10- No inv
+2022-10-25 22:31:17.956172 - C tpye: 0801036706-daiha17@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:31:24.486485 - C tpye: 5702037673-daiha17@ubot.vn-T10- No inv
+2022-10-25 22:31:36.889732 - C tpye: 2300848122-daiha17@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-25 22:31:41.925368 - C tpye: 0102246108-daiha28@ubot.vn-T10- No inv
+2022-10-25 22:32:00.708227 - C tpye: 2300898130-daiha28@ubot.vn-T10- No inv
+2022-10-25 22:32:09.745980 - C tpye: 2400897902-daiha28@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:32:25.134474 - C tpye: 0106363405-daiha19@ubot.vn-T10- So hoa don tren TCT: 8
+2022-10-25 22:32:38.083138 - C tpye: 0700857921-daiha19@ubot.vn-T10- So hoa don tren TCT: 10
+2022-10-25 22:32:44.767913 - C tpye: 0800918159-daiha19@ubot.vn-T10- No inv
+2022-10-25 22:32:57.261904 - C tpye: 2300990023-daiha19@ubot.vn-T10- No inv
+2022-10-25 22:33:12.995948 - C tpye: 2301081077-daiha19@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:33:27.337310 - C tpye: 0700732009-daiha20@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-25 22:33:34.212785 - C tpye: 2300928635-daiha21@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:33:41.941281 - C tpye: 2300971126-daiha21@ubot.vn-T10- No inv
+2022-10-25 22:33:53.482160 - C tpye: 4601586467-daiha21@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-25 22:34:03.109428 - C tpye: 0901009921-daiha22@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:34:15.432351 - C tpye: 2301032136-daiha22@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:34:46.081767 - C tpye: 2400829194-daiha22@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:34:55.611959 - C tpye: 2601032049-daiha22@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:35:12.102286 - C tpye: 0104749185-daiha23@ubot.vn-T10- No inv
+2022-10-25 22:35:20.213411 - C tpye: 0107724887-daiha23@ubot.vn-T10- No inv
+2022-10-25 22:35:34.118185 - C tpye: 0108437035-daiha23@ubot.vn-T10- No inv
+2022-10-25 22:35:50.622164 - C tpye: 2301080059-daiha23@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:36:22.409288 - C tpye: 2400644595-daiha23@ubot.vn-T10- So hoa don tren TCT: 58
+2022-10-25 22:36:34.160635 - C tpye: 0107571246-daiha24@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:36:41.232791 - C tpye: 0700798384-daiha24@ubot.vn-T10- So hoa don tren TCT: 2
+2022-10-25 22:36:51.185256 - C tpye: 0700851045-daiha24@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:37:17.954987 - C tpye: 2500589429-daiha24@ubot.vn-T10- So hoa don tren TCT: 23
+2022-10-25 22:37:48.134334 - C tpye: 0106783128-daiha25@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:37:57.588573 - C tpye: 0201880001-001-daiha25@ubot.vn-T10- No inv
+2022-10-25 22:38:05.038413 - C tpye: 0201880001-daiha25@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:38:11.550316 - C tpye: 2400774788-daiha25@ubot.vn-T10- No inv
+2022-10-25 22:38:21.003374 - C tpye: 0108168262-daiha26@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:38:33.017180 - C tpye: 0108897956-daiha26@ubot.vn-T10- So hoa don tren TCT: 13
+2022-10-25 22:38:46.363103 - C tpye: 0201890049-daiha26@ubot.vn-T10- So hoa don tren TCT: 6
+2022-10-25 22:38:55.898891 - C tpye: 0900286256-daiha26@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:39:06.400854 - C tpye: 0108567919-daiha27@ubot.vn-T10- So hoa don tren TCT: 3
+2022-10-25 22:39:17.098731 - C tpye: 0108712556-daiha27@ubot.vn-T10- No inv
+2022-10-25 22:39:25.721205 - C tpye: 2500514504-daiha27@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:39:37.996651 - C tpye: 2700901187-daiha27@ubot.vn-T10- So hoa don tren TCT: 8
+2022-10-25 22:40:09.932324 - C tpye: 0108087013-daiha18@ubot.vn-T10- So hoa don tren TCT: 51
+2022-10-25 22:40:20.752551 - C tpye: 0108180710-daiha18@ubot.vn-T10- So hoa don tren TCT: 7
+2022-10-25 22:40:30.254596 - C tpye: 0801219932-daiha18@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:40:59.750913 - C tpye: 2400879974-daiha18@ubot.vn-T10- No inv
+2022-10-25 22:41:16.870738 - C tpye: 2600971328-daiha18@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:41:47.196243 - C tpye: 0201713843-daiha5@ubot.vn-T10- So hoa don tren TCT: 16
+2022-10-25 22:41:57.998825 - C tpye: 0700809357-daiha5@ubot.vn-T10- So hoa don tren TCT: 5
+2022-10-25 22:42:04.453335 - C tpye: 2400824950-daiha5@ubot.vn-T10- So hoa don tren TCT: 1
+2022-10-25 22:42:13.837161 - C tpye: 2500624345-daiha5@ubot.vn-T10- So hoa don tren TCT: 4
+2022-10-25 22:42:25.622246 - C tpye: 2300643446-daiha@ubot.vn-T10- So hoa don tren TCT: 10
+2022-10-25 22:42:35.294043 - C tpye: 4201560993-Otosaomaianh@ubot.vn-T10- So hoa don tren TCT: 8
+2022-10-25 22:42:53.667797 - K tpye: 4201560993-Otosaomaianh@ubot.vn-T10- So hoa don tren TCT: 28
+2022-10-25 22:59:05.161526 - ERROR - OUTPUT: 0105444838-T10- No inv
+2022-10-25 22:59:12.967469 - ERROR - OUTPUT: 0106868540-T10- No inv
+2022-10-25 22:59:17.811481 - ERROR - OUTPUT: 0108389906-T10- No inv
+2022-10-25 22:59:24.192738 - ERROR - OUTPUT: 0201814520-T10- No inv
+2022-10-25 22:59:42.735987 - ERROR - OUTPUT: 0107933464-001-T10- No inv
+2022-10-25 22:59:53.339908 - ERROR - OUTPUT: 0109798933-T10- No inv
+2022-10-25 23:00:01.179979 - ERROR - OUTPUT: 0108162207-T10- No inv
+2022-10-25 23:00:17.025500 - SUCCESS - OUTPUT: 0108371994-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:00:27.825176 - ERROR - OUTPUT: 2300937301-T10- No inv
+2022-10-25 23:00:34.399342 - ERROR - OUTPUT: 2300945662-T10- No inv
+2022-10-25 23:00:43.357963 - SUCCESS - OUTPUT: 2500620492-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:01:23.678527 - SUCCESS - OUTPUT: 2300901545-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 23:01:30.475521 - SUCCESS - OUTPUT: 0106665678-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:01:39.719280 - ERROR - OUTPUT: 2400825376-T10- No inv
+2022-10-25 23:01:53.305086 - SUCCESS - OUTPUT: 2400644595-001-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 23:02:09.485292 - SUCCESS - OUTPUT: 0107842658-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 23:02:18.143140 - ERROR - OUTPUT: 0108973068-T10- No inv
+2022-10-25 23:02:28.473266 - ERROR - OUTPUT: 0106509855-T10- No inv
+2022-10-25 23:02:44.866018 - ERROR - OUTPUT: 0108388973-T10- No inv
+2022-10-25 23:03:02.083097 - SUCCESS - OUTPUT: 0801092637-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:03:07.452178 - ERROR - OUTPUT: 2400940019-T10- No inv
+2022-10-25 23:03:16.309089 - ERROR - OUTPUT: 0107953238-T10- No inv
+2022-10-25 23:03:22.465262 - ERROR - OUTPUT: 0107963941-T10- No inv
+2022-10-25 23:03:27.521526 - ERROR - OUTPUT: 2300940255-T10- No inv
+2022-10-25 23:03:32.670825 - ERROR - OUTPUT: 2301053376-T10- No inv
+2022-10-25 23:03:40.900577 - ERROR - OUTPUT: 2301109981-T10- No inv
+2022-10-25 23:04:00.983811 - SUCCESS - OUTPUT: 2400762292-T10- Excel co 12 hoa don, tai ve duoc 12 hoa don
+2022-10-25 23:04:17.072269 - SUCCESS - OUTPUT: 2600882212-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 23:04:28.924264 - SUCCESS - OUTPUT: 0201617723-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 23:04:34.897585 - ERROR - OUTPUT: 2300834842-T10- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-25 23:04:41.542219 - ERROR - OUTPUT: 2400774770-T10- No inv
+2022-10-25 23:04:50.587455 - ERROR - OUTPUT: 2300747364-T10- No inv
+2022-10-25 23:05:07.085789 - ERROR - OUTPUT: 2300895387-T10- No inv
+2022-10-25 23:05:13.560531 - SUCCESS - OUTPUT: 2700837220-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:06:15.690343 - SUCCESS - OUTPUT: 0700801485-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 23:06:22.001605 - ERROR - OUTPUT: 2300834867-T10- No inv
+2022-10-25 23:06:30.691380 - ERROR - OUTPUT: 2400876162-T10- No inv
+2022-10-25 23:06:39.232894 - ERROR - OUTPUT: 2300767963-T10- No inv
+2022-10-25 23:06:51.314354 - SUCCESS - OUTPUT: 0202089561-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:07:07.201079 - SUCCESS - OUTPUT: 2300784165-T10- Excel co 6 hoa don, tai ve duoc 6 hoa don
+2022-10-25 23:07:19.105036 - ERROR - OUTPUT: 2300951754-T10- No inv
+2022-10-25 23:07:24.610252 - ERROR - OUTPUT: 4601165268-T10- No inv
+2022-10-25 23:07:43.486900 - ERROR - OUTPUT: 0106948637-T10- No inv
+2022-10-25 23:07:52.852154 - ERROR - OUTPUT: 2301057902-T10- No inv
+2022-10-25 23:08:00.620412 - ERROR - OUTPUT: 2400709563-T10- No inv
+2022-10-25 23:08:07.615442 - ERROR - OUTPUT: 2500587485-T10- No inv
+2022-10-25 23:08:31.749969 - ERROR - OUTPUT: 0700259047-T10- No inv
+2022-10-25 23:08:44.288716 - SUCCESS - OUTPUT: 2300902891-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:08:56.427724 - ERROR - OUTPUT: 2400740323-T10- No inv
+2022-10-25 23:09:05.847672 - ERROR - OUTPUT: 2500585512-T10- No inv
+2022-10-25 23:09:12.604935 - ERROR - OUTPUT: 2601037551-T10- No inv
+2022-10-25 23:09:57.639251 - SUCCESS - OUTPUT: 0105945224-T10- Excel co 20 hoa don, tai ve duoc 20 hoa don
+2022-10-25 23:10:05.640829 - ERROR - OUTPUT: 0108534776-T10- No inv
+2022-10-25 23:10:25.197182 - SUCCESS - OUTPUT: 0109008166-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 23:10:37.913205 - SUCCESS - OUTPUT: 2500623609-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:10:47.580646 - SUCCESS - OUTPUT: 0801312434-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:10:58.009866 - SUCCESS - OUTPUT: 2300836342-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 23:11:05.721968 - ERROR - OUTPUT: 2300898684-T10- No inv
+2022-10-25 23:11:23.122247 - ERROR - OUTPUT: 2300990048-T10- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-25 23:11:43.016225 - ERROR - OUTPUT: 0109961675-T10- No inv
+2022-10-25 23:12:04.703269 - ERROR - OUTPUT: 0801036706-T10- No inv
+2022-10-25 23:12:09.648285 - ERROR - OUTPUT: 5702037673-T10- No inv
+2022-10-25 23:12:25.955345 - SUCCESS - OUTPUT: 2300848122-T10- Excel co 6 hoa don, tai ve duoc 6 hoa don
+2022-10-25 23:12:33.817825 - ERROR - OUTPUT: 0102246108-T10- No inv
+2022-10-25 23:12:44.365869 - SUCCESS - OUTPUT: 2300898130-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:12:59.088757 - SUCCESS - OUTPUT: 2400897902-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 23:13:05.373483 - ERROR - OUTPUT: 0106363405-T10- No inv
+2022-10-25 23:13:11.989139 - ERROR - OUTPUT: 0700857921-T10- No inv
+2022-10-25 23:13:23.966066 - ERROR - OUTPUT: 0800918159-T10- No inv
+2022-10-25 23:13:32.201206 - ERROR - OUTPUT: 2300990023-T10- No inv
+2022-10-25 23:13:38.836199 - ERROR - OUTPUT: 2301081077-T10- No inv
+2022-10-25 23:13:57.655880 - SUCCESS - OUTPUT: 0700732009-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:14:06.879465 - SUCCESS - OUTPUT: 2300928635-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:14:11.548170 - ERROR - OUTPUT: 2300971126-T10- No inv
+2022-10-25 23:14:45.494362 - ERROR - OUTPUT: 4601586467-T10- No inv
+2022-10-25 23:15:01.031492 - SUCCESS - OUTPUT: 0901009921-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 23:15:07.353483 - ERROR - OUTPUT: 2301032136-T10- No inv
+2022-10-25 23:15:13.388080 - ERROR - OUTPUT: 2400829194-T10- No inv
+2022-10-25 23:15:17.975044 - ERROR - OUTPUT: 2601032049-T10- No inv
+2022-10-25 23:15:25.454241 - ERROR - OUTPUT: 0104749185-T10- No inv
+2022-10-25 23:15:32.695698 - ERROR - OUTPUT: 0107724887-T10- No inv
+2022-10-25 23:15:41.581047 - ERROR - OUTPUT: 0108437035-T10- No inv
+2022-10-25 23:15:55.288188 - SUCCESS - OUTPUT: 2301080059-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 23:16:07.858123 - SUCCESS - OUTPUT: 2400644595-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:16:12.484799 - ERROR - OUTPUT: 0107571246-T10- No inv
+2022-10-25 23:16:27.637776 - ERROR - OUTPUT: 0700798384-T10- No inv
+2022-10-25 23:16:36.508803 - ERROR - OUTPUT: 0700851045-T10- No inv
+2022-10-25 23:17:17.774551 - SUCCESS - OUTPUT: 2500589429-T10- Excel co 27 hoa don, tai ve duoc 27 hoa don
+2022-10-25 23:17:29.312265 - SUCCESS - OUTPUT: 0106783128-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 23:17:39.822381 - SUCCESS - OUTPUT: 0201880001-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 23:17:50.604240 - SUCCESS - OUTPUT: 2400774788-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:17:58.289176 - ERROR - OUTPUT: 0108168262-T10- No inv
+2022-10-25 23:18:48.708327 - SUCCESS - OUTPUT: 0108897956-T10- Excel co 14 hoa don, tai ve duoc 14 hoa don
+2022-10-25 23:18:58.361398 - ERROR - OUTPUT: 0201890049-T10- No inv
+2022-10-25 23:19:17.094568 - SUCCESS - OUTPUT: 0900286256-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:19:30.868241 - SUCCESS - OUTPUT: 0108567919-T10- Excel co 5 hoa don, tai ve duoc 5 hoa don
+2022-10-25 23:19:41.242571 - SUCCESS - OUTPUT: 0108712556-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:20:05.712562 - ERROR - OUTPUT: 2500514504-T10- No inv
+2022-10-25 23:20:16.868297 - SUCCESS - OUTPUT: 2700901187-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:20:41.159014 - ERROR - OUTPUT: 0108087013-T10- No inv
+2022-10-25 23:20:54.831218 - ERROR - OUTPUT: 0108180710-T10- No inv
+2022-10-25 23:21:04.419263 - SUCCESS - OUTPUT: 0801219932-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 23:21:13.483238 - ERROR - OUTPUT: 2400879974-T10- No inv
+2022-10-25 23:22:33.304055 - SUCCESS - OUTPUT: 2600971328-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:22:44.096265 - SUCCESS - OUTPUT: 0201713843-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:22:57.182865 - SUCCESS - OUTPUT: 0700809357-T10- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-10-25 23:23:07.253290 - SUCCESS - OUTPUT: 2400824950-T10- Excel co 1 hoa don, tai ve duoc 1 hoa don
+2022-10-25 23:23:11.833240 - ERROR - OUTPUT: 2500624345-T10- No inv
+2022-10-25 23:23:26.489721 - ERROR - OUTPUT: 0201880001-001-T10- No inv
+2022-10-25 23:23:37.874300 - SUCCESS - OUTPUT: 2300643446-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
+2022-10-25 23:23:45.806958 - ERROR - OUTPUT: 2300895387-T10- No inv
+2022-10-25 23:23:50.560330 - ERROR - OUTPUT: 2301057902-T10- No inv
+2022-10-25 23:24:00.113795 - ERROR - OUTPUT: 2500587485-T10- No inv
+2022-10-25 23:24:07.401022 - ERROR - OUTPUT: 2300990048-T10- DANG NHAP THAT BAI: SAI MAT KHAU
+2022-10-25 23:24:28.632953 - SUCCESS - OUTPUT: 2301080059-T10- Excel co 3 hoa don, tai ve duoc 3 hoa don
+2022-10-25 23:24:41.003479 - SUCCESS - OUTPUT: 2400644595-T10- Excel co 2 hoa don, tai ve duoc 2 hoa don
