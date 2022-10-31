@@ -123,7 +123,7 @@
 2022-10-30 21:15:00.763817 - C tpye: 0201880001-001-daiha25@ubot.vn-T10- No inv
 2022-10-30 21:15:17.059356 - C tpye: 0201880001-daiha25@ubot.vn-T10- So hoa don tren TCT: 5
 2022-10-30 21:15:33.106034 - C tpye: 2400774788-daiha25@ubot.vn-T10- So hoa don tren TCT: 8
-2022-10-30 21:15:33.962081 - C tpye: 0108168262-daiha26@ubot.vn-T10- HTTPConnectionPool(host='2captcha.com', port=80): Max retries exceeded with url: /res.php?key=65ae8ecffddf787800e9e3223d8299dd&action=get&id=71894424695 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B3B8257FD0>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed'))
+
 2022-10-30 21:15:51.454247 - C tpye: 0108897956-daiha26@ubot.vn-T10- So hoa don tren TCT: 1
 2022-10-30 21:16:41.100374 - C tpye: 0201890049-daiha26@ubot.vn-T10- So hoa don tren TCT: 4
 2022-10-30 21:17:04.098746 - C tpye: 0900286256-daiha26@ubot.vn-T10- So hoa don tren TCT: 3
