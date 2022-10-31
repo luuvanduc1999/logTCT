@@ -127,7 +127,6 @@
 2022-10-30 21:15:51.454247 - C tpye: 0108897956-daiha26@ubot.vn-T10- So hoa don tren TCT: 1
 2022-10-30 21:16:41.100374 - C tpye: 0201890049-daiha26@ubot.vn-T10- So hoa don tren TCT: 4
 2022-10-30 21:17:04.098746 - C tpye: 0900286256-daiha26@ubot.vn-T10- So hoa don tren TCT: 3
-2022-10-30 21:17:10.394302 - C tpye: 0108567919-daiha27@ubot.vn-T10- ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
 2022-10-30 21:17:31.620122 - C tpye: 0108712556-daiha27@ubot.vn-T10- So hoa don tren TCT: 1
 2022-10-30 21:17:47.469280 - C tpye: 2500514504-daiha27@ubot.vn-T10- So hoa don tren TCT: 5
 2022-10-30 21:18:22.479116 - C tpye: 2700901187-daiha27@ubot.vn-T10- So hoa don tren TCT: 10
