@@ -807,3 +807,15 @@
 2022-11-14 22:42:17.720452 - ERROR - OUTPUT: 0312988988-T11- No inv
 2022-11-14 22:42:34.794306 - SUCCESS - OUTPUT: 0313217723-T11- Excel co 10 hoa don, tai ve duoc 10 hoa don
 2022-11-14 22:42:45.814475 - SUCCESS - OUTPUT: 3701697779-T11- Excel co 6 hoa don, tai ve duoc 6 hoa don
+2022-11-14 22:42:34.794306 - SUCCESS - OUTPUT: 0313217723-T11- Excel co 10 hoa don, tai ve duoc 10 hoa don
+2022-11-14 22:42:45.814475 - SUCCESS - OUTPUT: 3701697779-T11- Excel co 6 hoa don, tai ve duoc 6 hoa don
+2022-11-14 22:53:05.292756 - SUCCESS - OUTPUT: 0106105098-T1- Excel co 4 hoa don, tai ve duoc 4 hoa don
+2022-11-14 22:53:19.244972 - SUCCESS - OUTPUT: 0106105098-T2- Excel co 7 hoa don, tai ve duoc 7 hoa don
+2022-11-14 22:53:45.861011 - SUCCESS - OUTPUT: 0106105098-T3- Excel co 18 hoa don, tai ve duoc 18 hoa don
+2022-11-14 22:54:11.466428 - SUCCESS - OUTPUT: 0106105098-T4- Excel co 28 hoa don, tai ve duoc 28 hoa don
+2022-11-14 22:54:38.068716 - SUCCESS - OUTPUT: 0106105098-T5- Excel co 23 hoa don, tai ve duoc 23 hoa don
+2022-11-14 22:55:21.492608 - SUCCESS - OUTPUT: 0106105098-T6- Excel co 35 hoa don, tai ve duoc 35 hoa don
+2022-11-14 22:56:19.460378 - SUCCESS - OUTPUT: 0106105098-T7- Excel co 35 hoa don, tai ve duoc 35 hoa don
+2022-11-14 22:56:47.622948 - SUCCESS - OUTPUT: 0106105098-T8- Excel co 24 hoa don, tai ve duoc 24 hoa don
+2022-11-14 22:57:15.400650 - SUCCESS - OUTPUT: 0106105098-T9- Excel co 24 hoa don, tai ve duoc 24 hoa don
+2022-11-14 22:57:33.207398 - SUCCESS - OUTPUT: 0106105098-T10- Excel co 11 hoa don, tai ve duoc 11 hoa don
