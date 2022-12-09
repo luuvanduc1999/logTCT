@@ -1,0 +1,12 @@
+2022-12-09 09:06:16.533525 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T3- So hoa don tren TCT: 8
+2022-12-09 09:06:37.710655 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T4- So hoa don tren TCT: 12
+2022-12-09 09:06:51.024124 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T5- So hoa don tren TCT: 12
+2022-12-09 09:07:27.783632 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T6- So hoa don tren TCT: 49
+2022-12-09 09:08:00.770905 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T7- So hoa don tren TCT: 45
+2022-12-09 09:08:23.325319 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T8- So hoa don tren TCT: 28
+2022-12-09 09:08:52.907371 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T9- So hoa don tren TCT: 34
+2022-12-09 09:09:26.395268 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T10- So hoa don tren TCT: 43
+2022-12-09 09:10:03.071378 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T11- So hoa don tren TCT: 52
+2022-12-09 09:10:25.983967 - C tpye: 5100490893-tnhhminhkhangvn@ubot.vn-T12- So hoa don tren TCT: 14
+2022-12-09 09:10:37.937650 - C tpye: 3701697779-nhuact@ubot.vn-T12- So hoa don tren TCT: 12
+2022-12-09 09:11:06.687343 - K tpye: 3701697779-nhuact@ubot.vn-T12- So hoa don tren TCT: 45
