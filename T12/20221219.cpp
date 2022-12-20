@@ -193,7 +193,7 @@
 2022-12-19 23:27:05.157989 - K tpye: 2500577286-2500577286@ubot.vn-T12- No inv
 2022-12-19 23:27:15.994375 - C tpye: 2500591795-2500591795@ubot.vn-T11- So hoa don tren TCT: 3
 2022-12-19 23:27:41.217500 - K tpye: 2500591795-2500591795@ubot.vn-T11- So hoa don tren TCT: 2
-2022-12-19 23:27:49.332693 - C tpye: 2500591795-2500591795@ubot.vn-T12- HTTPConnectionPool(host='2captcha.com', port=80): Max retries exceeded with url: /res.php?key=65ae8ecffddf787800e9e3223d8299dd&action=get&id=72355203481 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002039967DCC0>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed'))
+2022-12-20 09:56:09.968258 - C tpye: 2500591795-2500591795@ubot.vn-T12- No inv
 2022-12-19 23:28:06.566552 - K tpye: 2500591795-2500591795@ubot.vn-T12- No inv
 2022-12-19 23:28:57.041738 - C tpye: 2500470617-2500470617@ubot.vn-T11- So hoa don tren TCT: 6
 2022-12-19 23:29:47.942849 - K tpye: 2500470617-2500470617@ubot.vn-T11- So hoa don tren TCT: 13
