@@ -14,3 +14,7 @@
 2022-12-29 09:11:10.938849 - K tpye: 0201758682-maimanh@ubot.vn-T12- So hoa don tren TCT: 3
 2022-12-29 09:11:30.824511 - C tpye: 0201638579-maimanh@ubot.vn-T12- So hoa don tren TCT: 3
 2022-12-29 09:11:44.423036 - K tpye: 0201638579-maimanh@ubot.vn-T12- So hoa don tren TCT: 5
+2022-12-29 10:00:42.281816 - C tpye: 0100931299-033-bicquangbinh@ubot.vn-T12- So hoa don tren TCT: 608
+2022-12-29 10:02:13.612011 - K tpye: 0100931299-033-bicquangbinh@ubot.vn-T12- So hoa don tren TCT: 41
+2022-12-29 10:04:26.123958 - C tpye: 0316487439-dinhduongbinhminh@ubot.vn-T12- So hoa don tren TCT: 52
+2022-12-29 10:04:57.259165 - K tpye: 0316487439-dinhduongbinhminh@ubot.vn-T12- So hoa don tren TCT: 3
