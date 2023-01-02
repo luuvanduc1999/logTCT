@@ -1,3 +1,4 @@
+
 2022-12-31 20:19:33.520986 - C tpye: 0313401190-giongmiennam@ubot.vn-T11- So hoa don tren TCT: 17
 2022-12-31 20:19:37.775057 - C tpye: 0313401190-giongmiennam@ubot.vn-T12- So hoa don tren TCT: 22
 2022-12-31 20:21:38.571070 - C tpye: 0107064126-minhtinh@ubot.vn-T12- So hoa don tren TCT: 53
@@ -712,4 +713,825 @@ COMPLETE BATCH
 COMPLETE BATCH
 2023-01-01 09:11:55.349148 - C tpye: 0107846758-minhanh@ubot.vn-T12- So hoa don tren TCT: 15
 2023-01-01 09:12:52.458519 - K tpye: 0107846758-minhanh@ubot.vn-T12- So hoa don tren TCT: 6
+COMPLETE BATCH
+2023-01-01 09:21:39.782734 - C tpye: 1001013490-dzlbros@ubot.vn-T12- So hoa don tren TCT: 103
+2023-01-01 09:22:23.809687 - K tpye: 1001013490-dzlbros@ubot.vn-T12- So hoa don tren TCT: 18
+COMPLETE BATCH
+2023-01-01 09:23:32.896414 - C tpye: 0108513529-dzlbros@ubot.vn-T12- So hoa don tren TCT: 36
+2023-01-01 09:23:56.357876 - K tpye: 0108513529-dzlbros@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-01 09:24:15.508500 - C tpye: 0109774548-dzlbros@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-01 09:25:06.125725 - K tpye: 0109774548-dzlbros@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 09:25:14.424735 - C tpye: 0110079919-dzlbros@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-01 09:25:21.570975 - K tpye: 0110079919-dzlbros@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-01 09:25:55.283287 - C tpye: 0109184299-dzlbros@ubot.vn-T12- So hoa don tren TCT: 5
+2023-01-01 09:26:11.446563 - K tpye: 0109184299-dzlbros@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 09:26:39.446737 - C tpye: 0107550221-dzlbros@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-01 09:26:45.596968 - K tpye: 0107550221-dzlbros@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 09:27:20.965192 - C tpye: 0109199898-dzlbros@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-01 09:27:26.737727 - K tpye: 0109199898-dzlbros@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 09:27:45.701645 - C tpye: 2500553373-dzlbros@ubot.vn-T12- So hoa don tren TCT: 7
+2023-01-01 09:28:15.143030 - K tpye: 2500553373-dzlbros@ubot.vn-T12- So hoa don tren TCT: 8
+COMPLETE BATCH
+2023-01-01 09:36:21.018471 - C tpye: 0313671359-imiti@ubot.vn-T12- So hoa don tren TCT: 102
+2023-01-01 09:36:30.130178 - K tpye: 0313671359-imiti@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 09:37:38.418105 - C tpye: 3702994196-2a@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-01 09:37:55.892616 - K tpye: 3702994196-2a@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 09:39:13.377479 - C tpye: 0317126724-kimhuong@ubot.vn-T12- So hoa don tren TCT: 63
+2023-01-01 09:40:35.759390 - K tpye: 0317126724-kimhuong@ubot.vn-T12- So hoa don tren TCT: 15
+COMPLETE BATCH
+2023-01-01 12:01:06.006709 - C tpye: 0102659320-nagase@ubot.vn-T12- So hoa don tren TCT: 1683
+2023-01-01 12:16:56.884182 - K tpye: 0102659320-nagase@ubot.vn-T12- So hoa don tren TCT: 223
+COMPLETE BATCH
+2023-01-01 12:17:52.954259 - C tpye: 2500580137-domovp@ubot.vn-T12- So hoa don tren TCT: 23
+2023-01-01 12:18:00.986381 - K tpye: 2500580137-domovp@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 12:19:24.785704 - C tpye: 2500508620-domovp@ubot.vn-T12- So hoa don tren TCT: 68
+2023-01-01 12:19:59.801543 - K tpye: 2500508620-domovp@ubot.vn-T12- So hoa don tren TCT: 9
+COMPLETE BATCH
+2023-01-01 12:21:09.002723 - C tpye: 2500592478-domovp@ubot.vn-T12- So hoa don tren TCT: 16
+2023-01-01 12:21:22.748855 - K tpye: 2500592478-domovp@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-01 12:21:47.269711 - C tpye: 1701898584-chiing@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-01 12:22:58.057003 - K tpye: 1701898584-chiing@ubot.vn-T12- So hoa don tren TCT: 21
+COMPLETE BATCH
+2023-01-01 12:23:31.217650 - C tpye: 1702098439-chiing@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-01 12:24:12.249586 - K tpye: 1702098439-chiing@ubot.vn-T12- So hoa don tren TCT: 26
+COMPLETE BATCH
+2023-01-01 12:25:41.734123 - C tpye: 1702108704-chiing@ubot.vn-T12- So hoa don tren TCT: 35
+2023-01-01 12:26:25.005275 - K tpye: 1702108704-chiing@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 12:27:19.098577 - C tpye: 0317145491-chiing@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-01 12:27:56.677860 - K tpye: 0317145491-chiing@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 12:28:19.942141 - C tpye: 0314545269-chiing@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-01 12:28:37.905884 - K tpye: 0314545269-chiing@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-01 12:28:45.853945 - C tpye: 0102206722-hien@ubot.vn-T12- No inv
+2023-01-01 12:28:51.941860 - K tpye: 0102206722-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 12:30:36.583256 - C tpye: 0101445421-hien@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-01 12:31:12.691167 - K tpye: 0101445421-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 13:52:43.796981 - C tpye: 0305597535-faslink@ubot.vn-T12- So hoa don tren TCT: 1058
+2023-01-01 14:02:41.450646 - K tpye: 0305597535-faslink@ubot.vn-T12- So hoa don tren TCT: 219
+COMPLETE BATCH
+2023-01-01 14:04:17.495864 - C tpye: 0401289082-0401289082@ubot.vn-T12- So hoa don tren TCT: 77
+2023-01-01 14:04:37.832561 - K tpye: 0401289082-0401289082@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 14:19:51.474604 - C tpye: 3701793200-kimcuong@ubot.vn-T12- So hoa don tren TCT: 202
+2023-01-01 14:22:19.501172 - K tpye: 3701793200-kimcuong@ubot.vn-T12- So hoa don tren TCT: 91
+COMPLETE BATCH
+2023-01-01 14:22:34.615482 - C tpye: 0700847585-Khietpham@ubot.vn-T12- No inv
+2023-01-01 14:22:43.473682 - K tpye: 0700847585-Khietpham@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 14:23:44.029779 - C tpye: 0106609779-002-vnr@ubot.vn-T12- So hoa don tren TCT: 44
+2023-01-01 14:24:49.226396 - K tpye: 0106609779-002-vnr@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-01 14:25:12.110336 - C tpye: 0106609779-vnr@ubot.vn-T12- No inv
+2023-01-01 14:25:17.876714 - K tpye: 0106609779-vnr@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 14:26:11.827466 - C tpye: 0102282561-tinhocaz@ubot.vn-T12- So hoa don tren TCT: 23
+2023-01-01 14:26:34.218708 - K tpye: 0102282561-tinhocaz@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 14:27:48.478318 - C tpye: 0201972439-hantt@ubot.vn-T12- So hoa don tren TCT: 49
+2023-01-01 14:28:20.985813 - K tpye: 0201972439-hantt@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-01 14:28:26.611754 - C tpye: 5100454687-minhhanh86tq@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-01 14:28:33.381869 - K tpye: 5100454687-minhhanh86tq@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-01 14:29:16.854890 - C tpye: 5100484402-minhhanh86tq@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-01 14:30:05.284774 - K tpye: 5100484402-minhhanh86tq@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-01 14:32:38.257107 - C tpye: 0108473996-okxe@ubot.vn-T12- So hoa don tren TCT: 107
+2023-01-01 14:33:30.294410 - K tpye: 0108473996-okxe@ubot.vn-T12- So hoa don tren TCT: 18
+COMPLETE BATCH
+2023-01-01 14:34:54.093380 - C tpye: 5801225798-giang@ubot.vn-T12- So hoa don tren TCT: 24
+2023-01-01 14:35:16.862310 - K tpye: 5801225798-giang@ubot.vn-T12- So hoa don tren TCT: 6
+COMPLETE BATCH
+2023-01-01 14:35:36.550025 - C tpye: 5801365435-giang@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-01 14:35:53.510904 - K tpye: 5801365435-giang@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-01 14:38:42.802427 - C tpye: 5801194042-giang@ubot.vn-T12- So hoa don tren TCT: 96
+2023-01-01 14:39:03.865593 - K tpye: 5801194042-giang@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-01 14:39:51.777079 - C tpye: 5800671013-giang@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-01 14:40:40.141847 - K tpye: 5800671013-giang@ubot.vn-T12- So hoa don tren TCT: 5
+COMPLETE BATCH
+2023-01-01 14:41:43.311022 - C tpye: 5801416351-giang@ubot.vn-T12- So hoa don tren TCT: 32
+2023-01-01 14:59:26.851782 - K tpye: 5801416351-giang@ubot.vn-T12- So hoa don tren TCT: 77
+COMPLETE BATCH
+2023-01-01 15:00:02.325759 - C tpye: 5801410776-giang@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-01 15:00:32.390116 - K tpye: 5801410776-giang@ubot.vn-T12- So hoa don tren TCT: 7
+COMPLETE BATCH
+2023-01-01 15:01:46.551940 - C tpye: 5801460343-giang@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-01 15:02:13.800990 - K tpye: 5801460343-giang@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 15:02:45.437049 - C tpye: 3601050628-ngocvu@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-01 15:03:16.009697 - K tpye: 3601050628-ngocvu@ubot.vn-T12- So hoa don tren TCT: 9
+COMPLETE BATCH
+2023-01-01 15:04:08.327363 - C tpye: 0107383362-ketoanpointgroup@ubot.vn-T12- So hoa don tren TCT: 10
+2023-01-01 15:05:08.739614 - K tpye: 0107383362-ketoanpointgroup@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-01 15:05:24.521107 - C tpye: 0314584807-anhcuong.acp@ubot.vn-T12- No inv
+2023-01-01 15:05:33.590377 - K tpye: 0314584807-anhcuong.acp@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:08:08.330497 - C tpye: 0314877289-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 98
+2023-01-01 15:08:30.148411 - K tpye: 0314877289-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 8
+COMPLETE BATCH
+2023-01-01 15:09:30.692524 - C tpye: 0314878324-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-01 15:09:37.539289 - K tpye: 0314878324-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 15:10:03.811422 - C tpye: 0315811026-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-01 15:10:54.727818 - K tpye: 0315811026-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-01 15:11:26.935093 - C tpye: 0309348201-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-01 15:12:55.743064 - K tpye: 0309348201-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-01 15:13:21.219518 - C tpye: 0311579661-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-01 15:13:55.397301 - K tpye: 0311579661-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 15:18:04.042864 - C tpye: 0304077597-doinguviet@ubot.vn-T12- So hoa don tren TCT: 150
+2023-01-01 15:19:41.833973 - K tpye: 0304077597-doinguviet@ubot.vn-T12- So hoa don tren TCT: 70
+COMPLETE BATCH
+2023-01-01 15:21:01.618830 - C tpye: 1001060638-minhhien@ubot.vn-T12- So hoa don tren TCT: 48
+2023-01-01 15:21:22.824472 - K tpye: 1001060638-minhhien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:21:45.710387 - C tpye: 0601194945-duongoanh@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-01 15:22:20.699640 - K tpye: 0601194945-duongoanh@ubot.vn-T12- So hoa don tren TCT: 12
+COMPLETE BATCH
+2023-01-01 15:23:34.720822 - C tpye: 0600333995-duongoanh@ubot.vn-T12- So hoa don tren TCT: 25
+2023-01-01 15:24:04.411716 - K tpye: 0600333995-duongoanh@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-01 15:24:53.672904 - C tpye: 0108157334-minhduccompany@ubot.vn-T12- So hoa don tren TCT: 47
+2023-01-01 15:26:23.794296 - K tpye: 0108157334-minhduccompany@ubot.vn-T12- So hoa don tren TCT: 31
+COMPLETE BATCH
+2023-01-01 15:30:24.002816 - C tpye: 0104783281-tantruong@ubot.vn-T12- So hoa don tren TCT: 155
+2023-01-01 15:31:46.117925 - K tpye: 0104783281-tantruong@ubot.vn-T12- So hoa don tren TCT: 66
+COMPLETE BATCH
+2023-01-01 15:32:29.293283 - C tpye: 0312805063-bdsdaovang@ubot.vn-T12- So hoa don tren TCT: 24
+2023-01-01 15:33:14.104599 - K tpye: 0312805063-bdsdaovang@ubot.vn-T12- So hoa don tren TCT: 14
+COMPLETE BATCH
+2023-01-01 15:34:41.266201 - C tpye: 0109890022-thuylam@ubot.vn-T12- So hoa don tren TCT: 63
+2023-01-01 15:34:54.662135 - K tpye: 0109890022-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:35:59.257063 - C tpye: 0109903095-thuylam@ubot.vn-T12- So hoa don tren TCT: 39
+2023-01-01 15:36:09.088040 - K tpye: 0109903095-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:37:15.669437 - C tpye: 0109883307-thuylam@ubot.vn-T12- So hoa don tren TCT: 57
+2023-01-01 15:37:38.192967 - K tpye: 0109883307-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:38:47.189619 - C tpye: 0109903056-thuylam@ubot.vn-T12- So hoa don tren TCT: 55
+2023-01-01 15:38:53.566578 - K tpye: 0109903056-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:41:23.354299 - C tpye: 0108779462-thuylam@ubot.vn-T12- So hoa don tren TCT: 92
+2023-01-01 15:41:40.578498 - K tpye: 0108779462-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:43:32.871949 - C tpye: 0109645824-thuylam@ubot.vn-T12- So hoa don tren TCT: 81
+2023-01-01 15:43:39.067764 - K tpye: 0109645824-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:45:06.894762 - C tpye: 0108780796-thuylam@ubot.vn-T12- So hoa don tren TCT: 61
+2023-01-01 15:45:26.262109 - K tpye: 0108780796-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:46:15.340767 - C tpye: 0110022221-thuylam@ubot.vn-T12- So hoa don tren TCT: 41
+2023-01-01 15:46:38.586239 - K tpye: 0110022221-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:48:43.799953 - C tpye: 0109651296-thuylam@ubot.vn-T12- So hoa don tren TCT: 90
+2023-01-01 15:48:52.089529 - K tpye: 0109651296-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:50:18.961616 - C tpye: 0109920164-thuylam@ubot.vn-T12- So hoa don tren TCT: 53
+2023-01-01 15:50:42.591156 - K tpye: 0109920164-thuylam@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 15:51:54.248919 - C tpye: 0109923969-thuylam@ubot.vn-T12- So hoa don tren TCT: 32
+2023-01-01 15:52:17.764532 - K tpye: 0109923969-thuylam@ubot.vn-T12- So hoa don tren TCT: 5
+COMPLETE BATCH
+2023-01-01 16:03:59.199786 - C tpye: 3600485552-tanhoafurniture@ubot.vn-T12- So hoa don tren TCT: 227
+2023-01-01 16:05:00.421945 - K tpye: 3600485552-tanhoafurniture@ubot.vn-T12- So hoa don tren TCT: 24
+COMPLETE BATCH
+2023-01-01 16:18:07.018150 - C tpye: 0311417759-transvanlinkshcm@ubot.vn-T12- So hoa don tren TCT: 298
+2023-01-01 16:19:10.014062 - K tpye: 0311417759-transvanlinkshcm@ubot.vn-T12- So hoa don tren TCT: 32
+COMPLETE BATCH
+2023-01-01 16:22:22.887404 - C tpye: 0311417759-001-transvanlinkshp@ubot.vn-T12- So hoa don tren TCT: 94
+2023-01-01 16:23:44.075331 - K tpye: 0311417759-001-transvanlinkshp@ubot.vn-T12- So hoa don tren TCT: 46
+COMPLETE BATCH
+2023-01-01 16:31:22.546387 - C tpye: 0313214955-tantruong@ubot.vn-T12- So hoa don tren TCT: 57
+2023-01-01 16:31:59.665176 - K tpye: 0313214955-tantruong@ubot.vn-T12- So hoa don tren TCT: 21
+COMPLETE BATCH
+2023-01-01 16:32:51.081966 - C tpye: 1100718156-myyen668@ubot.vn-T12- So hoa don tren TCT: 15
+2023-01-01 16:33:41.118854 - K tpye: 1100718156-myyen668@ubot.vn-T12- So hoa don tren TCT: 14
+COMPLETE BATCH
+2023-01-01 16:34:26.377138 - C tpye: 0314725751-001-myyen668@ubot.vn-T12- So hoa don tren TCT: 10
+2023-01-01 16:35:34.672418 - K tpye: 0314725751-001-myyen668@ubot.vn-T12- So hoa don tren TCT: 12
+COMPLETE BATCH
+2023-01-01 16:36:13.645964 - C tpye: 0700254881-phuongthao@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-01 16:36:41.592751 - K tpye: 0700254881-phuongthao@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-01 16:37:14.348617 - C tpye: 0700843358-phuongthao@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-01 16:37:21.045911 - K tpye: 0700843358-phuongthao@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-01 16:37:55.557488 - C tpye: 0700817414-phuongthao@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-01 16:38:16.116926 - K tpye: 0700817414-phuongthao@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 16:38:38.004225 - C tpye: 0700835075-phuongthao@ubot.vn-T12- No inv
+2023-01-01 16:39:01.697128 - K tpye: 0700835075-phuongthao@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-01 16:39:55.741079 - C tpye: 0700776824-phuongthao@ubot.vn-T12- So hoa don tren TCT: 21
+2023-01-01 16:40:38.309824 - K tpye: 0700776824-phuongthao@ubot.vn-T12- So hoa don tren TCT: 7
+COMPLETE BATCH
+2023-01-01 16:40:53.477206 - C tpye: 0700760503-phuongthao@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-01 16:41:38.478662 - K tpye: 0700760503-phuongthao@ubot.vn-T12- So hoa don tren TCT: 6
+COMPLETE BATCH
+2023-01-01 16:41:49.904849 - C tpye: 0700840124-phuongthao@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-01 16:42:51.333988 - K tpye: 0700840124-phuongthao@ubot.vn-T12- So hoa don tren TCT: 38
+COMPLETE BATCH
+2023-01-01 16:43:25.559671 - C tpye: 0700640728-phuongthao@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-01 16:43:31.699909 - K tpye: 0700640728-phuongthao@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 16:43:37.409294 - C tpye: 2901901765-manhhung@ubot.vn-T12- No inv
+2023-01-01 16:44:24.910349 - K tpye: 2901901765-manhhung@ubot.vn-T12- So hoa don tren TCT: 13
+COMPLETE BATCH
+2023-01-01 16:45:18.415044 - C tpye: 2900492735-manhhung@ubot.vn-T12- So hoa don tren TCT: 30
+2023-01-01 16:46:52.586898 - K tpye: 2900492735-manhhung@ubot.vn-T12- So hoa don tren TCT: 39
+COMPLETE BATCH
+2023-01-01 16:47:01.322967 - C tpye: 2901144843-manhhung@ubot.vn-T12- No inv
+2023-01-01 16:47:52.267007 - K tpye: 2901144843-manhhung@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-01 16:48:23.134054 - C tpye: 2901051317-manhhung@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-01 16:48:46.706794 - K tpye: 2901051317-manhhung@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-01 16:52:05.365243 - C tpye: 3500660200-tanphuocthinh@ubot.vn-T12- So hoa don tren TCT: 102
+2023-01-01 16:53:11.643707 - K tpye: 3500660200-tanphuocthinh@ubot.vn-T12- So hoa don tren TCT: 59
+COMPLETE BATCH
+2023-01-01 16:54:03.339715 - C tpye: 0801084097-tieuhaily@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-01 16:55:15.096730 - K tpye: 0801084097-tieuhaily@ubot.vn-T12- So hoa don tren TCT: 8
+COMPLETE BATCH
+2023-01-01 16:55:22.838220 - C tpye: 0801004856-tieuhaily@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+2023-01-01 16:55:28.724010 - K tpye: 0801004856-tieuhaily@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+COMPLETE BATCH
+2023-01-01 16:55:37.277030 - C tpye: 0800714525-tieuhaily@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+2023-01-01 16:55:42.823183 - K tpye: 0800714525-tieuhaily@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+COMPLETE BATCH
+2023-01-01 16:56:53.720749 - C tpye: 0800280839-tieuhaily@ubot.vn-T12- So hoa don tren TCT: 37
+2023-01-01 17:14:06.039793 - K tpye: 0800280839-tieuhaily@ubot.vn-T12- So hoa don tren TCT: 136
+COMPLETE BATCH
+2023-01-01 17:14:15.556787 - C tpye: 0105871741-hoangphuong89@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-01 17:14:23.492507 - K tpye: 0105871741-hoangphuong89@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-01 17:14:31.267963 - C tpye: 0108597303-hoangphuong89@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-01 17:14:37.153228 - K tpye: 0108597303-hoangphuong89@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 17:14:45.909271 - C tpye: 0105715527-hoangphuong89@ubot.vn-T12- No inv
+2023-01-01 17:14:53.149358 - K tpye: 0105715527-hoangphuong89@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 17:16:06.533140 - C tpye: 0315894470-osaka@ubot.vn-T12- So hoa don tren TCT: 46
+2023-01-01 17:16:35.193886 - K tpye: 0315894470-osaka@ubot.vn-T12- So hoa don tren TCT: 25
+COMPLETE BATCH
+2023-01-01 17:30:29.228704 - C tpye: 0105207386-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 147
+2023-01-01 17:39:08.222812 - K tpye: 0105207386-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 208
+COMPLETE BATCH
+2023-01-01 17:40:26.678660 - C tpye: 0106274057-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 27
+2023-01-01 17:41:14.272779 - K tpye: 0106274057-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-01 17:59:45.298576 - C tpye: 0107930671-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 107
+2023-01-01 18:01:09.742097 - K tpye: 0107930671-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 45
+COMPLETE BATCH
+2023-01-01 18:01:49.445383 - C tpye: 3603718004-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-01 18:01:55.402732 - K tpye: 3603718004-ngoccongty911@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 18:02:11.287644 - C tpye: 0110062986-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-01 18:02:18.300090 - K tpye: 0110062986-ngoccongty911@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 18:02:27.488274 - C tpye: 3603874733-ngoccongty911@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-01 18:02:43.673764 - K tpye: 3603874733-ngoccongty911@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 18:04:15.442644 - C tpye: 0315867420-mta@ubot.vn-T12- So hoa don tren TCT: 63
+2023-01-01 18:04:30.486082 - K tpye: 0315867420-mta@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-01 18:05:43.135716 - C tpye: 0110092733-ketoanquangvu@ubot.vn-T12- So hoa don tren TCT: 32
+2023-01-01 18:05:58.851077 - K tpye: 0110092733-ketoanquangvu@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-01 18:07:22.908272 - C tpye: 3800742084-thanhtrung@ubot.vn-T12- So hoa don tren TCT: 35
+2023-01-01 18:13:41.377771 - K tpye: 3800742084-thanhtrung@ubot.vn-T12- So hoa don tren TCT: 36
+COMPLETE BATCH
+2023-01-01 18:48:56.312828 - C tpye: 0400643083-fosterdn@ubot.vn-T12- So hoa don tren TCT: 492
+2023-01-01 18:51:48.730171 - K tpye: 0400643083-fosterdn@ubot.vn-T12- So hoa don tren TCT: 126
+COMPLETE BATCH
+2023-01-02 10:38:46.140510 - C tpye: 0313401190-giongmiennam@ubot.vn-T12- So hoa don tren TCT: 24
+2023-01-02 10:56:08.004638 - C tpye: 2300537991-foster@ubot.vn-T12- So hoa don tren TCT: 1677
+2023-01-02 10:57:08.850707 - K tpye: 2300537991-foster@ubot.vn-T12- So hoa don tren TCT: 88
+COMPLETE BATCH
+2023-01-02 11:22:13.865386 - C tpye: 0315250243-Constantin@ubot.vn-T12- So hoa don tren TCT: 108
+2023-01-02 10:58:18.237230 - K tpye: 0315250243-Constantin@ubot.vn-T12- So hoa don tren TCT: 10
+COMPLETE BATCH
+2023-01-02 11:00:47.590046 - C tpye: 0316741822-wealthcons@ubot.vn-T12- So hoa don tren TCT: 252
+2023-01-02 11:01:25.826074 - K tpye: 0316741822-wealthcons@ubot.vn-T12- So hoa don tren TCT: 54
+COMPLETE BATCH
+2023-01-02 11:02:42.412938 - C tpye: 0108393606-afg@ubot.vn-T12- So hoa don tren TCT: 123
+2023-01-02 11:09:21.402249 - C tpye: 0102042513-afg@ubot.vn-T12- So hoa don tren TCT: 666
+COMPLETE BATCH
+
+2023-01-02 11:25:42.353301 - K tpye: 0108393606-afg@ubot.vn-T12- So hoa don tren TCT: 49
+COMPLETE BATCH
+2023-01-02 11:44:28.720177 - C tpye: 0102042513-afg@ubot.vn-T12- So hoa don tren TCT: 666
+2023-01-02 11:48:53.753257 - K tpye: 0102042513-afg@ubot.vn-T12- So hoa don tren TCT: 356
+COMPLETE BATCH
+2023-01-02 11:58:23.689466 - C tpye: 0100233368-afg@ubot.vn-T12- So hoa don tren TCT: 880
+2023-01-02 12:05:01.307635 - K tpye: 0100233368-afg@ubot.vn-T12- So hoa don tren TCT: 619
+COMPLETE BATCH
+2023-01-02 12:05:05.322926 - C tpye: 4101491619-ctyachau@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-02 12:05:09.350099 - K tpye: 4101491619-ctyachau@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-02 12:05:16.197793 - C tpye: 4101565243-ctyachau@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-02 12:05:32.895737 - K tpye: 4101565243-ctyachau@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-02 12:06:29.204738 - C tpye: 4101031925-huonggiang@ubot.vn-T12- So hoa don tren TCT: 69
+2023-01-02 12:07:15.990488 - K tpye: 4101031925-huonggiang@ubot.vn-T12- So hoa don tren TCT: 24
+COMPLETE BATCH
+2023-01-02 12:08:07.027911 - C tpye: 0313344030-laithity1973@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 12:09:14.448618 - K tpye: 0313344030-laithity1973@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 12:09:37.227071 - C tpye: 0316948591-greenwise@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-02 12:09:50.610943 - K tpye: 0316948591-greenwise@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 12:10:05.899273 - C tpye: 0402144393-0402144393@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:10:20.529238 - K tpye: 0402144393-0402144393@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 12:10:27.380322 - C tpye: 1801728547-haidanggroup@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-02 12:10:35.662953 - K tpye: 1801728547-haidanggroup@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-02 12:11:21.161754 - C tpye: 0107022126-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 18
+2023-01-02 12:12:18.861113 - K tpye: 0107022126-anhcuong.acp@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-02 12:13:38.878320 - C tpye: 0312199373-giangdau@ubot.vn-T12- So hoa don tren TCT: 64
+2023-01-02 12:14:22.395821 - K tpye: 0312199373-giangdau@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 12:15:32.795155 - C tpye: 0316700223-ecovietnam@ubot.vn-T12- So hoa don tren TCT: 27
+2023-01-02 12:17:03.647796 - K tpye: 0316700223-ecovietnam@ubot.vn-T12- So hoa don tren TCT: 7
+COMPLETE BATCH
+2023-01-02 12:17:17.715507 - C tpye: 0108224622-ecohanoi@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:17:29.620891 - K tpye: 0108224622-ecohanoi@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:18:15.340297 - C tpye: 0314396521-hangdinh@ubot.vn-T12- So hoa don tren TCT: 35
+2023-01-02 12:19:09.643963 - K tpye: 0314396521-hangdinh@ubot.vn-T12- So hoa don tren TCT: 12
+COMPLETE BATCH
+2023-01-02 12:19:41.356263 - C tpye: 5801308772-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-02 12:21:13.441281 - K tpye: 5801308772-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 17
+COMPLETE BATCH
+2023-01-02 12:21:45.073318 - C tpye: 5801354578-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 13
+2023-01-02 12:22:14.404559 - K tpye: 5801354578-nghiatckt2012@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:22:33.926382 - C tpye: 5801148744-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:23:40.033456 - K tpye: 5801148744-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 7
+COMPLETE BATCH
+2023-01-02 12:24:15.285254 - C tpye: 5801463827-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:24:51.703928 - K tpye: 5801463827-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 12:25:34.374252 - C tpye: 3603761761-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:26:11.578068 - K tpye: 3603761761-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 12:26:28.259548 - C tpye: 3702961761-nghiatckt2012@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:26:49.203698 - K tpye: 3702961761-nghiatckt2012@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:27:20.347617 - C tpye: 0107611058-thi@ubot.vn-T12- [Errno 13] Permission denied: '0109802442_C22TGB_5.zip'
+2023-01-02 12:28:14.592639 - K tpye: 0107611058-thi@ubot.vn-T12- So hoa don tren TCT: 43
+COMPLETE BATCH
+2023-01-02 12:29:03.829950 - C tpye: 0313687567-p316@ubot.vn-T12- So hoa don tren TCT: 29
+2023-01-02 12:29:55.511022 - K tpye: 0313687567-p316@ubot.vn-T12- So hoa don tren TCT: 9
+COMPLETE BATCH
+2023-01-02 12:31:35.795187 - C tpye: 0101105104-ketoanhathuy@ubot.vn-T12- [Errno 13] Permission denied: '3602229025_C22TBH_238.zip'
+2023-01-02 12:33:02.992563 - K tpye: 0101105104-ketoanhathuy@ubot.vn-T12- So hoa don tren TCT: 9
+COMPLETE BATCH
+2023-01-02 12:33:53.900592 - C tpye: 0201630192-huongnguyen@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 12:34:29.933043 - K tpye: 0201630192-huongnguyen@ubot.vn-T12- So hoa don tren TCT: 11
+COMPLETE BATCH
+2023-01-02 12:34:59.762982 - C tpye: 0200673556-huongnguyen@ubot.vn-T12- [Errno 13] Permission denied: '0200671492_C22TBV_3702.zip'
+2023-01-02 12:35:15.057283 - K tpye: 0200673556-huongnguyen@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 12:35:31.757907 - C tpye: 0201962543-huongnguyen@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:35:46.387664 - K tpye: 0201962543-huongnguyen@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:36:16.331429 - C tpye: 0202028745-huongnguyen@ubot.vn-T12- So hoa don tren TCT: 5
+2023-01-02 12:36:25.893582 - K tpye: 0202028745-huongnguyen@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:37:49.798490 - C tpye: 0109802442-thi@ubot.vn-T12- So hoa don tren TCT: 20
+2023-01-02 12:38:12.625931 - K tpye: 0109802442-thi@ubot.vn-T12- So hoa don tren TCT: 5
+COMPLETE BATCH
+2023-01-02 12:39:06.800488 - C tpye: 0316238231-minhloan4@ubot.vn-T12- So hoa don tren TCT: 31
+2023-01-02 12:39:35.745838 - K tpye: 0316238231-minhloan4@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:40:23.161132 - C tpye: 0315998582-minhloan1@ubot.vn-T12- [Errno 13] Permission denied: '0313573552_C22TNH_34.zip'
+2023-01-02 12:41:00.270909 - K tpye: 0315998582-minhloan1@ubot.vn-T12- So hoa don tren TCT: 5
+COMPLETE BATCH
+2023-01-02 12:41:32.684188 - C tpye: 0310712046-minhloan2@ubot.vn-T12- So hoa don tren TCT: 39
+2023-01-02 12:42:02.698627 - K tpye: 0310712046-minhloan2@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 12:42:09.096754 - C tpye: 0317363309-minhloan3@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 12:42:15.025112 - K tpye: 0317363309-minhloan3@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:43:16.699649 - C tpye: 0101993386-zinzinbeobeo@ubot.vn-T12- [Errno 13] Permission denied: '0101728395_C22TTP_1613.zip'
+2023-01-02 12:44:11.567824 - K tpye: 0101993386-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 32
+COMPLETE BATCH
+2023-01-02 12:44:51.753450 - C tpye: 0107656203-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 15
+2023-01-02 12:45:16.300424 - K tpye: 0107656203-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 5
+COMPLETE BATCH
+2023-01-02 12:45:37.511675 - C tpye: 0107863400-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 7
+2023-01-02 12:46:01.922130 - K tpye: 0107863400-zinzinbeobeo@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:46:23.053158 - C tpye: 0105831629-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-02 12:47:34.615322 - K tpye: 0105831629-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 12
+COMPLETE BATCH
+2023-01-02 12:48:55.681159 - C tpye: 0106001490-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 12:49:16.103548 - K tpye: 0106001490-zinzinbeobeo@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:49:21.010718 - C tpye: 0109543420-zinzinbeobeo@ubot.vn-T12- No inv
+2023-01-02 12:49:46.082525 - K tpye: 0109543420-zinzinbeobeo@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:49:53.899005 - C tpye: 0109961308-zinzinbeobeo@ubot.vn-T12- No inv
+2023-01-02 12:50:24.821948 - K tpye: 0109961308-zinzinbeobeo@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 12:51:17.131854 - C tpye: 0109249517-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 16
+2023-01-02 12:52:30.960000 - K tpye: 0109249517-zinzinbeobeo@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 12:53:52.548088 - C tpye: 0109975759-thi@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-02 12:55:07.678165 - K tpye: 0109975759-thi@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 12:56:52.697804 - C tpye: 3702570091-hoangtu@ubot.vn-T12- So hoa don tren TCT: 137
+2023-01-02 12:57:42.987378 - K tpye: 3702570091-hoangtu@ubot.vn-T12- So hoa don tren TCT: 22
+COMPLETE BATCH
+2023-01-02 12:58:36.982202 - C tpye: 3702355150-hoangtu@ubot.vn-T12- So hoa don tren TCT: 75
+2023-01-02 12:59:50.149492 - K tpye: 3702355150-hoangtu@ubot.vn-T12- So hoa don tren TCT: 28
+COMPLETE BATCH
+2023-01-02 13:00:37.056929 - C tpye: 3702554389-hoangtu@ubot.vn-T12- So hoa don tren TCT: 12
+2023-01-02 13:01:08.867855 - K tpye: 3702554389-hoangtu@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 13:02:30.792440 - C tpye: 3702049160-hoangtu@ubot.vn-T12- [Errno 13] Permission denied: '0302160137-003_C22TCN_20134.zip'
+2023-01-02 13:03:13.776909 - K tpye: 3702049160-hoangtu@ubot.vn-T12- So hoa don tren TCT: 13
+COMPLETE BATCH
+2023-01-02 13:03:33.125381 - C tpye: 3702296120-hoangtu@ubot.vn-T12- No inv
+2023-01-02 13:04:16.375074 - K tpye: 3702296120-hoangtu@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:05:58.089695 - C tpye: 3702904731-hoangtu@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-02 13:06:35.457764 - K tpye: 3702904731-hoangtu@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 13:07:14.588943 - C tpye: 0312149527-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 21
+2023-01-02 13:08:06.645960 - K tpye: 0312149527-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 12
+COMPLETE BATCH
+2023-01-02 13:08:19.994028 - C tpye: 0303889733-TrangvoFRP@ubot.vn-T12- No inv
+2023-01-02 13:08:26.971874 - K tpye: 0303889733-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:08:31.694666 - C tpye: 0315493849-TrangvoFRP@ubot.vn-T12- No inv
+2023-01-02 13:09:06.654108 - K tpye: 0315493849-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:09:28.856891 - C tpye: 0312031099-TrangvoFRP@ubot.vn-T12- No inv
+2023-01-02 13:10:38.568503 - K tpye: 0312031099-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 53
+COMPLETE BATCH
+2023-01-02 13:12:11.654484 - C tpye: 0312918282-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 80
+2023-01-02 13:12:27.996025 - K tpye: 0312918282-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-02 13:12:56.433701 - C tpye: 0303379637-TrangvoFRP@ubot.vn-T12- [Errno 13] Permission denied: '0301284059_C22TDV_876.zip'
+2023-01-02 13:13:24.283075 - K tpye: 0303379637-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:14:07.773366 - C tpye: 0315306721-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-02 13:14:44.981955 - K tpye: 0315306721-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 13:14:56.760512 - C tpye: 0312262716-TrangvoFRP@ubot.vn-T12- No inv
+2023-01-02 13:15:19.225269 - K tpye: 0312262716-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:16:05.393127 - C tpye: 0316028315-TrangvoFRP@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-02 13:16:29.060080 - K tpye: 0316028315-TrangvoFRP@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 13:26:14.979020 - C tpye: 0106011636-globalcom@ubot.vn-T12- So hoa don tren TCT: 164
+2023-01-02 13:27:59.352918 - K tpye: 0106011636-globalcom@ubot.vn-T12- So hoa don tren TCT: 41
+COMPLETE BATCH
+2023-01-02 13:30:15.471899 - C tpye: 0108588972-diamondrise@ubot.vn-T12- So hoa don tren TCT: 151
+2023-01-02 13:30:47.099953 - K tpye: 0108588972-diamondrise@ubot.vn-T12- So hoa don tren TCT: 12
+COMPLETE BATCH
+2023-01-02 13:34:31.252744 - C tpye: 0314440040-diamondrise@ubot.vn-T12- So hoa don tren TCT: 342
+2023-01-02 13:50:05.306465 - K tpye: 0314440040-diamondrise@ubot.vn-T12- So hoa don tren TCT: 1578
+COMPLETE BATCH
+2023-01-02 13:50:29.354256 - C tpye: 3603756377-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-02 13:50:56.418570 - K tpye: 3603756377-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:51:38.019761 - C tpye: 0311577544-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 13:52:14.533386 - K tpye: 0311577544-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 13:53:13.021498 - C tpye: 3603685856-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 17
+2023-01-02 13:53:49.767756 - K tpye: 3603685856-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:54:30.970328 - C tpye: 3602959423-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 64
+2023-01-02 13:55:16.015830 - K tpye: 3602959423-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 27
+COMPLETE BATCH
+2023-01-02 13:55:31.611620 - C tpye: 3603569754-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-02 13:56:21.043317 - K tpye: 3603569754-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 6
+COMPLETE BATCH
+2023-01-02 13:57:04.426548 - C tpye: 3603876843-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-02 13:57:08.723315 - K tpye: 3603876843-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 13:57:28.190767 - C tpye: 3603288714-001-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-02 13:58:06.040377 - K tpye: 3603288714-001-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 13:59:10.151626 - C tpye: 3603855000-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 12
+2023-01-02 13:59:43.776128 - K tpye: 3603855000-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 14:00:18.382302 - C tpye: 3603863763-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 14:00:31.474003 - K tpye: 3603863763-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:01:07.183650 - C tpye: 3703017813-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-02 14:01:15.777670 - K tpye: 3703017813-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:02:08.788563 - C tpye: 3603858107-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 27
+2023-01-02 14:02:17.497128 - K tpye: 3603858107-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:03:13.825447 - C tpye: 3603870168-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-02 14:03:42.777573 - K tpye: 3603870168-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:04:06.751038 - C tpye: 3702932947-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 14:04:23.510306 - K tpye: 3702932947-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:04:46.627928 - C tpye: 3603886062-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-02 14:04:54.216573 - K tpye: 3603886062-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:05:21.960086 - C tpye: 3603558664-tamthinhphat@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-02 14:05:36.020761 - K tpye: 3603558664-tamthinhphat@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-02 14:06:30.136383 - C tpye: 3603710118-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 5
+2023-01-02 14:06:38.874171 - K tpye: 3603710118-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:06:44.891294 - C tpye: 3603791269-tamthinhphat@ubot.vn-T12- No inv
+2023-01-02 14:06:54.950670 - K tpye: 3603791269-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:08:19.167617 - C tpye: 3603291280-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 12
+2023-01-02 14:08:26.939736 - K tpye: 3603291280-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:10:18.416552 - C tpye: 3603792865-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 18
+2023-01-02 14:12:17.485721 - K tpye: 3603792865-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 30
+COMPLETE BATCH
+2023-01-02 14:12:23.325147 - C tpye: 3603813963-tamthinhphat@ubot.vn-T12- No inv
+2023-01-02 14:12:32.074784 - K tpye: 3603813963-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:13:07.777105 - C tpye: 3603818432-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-02 14:13:22.830716 - K tpye: 3603818432-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:14:08.727435 - C tpye: 3603817284-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 28
+2023-01-02 14:14:23.548555 - K tpye: 3603817284-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:15:08.069557 - C tpye: 3603861029-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 12
+2023-01-02 14:15:38.815570 - K tpye: 3603861029-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:16:34.200708 - C tpye: 3702686177-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-02 14:16:42.747958 - K tpye: 3702686177-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:17:14.159630 - C tpye: 3603589630-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-02 14:17:20.158803 - K tpye: 3603589630-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:18:52.508727 - C tpye: 3602300408-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 80
+2023-01-02 14:19:44.169703 - K tpye: 3602300408-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 14
+COMPLETE BATCH
+2023-01-02 14:20:04.468304 - C tpye: 3603751883-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 14:20:28.172905 - K tpye: 3603751883-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 14:20:51.920179 - C tpye: 3603769489-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 14:21:13.835459 - K tpye: 3603769489-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:21:58.704673 - C tpye: 3702939773-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 7
+2023-01-02 14:22:23.240862 - K tpye: 3702939773-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:22:50.240211 - C tpye: 3603461101-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 5
+2023-01-02 14:23:17.851935 - K tpye: 3603461101-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:24:04.081375 - C tpye: 3603792079-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-02 14:24:46.480678 - K tpye: 3603792079-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 14:25:02.029617 - C tpye: 3603288714-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 7
+2023-01-02 14:25:59.640253 - K tpye: 3603288714-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 14:26:42.962138 - C tpye: 3603699961-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 5
+2023-01-02 14:26:51.045813 - K tpye: 3603699961-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:27:02.692069 - C tpye: 3603890608-tamthinhphat@ubot.vn-T12- No inv
+2023-01-02 14:27:30.453463 - K tpye: 3603890608-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:28:00.188230 - C tpye: 3603611205-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 5
+2023-01-02 14:28:27.884723 - K tpye: 3603611205-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:29:04.168486 - C tpye: 0312673515-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 10
+2023-01-02 14:29:56.206477 - K tpye: 0312673515-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 11
+COMPLETE BATCH
+2023-01-02 14:30:27.981188 - C tpye: 3603587827-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-02 14:30:51.662402 - K tpye: 3603587827-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:31:16.171809 - C tpye: 3603727270-tamthinhphat@ubot.vn-T12- No inv
+2023-01-02 14:31:29.547769 - K tpye: 3603727270-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:31:36.202111 - C tpye: 3603431562-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-02 14:31:50.595396 - K tpye: 3603431562-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:32:01.497828 - C tpye: 3603682728-tamthinhphat@ubot.vn-T12- No inv
+2023-01-02 14:32:31.317482 - K tpye: 3603682728-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 6
+COMPLETE BATCH
+2023-01-02 14:32:37.669683 - C tpye: 3603629788-tamthinhphat@ubot.vn-T12- No inv
+2023-01-02 14:32:50.502652 - K tpye: 3603629788-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:33:02.691753 - C tpye: 3603887387-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 14:33:54.178443 - K tpye: 3603887387-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 22
+COMPLETE BATCH
+2023-01-02 14:34:23.844177 - C tpye: 3603850933-tamthinhphat@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 14:34:31.024346 - K tpye: 3603850933-tamthinhphat@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:36:44.581517 - C tpye: 0101545803-thygesen@ubot.vn-T12- So hoa don tren TCT: 74
+COMPLETE BATCH
+2023-01-02 14:37:33.685801 - C tpye: 0700757003-soltechn@ubot.vn-T12- So hoa don tren TCT: 87
+COMPLETE BATCH
+2023-01-02 14:37:55.449469 - C tpye: 0101931710-hien@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-02 14:38:31.407782 - K tpye: 0101931710-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:39:02.911708 - C tpye: 0103194318-hien@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-02 14:39:08.661282 - K tpye: 0103194318-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:40:02.435580 - C tpye: 0102762504-hien@ubot.vn-T12- So hoa don tren TCT: 19
+2023-01-02 14:40:22.990041 - K tpye: 0102762504-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:40:27.468704 - C tpye: 0108145392-hien@ubot.vn-T12- No inv
+2023-01-02 14:41:20.143725 - K tpye: 0108145392-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:42:04.664021 - C tpye: 0107385095-hien@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-02 14:42:11.822310 - K tpye: 0107385095-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:42:56.402507 - C tpye: 0101006632-hien@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-02 14:43:19.691242 - K tpye: 0101006632-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:43:26.346306 - C tpye: 0101972756-hien@ubot.vn-T12- No inv
+2023-01-02 14:44:17.300608 - K tpye: 0101972756-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:44:54.193097 - C tpye: 0101972749-hien@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-02 14:45:52.894385 - K tpye: 0101972749-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:46:43.408839 - C tpye: 0100193732-hien@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-02 14:46:51.093365 - K tpye: 0100193732-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:47:06.216966 - C tpye: 0100906285-hien@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 14:47:11.361395 - K tpye: 0100906285-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:48:23.498610 - C tpye: 0102748443-hien@ubot.vn-T12- So hoa don tren TCT: 11
+2023-01-02 14:48:37.958247 - K tpye: 0102748443-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:49:00.704007 - C tpye: 0108101892-hien@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 14:49:13.726052 - K tpye: 0108101892-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:49:38.917392 - C tpye: 0108004190-hien@ubot.vn-T12- No inv
+2023-01-02 14:50:08.265339 - K tpye: 0108004190-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:52:21.798019 - C tpye: 8096815100-hien@ubot.vn-T12- So hoa don tren TCT: 12
+2023-01-02 14:52:43.787699 - K tpye: 8096815100-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:53:28.322918 - C tpye: 0102578199-hien@ubot.vn-T12- So hoa don tren TCT: 30
+2023-01-02 14:53:36.938700 - K tpye: 0102578199-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:54:35.632078 - C tpye: 0106772334-hien@ubot.vn-T12- So hoa don tren TCT: 14
+2023-01-02 14:54:45.037600 - K tpye: 0106772334-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 14:55:09.319947 - C tpye: 0107902434-hien@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-02 14:56:01.415832 - K tpye: 0107902434-hien@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 14:56:38.211243 - C tpye: 0100193186-hien@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 14:56:58.522642 - K tpye: 0100193186-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:02:12.691324 - C tpye: 0101849745-hien@ubot.vn-T12- So hoa don tren TCT: 378
+2023-01-02 15:03:27.578612 - K tpye: 0101849745-hien@ubot.vn-T12- So hoa don tren TCT: 96
+COMPLETE BATCH
+2023-01-02 15:04:04.716411 - C tpye: 0101470185-hien@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-02 15:04:48.201509 - K tpye: 0101470185-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:05:01.474127 - C tpye: 0101446866-hien@ubot.vn-T12- No inv
+2023-01-02 15:05:10.062696 - K tpye: 0101446866-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:05:26.042660 - C tpye: 0106467108-hien@ubot.vn-T12- No inv
+2023-01-02 15:05:57.142124 - K tpye: 0106467108-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:06:11.042575 - C tpye: 0106924668-hien@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-02 15:07:06.352115 - K tpye: 0106924668-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:07:30.195278 - C tpye: 8017615574-hien@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 15:07:35.954548 - K tpye: 8017615574-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:07:41.743219 - C tpye: 8015500899-hien@ubot.vn-T12- No inv
+2023-01-02 15:07:50.916365 - K tpye: 8015500899-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:08:06.909240 - C tpye: 8023884367-hien@ubot.vn-T12- No inv
+2023-01-02 15:08:29.724914 - K tpye: 8023884367-hien@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 15:09:07.160534 - C tpye: 0102042908-hien@ubot.vn-T12- So hoa don tren TCT: 10
+2023-01-02 15:09:34.646946 - K tpye: 0102042908-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:09:44.156732 - C tpye: 0108654600-hien@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 15:09:59.168549 - K tpye: 0108654600-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:10:31.101609 - C tpye: 0101710655-hien@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 15:10:38.339751 - K tpye: 0101710655-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:10:51.126288 - C tpye: 0100163336-hien@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 15:11:03.976358 - K tpye: 0100163336-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:11:10.977890 - C tpye: 8039256600-hien@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 15:11:25.088569 - K tpye: 8039256600-hien@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:12:15.733162 - C tpye: 0108466678-mrthanh@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 15:13:06.794079 - K tpye: 0108466678-mrthanh@ubot.vn-T12- So hoa don tren TCT: 9
+COMPLETE BATCH
+2023-01-02 15:14:04.811181 - C tpye: 0108543932-mrthanh@ubot.vn-T12- So hoa don tren TCT: 4
+2023-01-02 15:15:02.412679 - K tpye: 0108543932-mrthanh@ubot.vn-T12- So hoa don tren TCT: 4
+COMPLETE BATCH
+2023-01-02 15:15:08.406364 - C tpye: 0108521671-mrthanh@ubot.vn-T12- No inv
+2023-01-02 15:16:05.643262 - K tpye: 0108521671-mrthanh@ubot.vn-T12- So hoa don tren TCT: 13
+COMPLETE BATCH
+2023-01-02 15:19:43.206250 - C tpye: 0109869856-mrthanh@ubot.vn-T12- So hoa don tren TCT: 36
+2023-01-02 15:19:51.008091 - K tpye: 0109869856-mrthanh@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:20:12.738623 - C tpye: 0402155123-mrthanh@ubot.vn-T12- No inv
+2023-01-02 15:20:58.722507 - K tpye: 0402155123-mrthanh@ubot.vn-T12- So hoa don tren TCT: 6
+COMPLETE BATCH
+2023-01-02 15:22:53.154419 - C tpye: 0310805639-ammega@ubot.vn-T12- So hoa don tren TCT: 69
+COMPLETE BATCH
+2023-01-02 15:23:17.244851 - C tpye: 0313522283-lantransac123@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-02 15:23:28.343410 - K tpye: 0313522283-lantransac123@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 15:23:50.176185 - C tpye: 0312134305-lantransac123@ubot.vn-T12- So hoa don tren TCT: 12
+2023-01-02 15:24:42.050329 - K tpye: 0312134305-lantransac123@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 15:26:03.214550 - C tpye: 0312384922-lantransac123@ubot.vn-T12- So hoa don tren TCT: 13
+2023-01-02 15:26:31.360447 - K tpye: 0312384922-lantransac123@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 15:27:08.295450 - C tpye: 0313637189-lantransac123@ubot.vn-T12- So hoa don tren TCT: 2
+2023-01-02 15:27:28.729622 - K tpye: 0313637189-lantransac123@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:29:22.640509 - C tpye: 0305024929-lantransac123@ubot.vn-T12- So hoa don tren TCT: 46
+2023-01-02 15:30:23.861499 - K tpye: 0305024929-lantransac123@ubot.vn-T12- So hoa don tren TCT: 7
+COMPLETE BATCH
+2023-01-02 15:30:30.701734 - C tpye: 0316963705-lantransac123@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+2023-01-02 15:30:37.550341 - K tpye: 0316963705-lantransac123@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+COMPLETE BATCH
+2023-01-02 15:31:22.394168 - C tpye: 0303833963-lantransac123@ubot.vn-T12- So hoa don tren TCT: 15
+2023-01-02 15:31:29.595085 - K tpye: 0303833963-lantransac123@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:32:27.503150 - C tpye: 0309916285-lantransac123@ubot.vn-T12- So hoa don tren TCT: 16
+2023-01-02 15:33:04.179295 - K tpye: 0309916285-lantransac123@ubot.vn-T12- So hoa don tren TCT: 14
+COMPLETE BATCH
+2023-01-02 15:33:57.548413 - C tpye: 0315546970-lantransac123@ubot.vn-T12- So hoa don tren TCT: 6
+2023-01-02 15:34:32.622683 - K tpye: 0315546970-lantransac123@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:35:22.882374 - C tpye: 0317132460-lantransac123@ubot.vn-T12- So hoa don tren TCT: 9
+2023-01-02 15:36:39.140515 - K tpye: 0317132460-lantransac123@ubot.vn-T12- So hoa don tren TCT: 18
+COMPLETE BATCH
+2023-01-02 15:37:47.911875 - C tpye: 0311540336-lantransac123@ubot.vn-T12- So hoa don tren TCT: 80
+2023-01-02 15:38:41.987787 - K tpye: 0311540336-lantransac123@ubot.vn-T12- So hoa don tren TCT: 23
+COMPLETE BATCH
+2023-01-02 15:38:48.889629 - C tpye: 0109379347-huongha@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-02 15:38:53.540607 - C tpye: 5801448000-oanh@ubot.vn-T12- No inv
+2023-01-02 15:39:06.801676 - K tpye: 5801448000-oanh@ubot.vn-T12- So hoa don tren TCT: 3
+COMPLETE BATCH
+2023-01-02 15:39:45.325465 - C tpye: 0108118783-oanh@ubot.vn-T12- So hoa don tren TCT: 3
+2023-01-02 15:40:15.708538 - K tpye: 0108118783-oanh@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 15:41:05.559902 - C tpye: 0108046225-oanh@ubot.vn-T12- So hoa don tren TCT: 29
+2023-01-02 15:41:18.589433 - K tpye: 0108046225-oanh@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:41:32.540356 - C tpye: 0108360054-oanh@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-02 15:41:39.372961 - K tpye: 0108360054-oanh@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+COMPLETE BATCH
+2023-01-02 15:43:47.607548 - C tpye: 0108167244-oanh@ubot.vn-T12- So hoa don tren TCT: 33
+2023-01-02 15:44:12.392106 - K tpye: 0108167244-oanh@ubot.vn-T12- So hoa don tren TCT: 13
+COMPLETE BATCH
+2023-01-02 15:45:02.863424 - C tpye: 3603854529-ngocvu@ubot.vn-T12- So hoa don tren TCT: 8
+2023-01-02 15:45:19.159279 - K tpye: 3603854529-ngocvu@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:46:00.929987 - C tpye: 3603360865-ngocvu@ubot.vn-T12- So hoa don tren TCT: 1
+2023-01-02 15:46:30.142903 - K tpye: 3603360865-ngocvu@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:47:41.568304 - C tpye: 3603258163-ngocvu@ubot.vn-T12- So hoa don tren TCT: 13
+2023-01-02 15:48:38.719260 - K tpye: 3603258163-ngocvu@ubot.vn-T12- So hoa don tren TCT: 2
+COMPLETE BATCH
+2023-01-02 15:49:57.599172 - C tpye: 0302030402-ngocvu@ubot.vn-T12- So hoa don tren TCT: 5
+2023-01-02 15:50:10.849742 - K tpye: 0302030402-ngocvu@ubot.vn-T12- So hoa don tren TCT: 1
+COMPLETE BATCH
+2023-01-02 15:50:25.359079 - C tpye: 3603796450-ngocvu@ubot.vn-T12- No inv
+2023-01-02 15:50:32.990353 - K tpye: 3603796450-ngocvu@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:50:48.927544 - C tpye: 3603749450-ngocvu@ubot.vn-T12- No inv
+2023-01-02 15:51:02.260924 - K tpye: 3603749450-ngocvu@ubot.vn-T12- No inv
+COMPLETE BATCH
+2023-01-02 15:53:03.705055 - C tpye: 3701452585-daihungthinh@ubot.vn-T12- So hoa don tren TCT: 173
+COMPLETE BATCH
+2023-01-02 15:53:10.548405 - C tpye: 2802748308-tranthiphuong@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+2023-01-02 15:53:17.461237 - K tpye: 2802748308-tranthiphuong@ubot.vn-T12- DANG NHAP THAT BAI: TK BI KHOA
+COMPLETE BATCH
+2023-01-02 15:53:32.977289 - C tpye: 2801061583-tranthiphuong@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
+2023-01-02 15:53:41.586894 - K tpye: 2801061583-tranthiphuong@ubot.vn-T12- DANG NHAP THAT BAI: SAI MAT KHAU
 COMPLETE BATCH
