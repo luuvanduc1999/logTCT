@@ -1,19 +1,5 @@
 
 _______________DANG NHAP THAT BAI_______________
-2023-02-09 15:04:13.513394 - C tpye: 03701697779 - vanact@ubot.vn - 2023T1 - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 15:04:23.272511 - K tpye: 03701697779 - vanact@ubot.vn - 2023T1 - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 15:04:31.558862 - C tpye: 03701697779 - vanact@ubot.vn - 2023T2 - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 15:04:41.248515 - K tpye: 03701697779 - vanact@ubot.vn - 2023T2 - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 15:06:12.683253 - C tpye: 0316995859 - duyenact@ubot.vn - 2023T1 - DANG NHAP THAT BAI: SAI MAT KHAU
-2023-02-09 15:06:22.406000 - K tpye: 0316995859 - duyenact@ubot.vn - 2023T1 - DANG NHAP THAT BAI: SAI MAT KHAU
-2023-02-09 15:06:29.599851 - C tpye: 0316995859 - duyenact@ubot.vn - 2023T2 - DANG NHAP THAT BAI: SAI MAT KHAU
-2023-02-09 15:06:35.356278 - K tpye: 0316995859 - duyenact@ubot.vn - 2023T2 - DANG NHAP THAT BAI: SAI MAT KHAU
-2023-02-09 22:42:23.719975 - C tpye: 03701697779 - vanact@ubot.vn - DAILY - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 22:42:29.385358 - K tpye: 03701697779 - vanact@ubot.vn - DAILY - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 22:44:57.447429 - C tpye: 0316995859 - duyenact@ubot.vn - DAILY - DANG NHAP THAT BAI: SAI MAT KHAU
-2023-02-09 22:45:04.601100 - K tpye: 0316995859 - duyenact@ubot.vn - DAILY - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 23:00:38.494335 - C tpye: 4101617011 - suongact@ubot.vn - DAILY - DANG NHAP THAT BAI: TK BI KHOA
-2023-02-09 23:00:46.618590 - K tpye: 4101617011 - suongact@ubot.vn - DAILY - DANG NHAP THAT BAI: TK BI KHOA
 2023-02-10 13:21:44.618733 - C tpye: 0106720713 - hasen@ubot.vn - 2022T1 - DANG NHAP THAT BAI: SAI MAT KHAU
 2023-02-11 19:14:15.337798 - C tpye: 2300937301 - daiha2@ubot.vn - DAILY - DANG NHAP THAT BAI: SAI MAT KHAU
 2023-02-11 19:48:51.359930 - C tpye: 2400644595 - daiha23@ubot.vn - DAILY - DANG NHAP THAT BAI: SAI MAT KHAU
@@ -53,765 +39,12 @@ _______________DANG NHAP THAT BAI_______________
 2023-02-13 10:04:45.195036 - K tpye: 3603761761 - nghiatckt2012@ubot.vn - 2023T2 - DANG NHAP THAT BAI: SAI MAT KHAU
 2023-02-13 10:04:51.191932 - C tpye: 3702961761 - nghiatckt2012@ubot.vn - 2023T2 - DANG NHAP THAT BAI: SAI MAT KHAU
 2023-02-13 10:04:55.463969 - K tpye: 3702961761 - nghiatckt2012@ubot.vn - 2023T2 - DANG NHAP THAT BAI: SAI MAT KHAU
+2023-02-13 11:19:42.055831 - C tpye: 3603887387 - tamthinhphat@ubot.vn - 2023T2 - DANG NHAP THAT BAI: SAI MAT KHAU
+2023-02-13 11:19:49.490812 - K tpye: 3603887387 - tamthinhphat@ubot.vn - 2023T2 - DANG NHAP THAT BAI: SAI MAT KHAU
+2023-02-13 11:28:20.361719 - C tpye: 0801090894 - linhvt@ubot.vn - 2023T2 - DANG NHAP THAT BAI: TK BI KHOA
+2023-02-13 11:28:35.056147 - K tpye: 0801090894 - linhvt@ubot.vn - 2023T2 - DANG NHAP THAT BAI: TK BI KHOA
 
 _______________DAILY_______________
-2023-02-09 09:20:33.194602 - C tpye: 0314753332-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:21:20.524500 - K tpye: 0314753332-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 09:23:55.169075 - C tpye: 0301758647-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 179
-2023-02-09 09:25:27.326986 - K tpye: 0301758647-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 167
-2023-02-09 09:25:35.373476 - C tpye: 0301758647-004-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:26:00.703931 - K tpye: 0301758647-004-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:26:40.111691 - C tpye: 0301758647-002-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 09:27:02.080763 - K tpye: 0301758647-002-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 09:27:42.868158 - C tpye: 0309537248-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 09:28:04.601216 - K tpye: 0309537248-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 09:28:19.899077 - C tpye: 0309758705-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:29:29.122532 - K tpye: 0309758705-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 09:31:00.142105 - C tpye: 0309795009-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 27
-2023-02-09 09:31:34.064395 - K tpye: 0309795009-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 09:31:43.434064 - C tpye: 0315397133-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:31:52.565232 - K tpye: 0315397133-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:32:05.042065 - C tpye: 0304455489-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 09:32:36.057006 - K tpye: 0304455489-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 09:32:51.256831 - C tpye: 0306905221-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:33:14.399742 - K tpye: 0306905221-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:33:22.939578 - C tpye: 0306925884-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:33:56.196189 - K tpye: 0306925884-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 8
-2023-02-09 09:34:06.244166 - C tpye: 0314999897-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:34:26.500978 - K tpye: 0314999897-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 09:34:53.719633 - C tpye: 0314184220-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 09:35:29.282116 - K tpye: 0314184220-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 09:35:52.718019 - C tpye: 0316492654-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:36:20.959030 - K tpye: 0316492654-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:36:47.136215 - C tpye: 0316524497-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:37:02.431168 - K tpye: 0316524497-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 09:37:08.981484 - C tpye: 0316436875-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:37:27.546797 - K tpye: 0316436875-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 09:37:50.114439 - C tpye: 0105444838-daiha1@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 09:37:59.513587 - C tpye: 0108389906 - daiha1@ubot.vn - DAILY - No inv
-2023-02-09 09:38:44.146216 - C tpye: 0201814520-daiha1@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 09:39:14.189221 - C tpye: 0107933464-001-daiha1@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 09:39:30.876915 - C tpye: 0109798933 - daiha1@ubot.vn - DAILY - No inv
-2023-02-09 09:40:19.222408 - C tpye: 0108162207-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 17
-2023-02-09 09:40:55.363756 - C tpye: 0108371994-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 09:41:39.421183 - C tpye: 2300937301-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 09:42:02.638740 - C tpye: 2300945662-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 09:42:42.119436 - C tpye: 2500620492-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 11
-2023-02-09 09:42:58.340200 - C tpye: 2300901545-daiha29@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 09:43:42.605019 - C tpye: 0106665678-daiha3@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 09:43:57.087535 - C tpye: 2400825376-daiha3@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 09:44:27.756058 - C tpye: 2400644595-001-daiha3@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 09:45:04.693195 - C tpye: 0107842658-daiha4@ubot.vn-DAILY- So hoa don tren TCT: 86
-2023-02-09 09:45:13.215999 - C tpye: 0108973068 - daiha4@ubot.vn - DAILY - No inv
-2023-02-09 09:45:37.893160 - C tpye: 0106509855 - daiha6@ubot.vn - DAILY - No inv
-2023-02-09 09:46:05.661259 - C tpye: 0108388973-daiha6@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 09:47:01.748616 - C tpye: 0801092637-daiha6@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 09:47:17.601918 - C tpye: 2400940019-daiha6@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 09:47:30.570699 - C tpye: 0107953238-daiha7@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 09:47:54.644316 - C tpye: 0107963941 - daiha7@ubot.vn - DAILY - No inv
-2023-02-09 09:48:10.521330 - C tpye: 2300940255-daiha7@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 09:48:35.661730 - C tpye: 2301109981-daiha8@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 09:49:07.321458 - C tpye: 2400762292-daiha8@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 09:49:30.471481 - C tpye: 2600882212-daiha8@ubot.vn-DAILY- So hoa don tren TCT: 59
-2023-02-09 09:50:41.078245 - C tpye: 2400774770-daiha9@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 09:51:33.839632 - C tpye: 2300747364-daiha10@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 09:52:10.175127 - C tpye: 2300895387-daiha10@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 09:52:45.849797 - C tpye: 2700837220-daiha10@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 09:53:11.960219 - C tpye: 0700801485-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 09:53:24.848377 - C tpye: 2300834867-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 09:53:58.867580 - C tpye: 2400876162-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 10
-2023-02-09 09:54:20.660320 - C tpye: 2300767963-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 09:54:58.551025 - C tpye: 0202089561-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 09:55:14.845333 - C tpye: 2300784165-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 09:55:28.170386 - C tpye: 2300951754-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 09:55:42.066156 - C tpye: 4601165268-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 13
-2023-02-09 09:56:08.868944 - C tpye: 0106948637-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 09:56:25.620932 - C tpye: 2301057902-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 09:56:40.600440 - C tpye: 2400709563-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 09:56:59.798174 - C tpye: 2500587485-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 09:57:11.449756 - C tpye: 0700259047-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 09:57:47.990703 - C tpye: 2300902891-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 09:58:04.758908 - C tpye: 2400740323-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 11
-2023-02-09 09:58:17.934841 - C tpye: 2500585512 - daiha14@ubot.vn - DAILY - No inv
-2023-02-09 09:58:32.826808 - C tpye: 2601037551-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 27
-2023-02-09 09:58:45.232054 - C tpye: 0105945224-daiha15@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 09:59:16.293494 - C tpye: 0108534776-daiha15@ubot.vn-DAILY- So hoa don tren TCT: 13
-2023-02-09 09:59:27.476593 - C tpye: 0109008166 - daiha15@ubot.vn - DAILY - No inv
-2023-02-09 09:59:41.687540 - C tpye: 2500623609-daiha15@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 10:00:57.953259 - C tpye: 0801312434-daiha16@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 10:01:23.854717 - C tpye: 2300836342-daiha16@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 10:01:52.374601 - C tpye: 2300898684 - daiha16@ubot.vn - DAILY - No inv
-2023-02-09 10:02:20.577359 - C tpye: 0109961675-daiha17@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 10:02:31.811977 - C tpye: 0801036706-daiha17@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 10:02:51.158354 - C tpye: 5702037673-daiha17@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:03:09.170857 - C tpye: 0102246108-daiha28@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 10:03:21.280544 - C tpye: 2300898130-daiha28@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 10:03:36.455858 - C tpye: 2400897902-daiha28@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 10:03:57.642910 - C tpye: 0106363405-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 10:04:14.055910 - C tpye: 0700857921-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 20
-2023-02-09 10:04:37.723180 - C tpye: 0800918159-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 10:04:59.474672 - C tpye: 2300990023-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:05:13.895718 - C tpye: 2301081077-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 10:05:34.990203 - C tpye: 0700732009-daiha20@ubot.vn-DAILY- So hoa don tren TCT: 20
-2023-02-09 10:05:46.791795 - C tpye: 2400772639-daiha20@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 10:05:56.001391 - C tpye: 2300928635 - daiha21@ubot.vn - DAILY - No inv
-2023-02-09 10:06:13.188639 - C tpye: 2300971126-daiha21@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:06:52.348289 - C tpye: 4601586467-daiha21@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 10:07:07.385320 - C tpye: 0901009921-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 10:07:35.017432 - C tpye: 2301032136-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 10:07:50.331707 - C tpye: 2400829194-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 10:08:11.403698 - C tpye: 2601032049-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 10:08:38.862672 - C tpye: 0104749185-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:08:46.700979 - C tpye: 0107724887 - daiha23@ubot.vn - DAILY - No inv
-2023-02-09 10:09:27.248315 - C tpye: 0108437035-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 10:09:43.749151 - C tpye: 2301080059-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 10:10:07.248437 - C tpye: 2400644595-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 113
-2023-02-09 10:10:26.998270 - C tpye: 0107571246-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 10:10:42.807262 - C tpye: 0700798384-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 10:11:01.409060 - C tpye: 0700851045-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 10:11:16.743179 - C tpye: 2500589429-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 10
-2023-02-09 10:11:36.965381 - C tpye: 0106783128-daiha25@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 10:11:43.626936 - C tpye: 0201880001-001 - daiha25@ubot.vn - DAILY - No inv
-2023-02-09 10:12:01.139385 - C tpye: 0201880001-daiha25@ubot.vn-DAILY- So hoa don tren TCT: 17
-2023-02-09 10:12:27.310767 - C tpye: 0108168262-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 10:12:42.289298 - C tpye: 0108897956-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 13
-2023-02-09 10:12:57.555049 - C tpye: 0201890049-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 10:13:13.428880 - C tpye: 0900286256-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 10:13:40.244554 - C tpye: 0108567919-daiha27@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 10:13:52.810390 - C tpye: 0108712556 - daiha27@ubot.vn - DAILY - No inv
-2023-02-09 10:14:08.358757 - C tpye: 2500514504-daiha27@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:14:23.355131 - C tpye: 2700901187-daiha27@ubot.vn-DAILY- So hoa don tren TCT: 23
-2023-02-09 10:14:41.767881 - C tpye: 0108087013-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 53
-2023-02-09 10:15:07.777970 - C tpye: 0108180710-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 22
-2023-02-09 10:15:27.581507 - C tpye: 0801219932-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 20
-2023-02-09 10:15:41.422353 - C tpye: 2400879974-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 10:16:03.973502 - C tpye: 2600971328-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 20
-2023-02-09 10:16:31.820352 - C tpye: 0201713843-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 10:16:46.113428 - C tpye: 0700809357-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 10:16:58.233779 - C tpye: 2400824950-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 10:17:24.912414 - C tpye: 2500624345-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 32
-2023-02-09 10:17:39.934740 - C tpye: 2300643446-daiha@ubot.vn-DAILY- So hoa don tren TCT: 10
-2023-02-09 10:17:54.440233 - C tpye: 1801647383-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 10:18:13.856892 - K tpye: 1801647383 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 39
-2023-02-09 10:18:25.032177 - C tpye: 1801678751 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:18:34.155832 - K tpye: 1801678751 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:18:46.288177 - C tpye: 1801715675-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 10:19:11.099030 - K tpye: 1801715675 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 10:19:31.064904 - C tpye: 1801656797 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:19:48.237533 - K tpye: 1801656797 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:20:06.788231 - C tpye: 1801457576 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:20:21.302421 - K tpye: 1801457576 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 10:20:29.166273 - C tpye: 1801650153 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:20:40.090052 - K tpye: 1801650153 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 5
-2023-02-09 10:20:57.466127 - C tpye: 1800640272-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 10:21:10.495758 - K tpye: 1800640272 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 10:21:25.923346 - C tpye: 1801588191-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:21:31.915362 - K tpye: 1801588191 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:21:38.082189 - C tpye: 1801719599 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:21:44.118756 - K tpye: 1801719599 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:22:04.577349 - C tpye: 1801655987-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:22:25.484608 - K tpye: 1801655987 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:22:36.083658 - C tpye: 1801722538-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 10:22:43.805455 - K tpye: 1801722538 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:22:50.235108 - C tpye: 1801627323 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 10:23:05.354951 - K tpye: 1801627323 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 20:33:56.504150 - C tpye: 0314753332-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:34:08.485168 - K tpye: 0314753332-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 20:34:54.111722 - C tpye: 0301758647-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 205
-2023-02-09 20:35:47.998671 - K tpye: 0301758647-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 184
-2023-02-09 20:35:52.695612 - C tpye: 0301758647-004-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:35:59.031674 - K tpye: 0301758647-004-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:36:24.514321 - C tpye: 0301758647-002-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 20:36:36.753585 - K tpye: 0301758647-002-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 20:36:56.010493 - C tpye: 0309537248-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 20
-2023-02-09 20:37:09.491163 - K tpye: 0309537248-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 20:37:22.942857 - C tpye: 0309758705-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:37:36.547198 - K tpye: 0309758705-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 20:37:52.490311 - C tpye: 0309795009-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 29
-2023-02-09 20:38:18.252512 - K tpye: 0309795009-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 20:38:25.266876 - C tpye: 0315397133-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:38:39.578774 - K tpye: 0315397133-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:38:51.056275 - C tpye: 0304455489-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 20:39:04.575917 - K tpye: 0304455489-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 20:39:26.212176 - C tpye: 0306905221-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 20:39:33.375195 - K tpye: 0306905221-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:39:39.840375 - C tpye: 0306925884-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:40:00.537251 - K tpye: 0306925884-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 8
-2023-02-09 20:40:08.025321 - C tpye: 0314999897-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:40:21.294703 - K tpye: 0314999897-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 20:40:33.676686 - C tpye: 0314184220-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 11
-2023-02-09 20:40:47.292139 - K tpye: 0314184220-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 20:41:02.325493 - C tpye: 0316492654-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:41:09.681661 - K tpye: 0316492654-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:41:40.611698 - C tpye: 0316524497-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:41:53.928326 - K tpye: 0316524497-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 20:42:01.749989 - C tpye: 0316436875-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:42:09.148898 - K tpye: 0316436875-U001 - catthai@ubot.vn - DAILY - No inv
-2023-02-09 20:42:34.010376 - C tpye: 0105444838-daiha1@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 20:42:48.461502 - C tpye: 0108389906 - daiha1@ubot.vn - DAILY - No inv
-2023-02-09 20:43:05.005731 - C tpye: 0201814520-daiha1@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 20:43:27.403937 - C tpye: 0107933464-001-daiha1@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 20:43:40.904436 - C tpye: 0109798933 - daiha1@ubot.vn - DAILY - No inv
-2023-02-09 20:44:01.957982 - C tpye: 0108162207-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 22
-2023-02-09 20:44:20.139291 - C tpye: 0108371994-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 20:44:32.153028 - C tpye: 2300937301-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 20:44:50.391014 - C tpye: 2300945662-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 20:45:10.920786 - C tpye: 2500620492-daiha2@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 20:45:23.498149 - C tpye: 2300901545-daiha29@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 20:45:40.413899 - C tpye: 0106665678-daiha3@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 20:45:55.780240 - C tpye: 2400825376-daiha3@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 20:46:15.912983 - C tpye: 2400644595-001-daiha3@ubot.vn-DAILY- So hoa don tren TCT: 18
-2023-02-09 20:46:44.300712 - C tpye: 0107842658-daiha4@ubot.vn-DAILY- So hoa don tren TCT: 99
-2023-02-09 20:46:55.076346 - C tpye: 0108973068 - daiha4@ubot.vn - DAILY - No inv
-2023-02-09 20:47:03.417954 - C tpye: 0106509855 - daiha6@ubot.vn - DAILY - No inv
-2023-02-09 20:47:24.198655 - C tpye: 0108388973-daiha6@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 20:47:45.005152 - C tpye: 0801092637-daiha6@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 20:47:59.227780 - C tpye: 2400940019-daiha6@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 20:48:18.025149 - C tpye: 0107953238-daiha7@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 20:48:29.262836 - C tpye: 0107963941 - daiha7@ubot.vn - DAILY - No inv
-2023-02-09 20:48:48.764828 - C tpye: 2300940255-daiha7@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 20:49:39.450066 - C tpye: 2301109981-daiha8@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 20:50:03.165071 - C tpye: 2400762292-daiha8@ubot.vn-DAILY- So hoa don tren TCT: 11
-2023-02-09 20:50:29.949223 - C tpye: 2600882212-daiha8@ubot.vn-DAILY- So hoa don tren TCT: 65
-2023-02-09 20:50:44.985406 - C tpye: 2300834842-daiha9@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 20:51:03.790875 - C tpye: 2400774770-daiha9@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 20:51:23.357017 - C tpye: 2300747364-daiha10@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 20:51:34.615311 - C tpye: 2300895387-daiha10@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 20:51:48.546474 - C tpye: 2700837220-daiha10@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 20:52:04.143915 - C tpye: 0700801485-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 20:52:19.000515 - C tpye: 2300834867-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 20:52:56.084359 - C tpye: 2400876162-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 20:53:25.493167 - C tpye: 2300767963-daiha11@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 20:53:42.358640 - C tpye: 0202089561-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 20:53:55.102825 - C tpye: 2300784165-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 20:54:08.689147 - C tpye: 2300951754-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 20:54:31.403586 - C tpye: 4601165268-daiha12@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 20:54:44.436461 - C tpye: 0106948637-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 20:54:58.971351 - C tpye: 2301057902-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 20:55:14.650054 - C tpye: 2400709563-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 20:55:33.072750 - C tpye: 2500587485-daiha13@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 20:56:11.868387 - C tpye: 0700259047-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 20:56:27.076734 - C tpye: 2300902891-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 20:56:40.264331 - C tpye: 2400740323-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 20:56:48.288982 - C tpye: 2500585512 - daiha14@ubot.vn - DAILY - No inv
-2023-02-09 20:57:18.333723 - C tpye: 2601037551-daiha14@ubot.vn-DAILY- So hoa don tren TCT: 30
-2023-02-09 20:57:30.980545 - C tpye: 0105945224-daiha15@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 20:57:50.031066 - C tpye: 0108534776-daiha15@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 20:57:56.984857 - C tpye: 0109008166 - daiha15@ubot.vn - DAILY - No inv
-2023-02-09 20:58:19.513472 - C tpye: 2500623609-daiha15@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 20:58:31.279494 - C tpye: 0801312434-daiha16@ubot.vn-DAILY- So hoa don tren TCT: 10
-2023-02-09 20:59:07.186111 - C tpye: 2300836342-daiha16@ubot.vn-DAILY- So hoa don tren TCT: 13
-2023-02-09 20:59:19.492123 - C tpye: 2300898684 - daiha16@ubot.vn - DAILY - No inv
-2023-02-09 20:59:36.396376 - C tpye: 0109961675-daiha17@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 20:59:53.681108 - C tpye: 0801036706-daiha17@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 21:00:06.990779 - C tpye: 5702037673-daiha17@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:00:20.861898 - C tpye: 0102246108-daiha28@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:00:36.780638 - C tpye: 2300898130-daiha28@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 21:01:03.452218 - C tpye: 2400897902-daiha28@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 21:01:16.168882 - C tpye: 0106363405-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 21:01:33.237263 - C tpye: 0700857921-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 24
-2023-02-09 21:02:18.215293 - C tpye: 0800918159-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 21:02:33.291343 - C tpye: 2300990023-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:03:05.278582 - C tpye: 2301081077-daiha19@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 21:03:25.999694 - C tpye: 0700732009-daiha20@ubot.vn-DAILY- So hoa don tren TCT: 21
-2023-02-09 21:03:37.131631 - C tpye: 2400772639-daiha20@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 21:03:45.208924 - C tpye: 2300928635 - daiha21@ubot.vn - DAILY - No inv
-2023-02-09 21:04:01.679407 - C tpye: 2300971126-daiha21@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:04:14.771097 - C tpye: 4601586467-daiha21@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:04:26.790135 - C tpye: 0901009921-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:04:38.806234 - C tpye: 2301032136-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 17
-2023-02-09 21:04:53.635437 - C tpye: 2400829194-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 21:05:04.387753 - C tpye: 2601032049-daiha22@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 21:05:17.752200 - C tpye: 0104749185-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:05:22.994202 - C tpye: 0107724887 - daiha23@ubot.vn - DAILY - No inv
-2023-02-09 21:05:37.344291 - C tpye: 0108437035-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:05:57.390443 - C tpye: 2301080059-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 21:06:33.487805 - C tpye: 2400644595-daiha23@ubot.vn-DAILY- So hoa don tren TCT: 126
-2023-02-09 21:06:46.979545 - C tpye: 0107571246-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 21:07:08.456047 - C tpye: 0700798384-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 21:07:23.257117 - C tpye: 0700851045-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 21:08:08.439105 - C tpye: 2500589429-daiha24@ubot.vn-DAILY- So hoa don tren TCT: 10
-2023-02-09 21:08:20.820721 - C tpye: 0106783128-daiha25@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 21:08:27.803558 - C tpye: 0201880001-001 - daiha25@ubot.vn - DAILY - No inv
-2023-02-09 21:08:51.021601 - C tpye: 0201880001-daiha25@ubot.vn-DAILY- So hoa don tren TCT: 21
-2023-02-09 21:09:05.293053 - C tpye: 0108168262-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 21:09:21.419870 - C tpye: 0108897956-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 21:09:43.697709 - C tpye: 0201890049-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 21:10:05.519435 - C tpye: 0900286256-daiha26@ubot.vn-DAILY- So hoa don tren TCT: 18
-2023-02-09 21:10:18.982526 - C tpye: 0108567919-daiha27@ubot.vn-DAILY- So hoa don tren TCT: 11
-2023-02-09 21:10:29.962256 - C tpye: 0108712556 - daiha27@ubot.vn - DAILY - No inv
-2023-02-09 21:10:42.184587 - C tpye: 2500514504-daiha27@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:11:05.435550 - C tpye: 2700901187-daiha27@ubot.vn-DAILY- So hoa don tren TCT: 24
-2023-02-09 21:11:38.019102 - C tpye: 0108087013-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 57
-2023-02-09 21:12:00.479346 - C tpye: 0108180710-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 28
-2023-02-09 21:12:25.294795 - C tpye: 0801219932-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 21
-2023-02-09 21:12:46.485074 - C tpye: 2400879974-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 21:13:10.986310 - C tpye: 2600971328-daiha18@ubot.vn-DAILY- So hoa don tren TCT: 21
-2023-02-09 21:13:24.480374 - C tpye: 0201713843-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 21:13:37.483003 - C tpye: 0700809357-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 21:13:50.899177 - C tpye: 2400824950-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 21:14:14.376302 - C tpye: 2500624345-daiha5@ubot.vn-DAILY- So hoa don tren TCT: 32
-2023-02-09 21:14:28.388439 - C tpye: 2300643446-daiha@ubot.vn-DAILY- So hoa don tren TCT: 10
-2023-02-09 21:14:50.135576 - C tpye: 1801647383-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 20
-2023-02-09 21:15:14.819310 - K tpye: 1801647383 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 48
-2023-02-09 21:15:29.243418 - C tpye: 1801678751 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:15:35.428907 - K tpye: 1801678751 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:15:46.148102 - C tpye: 1801715675-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:15:56.661055 - K tpye: 1801715675 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:16:16.774033 - C tpye: 1801656797 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:16:24.795924 - K tpye: 1801656797 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:16:36.318770 - C tpye: 1801457576 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:16:50.338914 - K tpye: 1801457576 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:16:56.961769 - C tpye: 1801650153 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:17:17.638907 - K tpye: 1801650153 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 5
-2023-02-09 21:17:31.488367 - C tpye: 1800640272-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:17:53.562307 - K tpye: 1800640272 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:18:06.733527 - C tpye: 1801588191-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:18:12.434486 - K tpye: 1801588191 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:18:18.678164 - C tpye: 1801719599 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:18:24.740334 - K tpye: 1801719599 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:18:51.172228 - C tpye: 1801655987-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:18:59.401913 - K tpye: 1801655987 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:19:11.305470 - C tpye: 1801722538-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:19:18.872179 - K tpye: 1801722538 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:19:23.815457 - C tpye: 1801627323 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:19:37.934699 - K tpye: 1801627323 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:19:45.517971 - C tpye: 1501126326 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:19:54.913767 - K tpye: 1501126326 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:20:01.434914 - C tpye: 1801564070 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:20:09.816916 - K tpye: 1801564070 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:20:22.997915 - C tpye: 1801726571 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:20:29.690759 - K tpye: 1801726571 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:20:46.098078 - C tpye: 1801629747 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:20:53.774691 - K tpye: 1801629747 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:21:04.575116 - C tpye: 1800685668-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:21:09.765227 - K tpye: 1800685668 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:21:31.348192 - C tpye: 1801320451-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:21:51.533957 - K tpye: 1801320451 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 10
-2023-02-09 21:21:59.772003 - C tpye: 1801648764 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:22:25.365762 - K tpye: 1801648764 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:22:45.742558 - C tpye: 1801183357-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:22:59.347249 - K tpye: 1801183357 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:23:14.204700 - C tpye: 1801334380-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:23:33.667040 - K tpye: 1801334380 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:23:47.213773 - C tpye: 1801590673-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:23:56.742503 - K tpye: 1801590673 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:24:19.514346 - C tpye: 1801595784-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:24:28.417084 - K tpye: 1801595784 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:24:58.504729 - C tpye: 1801390522 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:25:06.851814 - K tpye: 1801390522 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:25:13.350841 - C tpye: 1801575682 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:25:25.223158 - K tpye: 1801575682 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:25:42.313704 - C tpye: 1801627041 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:26:00.259858 - K tpye: 1801627041 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:26:13.745998 - C tpye: 1801691311-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:26:28.935095 - K tpye: 1801691311 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:26:42.540598 - C tpye: 1801638445-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:26:57.554562 - K tpye: 1801638445 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:27:09.754708 - C tpye: 1801716291-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 21:27:30.173714 - K tpye: 1801716291 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 21:27:51.053347 - C tpye: 1602018969-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:28:01.527012 - K tpye: 1602018969 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:28:16.005158 - C tpye: 1801694464 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:28:24.883158 - K tpye: 1801694464 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:28:42.934969 - C tpye: 2200745684 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:28:51.043002 - K tpye: 2200745684 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:29:00.717829 - C tpye: 1801722915 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:29:08.417540 - K tpye: 1801722915 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:29:28.248610 - C tpye: 1801482075 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:29:36.045473 - K tpye: 1801482075 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:29:49.784186 - C tpye: 1801589068-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:30:37.626088 - K tpye: 1801589068 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:30:45.962605 - C tpye: 1801625206 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:30:52.360901 - K tpye: 1801625206 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:30:56.943766 - C tpye: 1801612704 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:31:17.326368 - K tpye: 1801612704 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:31:25.857115 - C tpye: 1801694425 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:31:38.355433 - K tpye: 1801694425 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:31:53.614687 - C tpye: 1801695179 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:32:02.060459 - K tpye: 1801695179 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:32:07.270017 - C tpye: 1801710772 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:32:11.735604 - K tpye: 1801710772 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:32:27.254804 - C tpye: 1801715731 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:32:42.303323 - K tpye: 1801715731 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:32:56.430010 - C tpye: 1801576654-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 21:33:10.952754 - K tpye: 1801576654 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:33:26.128290 - C tpye: 6300298370-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:34:24.938277 - K tpye: 6300298370 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:34:55.367243 - C tpye: 6300256236 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:35:20.086418 - K tpye: 6300256236 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 60
-2023-02-09 21:35:33.120360 - C tpye: 6300252834-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 21:35:54.326218 - K tpye: 6300252834 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 21:36:16.581334 - C tpye: 6300135827-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 37
-2023-02-09 21:36:27.466483 - K tpye: 6300135827 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 5
-2023-02-09 21:36:41.074675 - C tpye: 6300317496-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:37:13.461297 - K tpye: 6300317496 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 15
-2023-02-09 21:37:31.748238 - C tpye: 6300305980-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 11
-2023-02-09 21:37:44.378924 - K tpye: 6300305980 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:38:09.848265 - C tpye: 6300319849-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 23
-2023-02-09 21:38:29.567281 - K tpye: 6300319849 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 21:38:40.826608 - C tpye: 6300349219-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 21:38:47.624873 - K tpye: 6300349219 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:39:01.728612 - C tpye: 6300309336-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:39:22.414397 - K tpye: 6300309336 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 21:39:34.710849 - C tpye: 6300333089 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:39:39.330332 - K tpye: 6300333089 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:39:47.080591 - C tpye: 1800212164 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:39:53.499287 - K tpye: 1800212164 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:40:01.593514 - C tpye: 6300352109 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:40:10.261709 - K tpye: 6300352109 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:40:23.406980 - C tpye: 6300103536-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:40:35.162220 - K tpye: 6300103536 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:40:42.970336 - C tpye: 6300296207 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:40:58.123962 - K tpye: 6300296207 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:41:02.912887 - C tpye: 6300066796 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:41:22.053230 - K tpye: 6300066796 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 21:41:35.791984 - C tpye: 6300298243-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:41:57.293820 - K tpye: 6300298243 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:42:07.013757 - C tpye: 6300256606 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:42:13.677318 - K tpye: 6300256606 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:42:18.803448 - C tpye: 6300334533 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:42:39.332316 - K tpye: 6300334533 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 11
-2023-02-09 21:42:52.945597 - C tpye: 6300333917-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:43:10.875912 - K tpye: 6300333917 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:43:15.831531 - C tpye: 6300347500 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:43:22.827101 - K tpye: 6300347500 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:43:31.387374 - C tpye: 6300333850 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:43:47.557807 - K tpye: 6300333850 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 21:43:53.810004 - C tpye: 1801183357-001 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:44:03.270809 - K tpye: 1801183357-001 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:44:18.281272 - C tpye: 6300198880 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:44:25.505717 - K tpye: 6300198880 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:44:42.126847 - C tpye: 6300306416 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:44:51.745397 - K tpye: 6300306416 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:44:58.198224 - C tpye: 6300306825 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:45:05.970205 - K tpye: 6300306825 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:45:21.649883 - C tpye: 6300353046 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:45:28.355224 - K tpye: 6300353046 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:45:42.986124 - C tpye: 6300353670-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 21:45:52.974088 - K tpye: 6300353670 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:46:09.285781 - C tpye: 8076851573-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:46:17.067373 - K tpye: 8076851573 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:46:56.059300 - C tpye: 6300020424-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 21:47:06.765796 - K tpye: 6300020424 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 7
-2023-02-09 21:47:25.592958 - C tpye: 6300260715 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:47:29.989324 - K tpye: 6300260715 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:48:01.932301 - C tpye: 6300344764 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:48:09.977660 - K tpye: 6300344764 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:48:18.500567 - C tpye: 6300236783 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:48:33.353308 - K tpye: 6300236783 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:48:38.051834 - C tpye: 1801698155 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:49:02.275797 - K tpye: 1801698155 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:49:23.468856 - C tpye: 6300350655 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:49:30.182185 - K tpye: 6300350655 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:49:44.500815 - C tpye: 6300320065-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 25
-2023-02-09 21:49:56.661242 - K tpye: 6300320065 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 21:50:02.843648 - C tpye: 6300350207 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:50:12.350865 - K tpye: 6300350207 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:50:20.545706 - C tpye: 6300351338 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:50:31.153508 - K tpye: 6300351338 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:50:44.673252 - C tpye: 6300350408 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:51:01.261747 - K tpye: 6300350408 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:51:10.023004 - C tpye: 6300346183 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:51:19.012662 - K tpye: 6300346183 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:51:27.263176 - C tpye: 1501121617 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:51:39.435456 - K tpye: 1501121617 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:51:45.555697 - C tpye: 2200795967 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:51:52.356192 - K tpye: 2200795967 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:51:57.515780 - C tpye: 1801713798 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:52:03.545622 - K tpye: 1801713798 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:52:17.012118 - C tpye: 2200795967 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:52:42.515439 - K tpye: 2200795967 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:52:52.522492 - C tpye: 1801713798 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:53:00.662762 - K tpye: 1801713798 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 21:54:17.167196 - C tpye: 0100931299-005-bicbactrungbo@ubot.vn-DAILY- So hoa don tren TCT: 223
-2023-02-09 21:54:30.716639 - K tpye: 0100931299-005 - bicbactrungbo@ubot.vn - DAILY- So hoa don tren TCT: 13
-2023-02-09 21:54:41.166549 - C tpye: 0107556590-tranhoangyen@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 21:55:05.044873 - K tpye: 0107556590 - tranhoangyen@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 21:55:29.195296 - C tpye: 0108269616-tranhoangyen@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 21:55:40.206406 - K tpye: 0108269616 - tranhoangyen@ubot.vn - DAILY - No inv
-2023-02-09 21:59:10.619453 - C tpye: 1800156801-dhg@ubot.vn-DAILY- So hoa don tren TCT: 1120
-2023-02-09 21:59:50.231993 - K tpye: 1800156801 - dhg@ubot.vn - DAILY- So hoa don tren TCT: 137
-2023-02-09 22:00:15.605322 - C tpye: 1800156801-002-hue@ubot.vn-DAILY- So hoa don tren TCT: 53
-2023-02-09 22:00:37.720651 - K tpye: 1800156801-002 - hue@ubot.vn - DAILY- So hoa don tren TCT: 36
-2023-02-09 22:01:08.778453 - C tpye: 1800156801-003-dng@ubot.vn-DAILY- So hoa don tren TCT: 43
-2023-02-09 22:01:40.932749 - K tpye: 1800156801-003 - dng@ubot.vn - DAILY- So hoa don tren TCT: 19
-2023-02-09 22:02:06.114058 - C tpye: 1800156801-004-qni@ubot.vn-DAILY- So hoa don tren TCT: 46
-2023-02-09 22:02:28.409512 - K tpye: 1800156801-004 - qni@ubot.vn - DAILY- So hoa don tren TCT: 21
-2023-02-09 22:03:01.459660 - C tpye: 1800156801-007-hpg@ubot.vn-DAILY- So hoa don tren TCT: 37
-2023-02-09 22:03:07.737021 - K tpye: 1800156801-007 - hpg@ubot.vn - DAILY - No inv
-2023-02-09 22:03:48.436013 - C tpye: 1800156801-009-tbh@ubot.vn-DAILY- So hoa don tren TCT: 127
-2023-02-09 22:03:57.267569 - K tpye: 1800156801-009 - tbh@ubot.vn - DAILY - No inv
-2023-02-09 22:04:41.359349 - C tpye: 1800156801-010-dtp@ubot.vn-DAILY- So hoa don tren TCT: 110
-2023-02-09 22:05:07.006471 - K tpye: 1800156801-010 - dtp@ubot.vn - DAILY- So hoa don tren TCT: 8
-2023-02-09 22:05:44.317772 - C tpye: 1800156801-011-stp@ubot.vn-DAILY- So hoa don tren TCT: 106
-2023-02-09 22:05:53.234285 - K tpye: 1800156801-011 - stp@ubot.vn - DAILY - No inv
-2023-02-09 22:06:24.315996 - C tpye: 1800156801-012-agp@ubot.vn-DAILY- So hoa don tren TCT: 97
-2023-02-09 22:06:45.474773 - K tpye: 1800156801-012 - agp@ubot.vn - DAILY- So hoa don tren TCT: 15
-2023-02-09 22:07:24.866942 - C tpye: 1800156801-014-blp@ubot.vn-DAILY- So hoa don tren TCT: 78
-2023-02-09 22:07:48.319209 - K tpye: 1800156801-014 - blp@ubot.vn - DAILY- So hoa don tren TCT: 20
-2023-02-09 22:08:16.084842 - C tpye: 1800156801-015-tgp@ubot.vn-DAILY- So hoa don tren TCT: 94
-2023-02-09 22:08:29.292713 - K tpye: 1800156801-015 - tgp@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:08:54.419453 - C tpye: 1800156801-016-tvh@ubot.vn-DAILY- So hoa don tren TCT: 60
-2023-02-09 22:09:14.362597 - K tpye: 1800156801-016 - tvh@ubot.vn - DAILY- So hoa don tren TCT: 6
-2023-02-09 22:09:40.924943 - C tpye: 1800156801-017-bte@ubot.vn-DAILY- So hoa don tren TCT: 90
-2023-02-09 22:09:52.396017 - K tpye: 1800156801-017 - bte@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:10:31.846020 - C tpye: 1800156801-019-htp@ubot.vn-DAILY- So hoa don tren TCT: 102
-2023-02-09 22:10:45.609630 - K tpye: 1800156801-019 - htp@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:11:24.732780 - C tpye: 1800156801-020-vlg@ubot.vn-DAILY- So hoa don tren TCT: 104
-2023-02-09 22:11:37.648859 - K tpye: 1800156801-020 - vlg@ubot.vn - DAILY- So hoa don tren TCT: 7
-2023-02-09 22:12:22.131579 - C tpye: 1800156801-029-tot@ubot.vn-DAILY- So hoa don tren TCT: 183
-2023-02-09 22:12:43.531626 - K tpye: 1800156801-029 - tot@ubot.vn - DAILY- So hoa don tren TCT: 20
-2023-02-09 22:13:26.380304 - C tpye: 1800156801-030-hcm@ubot.vn-DAILY- So hoa don tren TCT: 150
-2023-02-09 22:13:50.725559 - K tpye: 1800156801-030 - hcm@ubot.vn - DAILY- So hoa don tren TCT: 25
-2023-02-09 22:14:15.739897 - C tpye: 1800156801-031-hni@ubot.vn-DAILY- So hoa don tren TCT: 88
-2023-02-09 22:14:37.851432 - K tpye: 1800156801-031 - hni@ubot.vn - DAILY- So hoa don tren TCT: 19
-2023-02-09 22:15:22.761541 - C tpye: 1800156801-035-dni@ubot.vn-DAILY- So hoa don tren TCT: 132
-2023-02-09 22:15:40.290980 - K tpye: 1800156801-035 - dni@ubot.vn - DAILY- So hoa don tren TCT: 8
-2023-02-09 22:16:04.616562 - C tpye: 1800156801-038-tnn@ubot.vn-DAILY- So hoa don tren TCT: 52
-2023-02-09 22:16:27.232728 - K tpye: 1800156801-038 - tnn@ubot.vn - DAILY- So hoa don tren TCT: 10
-2023-02-09 22:16:55.083935 - C tpye: 1800156801-040-nbh@ubot.vn-DAILY- So hoa don tren TCT: 77
-2023-02-09 22:17:07.574221 - K tpye: 1800156801-040 - nbh@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:17:31.969322 - C tpye: 1800156801-041-ntg@ubot.vn-DAILY- So hoa don tren TCT: 45
-2023-02-09 22:17:51.139303 - K tpye: 1800156801-041 - ntg@ubot.vn - DAILY- So hoa don tren TCT: 5
-2023-02-09 22:18:14.909371 - C tpye: 1800156801-042-qnn@ubot.vn-DAILY- So hoa don tren TCT: 48
-2023-02-09 22:18:26.704407 - K tpye: 1800156801-042 - qnn@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 22:19:07.685706 - C tpye: 1800156801-045-bdg@ubot.vn-DAILY- So hoa don tren TCT: 124
-2023-02-09 22:19:22.143227 - K tpye: 1800156801-045 - bdg@ubot.vn - DAILY- So hoa don tren TCT: 7
-2023-02-09 22:20:01.189930 - C tpye: 1800156801-046-dlk@ubot.vn-DAILY- So hoa don tren TCT: 46
-2023-02-09 22:20:32.082261 - K tpye: 1800156801-046 - dlk@ubot.vn - DAILY- So hoa don tren TCT: 22
-2023-02-09 22:21:00.967137 - C tpye: 1800156801-047-gli@ubot.vn-DAILY- So hoa don tren TCT: 32
-2023-02-09 22:21:45.990788 - K tpye: 1800156801-047 - gli@ubot.vn - DAILY- So hoa don tren TCT: 21
-2023-02-09 22:22:27.110830 - C tpye: 1800156801-050-tha@ubot.vn-DAILY- So hoa don tren TCT: 77
-2023-02-09 22:22:45.880747 - K tpye: 1800156801-050 - tha@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:23:09.785631 - C tpye: 1800156801-051-hdg@ubot.vn-DAILY- So hoa don tren TCT: 50
-2023-02-09 22:23:24.616987 - K tpye: 1800156801-051 - hdg@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 22:24:09.837117 - C tpye: 1800156801-053-bnh@ubot.vn-DAILY- So hoa don tren TCT: 101
-2023-02-09 22:24:34.414082 - K tpye: 1800156801-053 - bnh@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:25:00.673491 - C tpye: 1800156801-054-vpc@ubot.vn-DAILY- So hoa don tren TCT: 86
-2023-02-09 22:25:11.652937 - K tpye: 1800156801-054 - vpc@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 22:25:33.261059 - C tpye: 1800156801-055-btn@ubot.vn-DAILY- So hoa don tren TCT: 40
-2023-02-09 22:25:55.711624 - K tpye: 1800156801-055 - btn@ubot.vn - DAILY- So hoa don tren TCT: 6
-2023-02-09 22:26:24.794204 - C tpye: 1800156801-057-vtu@ubot.vn-DAILY- So hoa don tren TCT: 70
-2023-02-09 22:26:45.763403 - K tpye: 1800156801-057 - vtu@ubot.vn - DAILY- So hoa don tren TCT: 6
-2023-02-09 22:27:11.154496 - C tpye: 1800156801-060-cmp@ubot.vn-DAILY- So hoa don tren TCT: 85
-2023-02-09 22:27:23.387514 - K tpye: 1800156801-060 - cmp@ubot.vn - DAILY- So hoa don tren TCT: 7
-2023-02-09 22:27:50.959080 - C tpye: 1800156801-074-wh1@ubot.vn-DAILY- So hoa don tren TCT: 83
-2023-02-09 22:28:01.746273 - K tpye: 1800156801-074 - wh1@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:28:26.790081 - C tpye: 1800156801-075-wh2@ubot.vn-DAILY- So hoa don tren TCT: 66
-2023-02-09 22:28:37.487890 - K tpye: 1800156801-075 - wh2@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:29:14.954388 - C tpye: 1800156801-073-shp@ubot.vn-DAILY- So hoa don tren TCT: 124
-2023-02-09 22:29:35.016227 - K tpye: 1800156801-073 - shp@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:29:49.299094 - C tpye: 0314601393-codienthaiduong@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 22:30:02.769398 - K tpye: 0314601393 - codienthaiduong@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:30:13.899199 - C tpye: 1801687650-haidanggroup@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 22:30:25.869613 - K tpye: 1801687650 - haidanggroup@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:30:35.129809 - C tpye: 1801730955 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 22:30:42.918436 - K tpye: 1801730955 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 22:30:47.667033 - C tpye: 1801699102 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 22:30:53.979757 - K tpye: 1801699102 - haidanggroup@ubot.vn - DAILY - No inv
-2023-02-09 22:31:07.117910 - C tpye: 0311894286-duyenact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:31:20.856107 - K tpye: 0311894286 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 22:31:34.147221 - C tpye: 0305139990-duyenact@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 22:31:48.115520 - K tpye: 0305139990 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:32:03.300348 - C tpye: 0313630049-duyenact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:32:23.868015 - K tpye: 0313630049 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:32:45.376567 - C tpye: 0312988988-duyenact@ubot.vn-DAILY- So hoa don tren TCT: 34
-2023-02-09 22:33:03.362852 - K tpye: 0312988988 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 10
-2023-02-09 22:33:17.502787 - C tpye: 0316469091-duyenact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:33:35.152297 - K tpye: 0316469091 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:33:56.049074 - C tpye: 0317050761-duyenact@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 22:34:25.076849 - K tpye: 0317050761 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 22:34:35.087029 - C tpye: 0317258696 - duyenact@ubot.vn - DAILY - No inv
-2023-02-09 22:34:48.371226 - K tpye: 0317258696 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 22:35:09.903608 - C tpye: 0315360133-thuact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:35:15.189150 - K tpye: 0315360133 - thuact@ubot.vn - DAILY - No inv
-2023-02-09 22:35:26.061405 - C tpye: 0316045504-thuact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:35:42.602707 - K tpye: 0316045504 - thuact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 22:35:54.526475 - C tpye: 0316019141-thuact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:36:01.167662 - K tpye: 0316019141 - thuact@ubot.vn - DAILY - No inv
-2023-02-09 22:36:08.842095 - C tpye: 0316314690 - thuact@ubot.vn - DAILY - No inv
-2023-02-09 22:36:18.111199 - K tpye: 0316314690 - thuact@ubot.vn - DAILY - No inv
-2023-02-09 22:36:32.406921 - C tpye: 0309430216-thuact@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 22:36:45.251487 - K tpye: 0309430216 - thuact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 22:37:14.542363 - C tpye: 0317139811 - thuact@ubot.vn - DAILY - No inv
-2023-02-09 22:37:24.846414 - K tpye: 0317139811 - thuact@ubot.vn - DAILY - No inv
-2023-02-09 22:37:45.646465 - C tpye: 0312653484-vanact@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 22:38:08.167838 - K tpye: 0312653484 - vanact@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 22:38:33.400708 - C tpye: 0317169076-vanact@ubot.vn-DAILY- So hoa don tren TCT: 36
-2023-02-09 22:38:54.372303 - K tpye: 0317169076 - vanact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:39:02.496725 - C tpye: 0314393880 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:39:32.256289 - K tpye: 0314393880 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:39:46.255522 - C tpye: 0313217723-vanact@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 22:40:04.631308 - K tpye: 0313217723 - vanact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:40:15.852257 - C tpye: 0316817246-quanact@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 22:40:26.506912 - K tpye: 0316817246 - quanact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:40:35.820940 - C tpye: 0317454242 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:40:44.202351 - K tpye: 0317454242 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:40:54.549362 - C tpye: 0316994573-vanact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:41:10.401082 - K tpye: 0316994573 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:41:21.085819 - C tpye: 0317231091 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:41:33.396389 - K tpye: 0317231091 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:42:04.600759 - C tpye: 0316289807 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:42:19.147557 - K tpye: 0316289807 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:42:56.395272 - C tpye: 0314906758-diemact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:43:08.709736 - K tpye: 0314906758 - diemact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:43:45.727295 - C tpye: 0315059286-diemact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:43:56.692336 - K tpye: 0315059286 - diemact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:44:04.294457 - C tpye: 0314548439 - diemact@ubot.vn - DAILY - No inv
-2023-02-09 22:44:12.072290 - K tpye: 0314548439 - diemact@ubot.vn - DAILY - No inv
-2023-02-09 22:44:33.592670 - C tpye: 0313695310-duyenact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:44:49.445831 - K tpye: 0313695310 - duyenact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:45:27.388078 - C tpye: 0309759441-quanact@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 22:45:48.520469 - K tpye: 0309759441 - quanact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:46:16.875835 - C tpye: 3502353325 - quanact@ubot.vn - DAILY - No inv
-2023-02-09 22:46:32.425628 - K tpye: 3502353325 - quanact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:46:45.296380 - C tpye: 0315666467-quanact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:46:53.374315 - K tpye: 0315666467 - quanact@ubot.vn - DAILY - No inv
-2023-02-09 22:47:02.237873 - C tpye: 0316474246 - quanact@ubot.vn - DAILY - No inv
-2023-02-09 22:47:10.449162 - K tpye: 0316474246 - quanact@ubot.vn - DAILY - No inv
-2023-02-09 22:47:24.292882 - C tpye: 0316976278-quanact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:47:30.804464 - K tpye: 0316976278 - quanact@ubot.vn - DAILY - No inv
-2023-02-09 22:47:37.953623 - C tpye: 0315801733 - quanact@ubot.vn - DAILY - No inv
-2023-02-09 22:48:09.034828 - K tpye: 0315801733 - quanact@ubot.vn - DAILY - No inv
-2023-02-09 22:48:25.089973 - C tpye: 0312837756-quanact@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 22:48:39.157793 - K tpye: 0312837756 - quanact@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 22:49:02.334897 - C tpye: 0303160764-diemact@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 22:49:15.525412 - K tpye: 0303160764 - diemact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:49:28.873177 - C tpye: 0311988569-diemact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:49:48.071902 - K tpye: 0311988569 - diemact@ubot.vn - DAILY- So hoa don tren TCT: 7
-2023-02-09 22:50:07.849278 - C tpye: 0313243586 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:50:15.801709 - K tpye: 0313243586 - vanact@ubot.vn - DAILY - No inv
-2023-02-09 22:50:40.427973 - C tpye: 0314138383-diemact@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 22:50:51.238842 - K tpye: 0314138383 - diemact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 22:50:56.183150 - C tpye: 0315346996 - diemact@ubot.vn - DAILY - No inv
-2023-02-09 22:51:19.551421 - K tpye: 0315346996 - diemact@ubot.vn - DAILY - No inv
-2023-02-09 22:51:30.288321 - C tpye: 0315660962 - diemact@ubot.vn - DAILY - No inv
-2023-02-09 22:51:38.474356 - K tpye: 0315660962 - diemact@ubot.vn - DAILY - No inv
-2023-02-09 22:52:09.059020 - C tpye: 0315878736-diemact@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 22:52:28.052251 - K tpye: 0315878736 - diemact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:52:41.511777 - C tpye: 5900691422-001-diemact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:53:02.191672 - K tpye: 5900691422-001 - diemact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:53:16.062231 - C tpye: 4101467817-phucact@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 22:53:27.128337 - K tpye: 4101467817 - phucact@ubot.vn - DAILY- So hoa don tren TCT: 8
-2023-02-09 22:53:46.898304 - C tpye: 4101556760-phucact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:53:51.941616 - K tpye: 4101556760 - phucact@ubot.vn - DAILY - No inv
-2023-02-09 22:54:07.101375 - C tpye: 4101486979-phucact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 22:54:14.606069 - K tpye: 4101486979 - phucact@ubot.vn - DAILY - No inv
-2023-02-09 22:54:39.279315 - C tpye: 4101542711-phucact@ubot.vn-DAILY- So hoa don tren TCT: 14
-2023-02-09 22:54:47.873297 - K tpye: 4101542711 - phucact@ubot.vn - DAILY - No inv
-2023-02-09 22:54:55.839514 - C tpye: 0309430216-007 - phucact@ubot.vn - DAILY - No inv
-2023-02-09 22:55:07.758735 - K tpye: 0309430216-007 - phucact@ubot.vn - DAILY - No inv
-2023-02-09 22:55:55.633938 - C tpye: 4100638410-ngaact@ubot.vn-DAILY- So hoa don tren TCT: 12
-2023-02-09 22:56:08.661119 - K tpye: 4100638410 - ngaact@ubot.vn - DAILY - No inv
-2023-02-09 22:56:22.806451 - C tpye: 0315932119-ngaact@ubot.vn-DAILY- So hoa don tren TCT: 15
-2023-02-09 22:56:53.804932 - K tpye: 0315932119 - ngaact@ubot.vn - DAILY - No inv
-2023-02-09 22:57:00.757112 - C tpye: 4101600804 - ngaact@ubot.vn - DAILY - No inv
-2023-02-09 22:57:06.672500 - K tpye: 4101600804 - ngaact@ubot.vn - DAILY - No inv
-2023-02-09 22:57:12.815612 - C tpye: 4101585426 - ngaact@ubot.vn - DAILY - No inv
-2023-02-09 22:57:30.368558 - K tpye: 4101585426 - ngaact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 22:57:42.581541 - C tpye: 4100700080-ngaact@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 22:57:58.361905 - K tpye: 4100700080 - ngaact@ubot.vn - DAILY - No inv
-2023-02-09 22:58:08.803745 - C tpye: 4101558408-001-ngaact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 22:58:24.573562 - K tpye: 4101558408-001 - ngaact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 22:58:53.869198 - C tpye: 4101552614 - suongact@ubot.vn - DAILY - No inv
-2023-02-09 22:59:16.664695 - K tpye: 4101552614 - suongact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 22:59:28.630385 - C tpye: 4101199702-suongact@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 22:59:41.726414 - K tpye: 4101199702 - suongact@ubot.vn - DAILY- So hoa don tren TCT: 15
-2023-02-09 22:59:57.467481 - C tpye: 4101492820-suongact@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 23:00:33.584221 - K tpye: 4101492820 - suongact@ubot.vn - DAILY- So hoa don tren TCT: 5
-2023-02-09 23:00:53.360289 - C tpye: 4101431641 - suongact@ubot.vn - DAILY - No inv
-2023-02-09 23:01:06.326074 - K tpye: 4101431641 - suongact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 23:01:15.343860 - C tpye: 4101450323 - suongact@ubot.vn - DAILY - No inv
-2023-02-09 23:01:28.984912 - K tpye: 4101450323 - suongact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:01:41.030964 - C tpye: 4100713354-niact@ubot.vn-DAILY- So hoa don tren TCT: 7
-2023-02-09 23:02:08.954241 - K tpye: 4100713354 - niact@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 23:02:22.504254 - C tpye: 4100504671-niact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 23:02:34.602012 - K tpye: 4100504671 - niact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:03:00.697579 - C tpye: 4100267646-niact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 23:03:08.903897 - K tpye: 4100267646 - niact@ubot.vn - DAILY - No inv
-2023-02-09 23:03:23.740933 - C tpye: 4101491626-niact@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 23:03:36.179497 - K tpye: 4101491626 - niact@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 23:03:46.445685 - C tpye: 4101368534 - niact@ubot.vn - DAILY - No inv
-2023-02-09 23:03:56.752448 - K tpye: 4101368534 - niact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:04:03.651417 - C tpye: 4101567339 - niact@ubot.vn - DAILY - No inv
-2023-02-09 23:04:19.460139 - K tpye: 4101567339 - niact@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:04:33.477830 - C tpye: 4101470577-niact@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 23:04:46.101047 - K tpye: 4101470577 - niact@ubot.vn - DAILY- So hoa don tren TCT: 7
-2023-02-09 23:05:00.610704 - C tpye: 4100700468-yenact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 23:05:21.967782 - K tpye: 4100700468 - yenact@ubot.vn - DAILY- So hoa don tren TCT: 8
-2023-02-09 23:05:52.593755 - C tpye: 4101468803 - yenact@ubot.vn - DAILY - No inv
-2023-02-09 23:06:07.349747 - K tpye: 4101468803 - yenact@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 23:06:14.108943 - C tpye: 4101266162 - yenact@ubot.vn - DAILY - No inv
-2023-02-09 23:06:28.035617 - K tpye: 4101266162 - yenact@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 23:06:42.559225 - C tpye: 4101420590-yenact@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 23:06:49.107517 - K tpye: 4101420590 - yenact@ubot.vn - DAILY - No inv
-2023-02-09 23:07:27.483281 - C tpye: 4101567177-yenact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 23:07:43.139606 - K tpye: 4101567177 - yenact@ubot.vn - DAILY - No inv
-2023-02-09 23:07:51.205599 - C tpye: 4100571621 - hangact@ubot.vn - DAILY - No inv
-2023-02-09 23:08:19.664770 - K tpye: 4100571621 - hangact@ubot.vn - DAILY- So hoa don tren TCT: 5
-2023-02-09 23:08:41.403261 - C tpye: 4100267741-nghiaact@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 23:08:57.611239 - K tpye: 4100267741 - nghiaact@ubot.vn - DAILY- So hoa don tren TCT: 22
-2023-02-09 23:09:29.669829 - C tpye: 4601158581 - ha@ubot.vn - DAILY - No inv
-2023-02-09 23:10:09.380269 - K tpye: 4601158581 - ha@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 23:10:16.466596 - C tpye: 4601542734 - ha@ubot.vn - DAILY - No inv
-2023-02-09 23:10:29.899222 - K tpye: 4601542734 - ha@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 23:10:37.229789 - C tpye: 4601557378 - ha@ubot.vn - DAILY - No inv
-2023-02-09 23:11:06.951612 - K tpye: 4601557378 - ha@ubot.vn - DAILY - No inv
-2023-02-09 23:11:22.232579 - C tpye: 4600725485 - ha@ubot.vn - DAILY - No inv
-2023-02-09 23:11:30.220488 - K tpye: 4600725485 - ha@ubot.vn - DAILY - No inv
-2023-02-09 23:11:53.262996 - C tpye: 0305440661-eagleburgmann@ubot.vn-DAILY- So hoa don tren TCT: 42
-2023-02-09 23:12:14.392970 - K tpye: 0305440661 - eagleburgmann@ubot.vn - DAILY- So hoa don tren TCT: 15
-2023-02-09 23:12:19.700199 - C tpye: 0105863860 - luatant@ubot.vn - DAILY - No inv
-2023-02-09 23:12:37.325261 - K tpye: 0105863860 - luatant@ubot.vn - DAILY- So hoa don tren TCT: 3
-2023-02-09 23:13:01.494451 - C tpye: 0105276728-tuvanant@ubot.vn-DAILY- So hoa don tren TCT: 3
-2023-02-09 23:13:10.744550 - K tpye: 0105276728 - tuvanant@ubot.vn - DAILY - No inv
-2023-02-09 23:13:21.463159 - C tpye: 0315410352-thanhnm@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 23:13:29.921323 - K tpye: 0315410352 - thanhnm@ubot.vn - DAILY - No inv
-2023-02-09 23:13:38.497861 - C tpye: 0110078714 - thanhnm@ubot.vn - DAILY - No inv
-2023-02-09 23:13:46.798088 - K tpye: 0110078714 - thanhnm@ubot.vn - DAILY - No inv
-2023-02-09 23:13:54.792488 - C tpye: 0108635527 - thanhnm@ubot.vn - DAILY - No inv
-2023-02-09 23:14:07.199273 - K tpye: 0108635527 - thanhnm@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:14:17.438497 - C tpye: 0108635527-001 - thanhnm@ubot.vn - DAILY - No inv
-2023-02-09 23:14:22.199907 - K tpye: 0108635527-001 - thanhnm@ubot.vn - DAILY - No inv
-2023-02-09 23:14:34.314317 - C tpye: 0106493073 - thanhnm@ubot.vn - DAILY - No inv
-2023-02-09 23:14:56.821554 - K tpye: 0106493073 - thanhnm@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 23:15:28.920139 - C tpye: 0106011636-globalcom@ubot.vn-DAILY- So hoa don tren TCT: 25
-2023-02-09 23:15:50.363911 - K tpye: 0106011636 - globalcom@ubot.vn - DAILY- So hoa don tren TCT: 5
-2023-02-09 23:16:11.571120 - C tpye: 0201618364-maimanh@ubot.vn-DAILY- So hoa don tren TCT: 4
-2023-02-09 23:16:37.560295 - K tpye: 0201618364 - maimanh@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 23:16:50.158441 - C tpye: 0201828957-maimanh@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 23:16:55.427786 - K tpye: 0201828957 - maimanh@ubot.vn - DAILY - No inv
-2023-02-09 23:17:07.060671 - C tpye: 0202023514-maimanh@ubot.vn-DAILY- So hoa don tren TCT: 6
-2023-02-09 23:17:19.817512 - K tpye: 0202023514 - maimanh@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:17:35.168384 - C tpye: 0202048967-maimanh@ubot.vn-DAILY- So hoa don tren TCT: 10
-2023-02-09 23:17:41.477441 - K tpye: 0202048967 - maimanh@ubot.vn - DAILY - No inv
-2023-02-09 23:17:54.459901 - C tpye: 0201758682 - maimanh@ubot.vn - DAILY - No inv
-2023-02-09 23:18:02.659615 - K tpye: 0201758682 - maimanh@ubot.vn - DAILY - No inv
-2023-02-09 23:18:18.016432 - C tpye: 0201638579 - maimanh@ubot.vn - DAILY - No inv
-2023-02-09 23:18:30.077419 - K tpye: 0201638579 - maimanh@ubot.vn - DAILY- So hoa don tren TCT: 2
-2023-02-09 23:19:08.942854 - C tpye: 0100931299-033-bicquangbinh@ubot.vn-DAILY- So hoa don tren TCT: 85
-2023-02-09 23:19:32.486259 - K tpye: 0100931299-033 - bicquangbinh@ubot.vn - DAILY- So hoa don tren TCT: 9
-2023-02-09 23:19:48.577694 - C tpye: 0316487439-dinhduongbinhminh@ubot.vn-DAILY- So hoa don tren TCT: 8
-2023-02-09 23:20:08.014385 - K tpye: 0316487439 - dinhduongbinhminh@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:20:18.507966 - C tpye: 0305089034 - thamnguyen@ubot.vn - DAILY - No inv
-2023-02-09 23:20:39.826325 - K tpye: 0305089034 - thamnguyen@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:20:53.563943 - C tpye: 0315769712-thamnguyen@ubot.vn-DAILY- So hoa don tren TCT: 9
-2023-02-09 23:21:14.505007 - K tpye: 0315769712 - thamnguyen@ubot.vn - DAILY- So hoa don tren TCT: 4
-2023-02-09 23:21:28.322322 - C tpye: 0316755494-thamnguyen@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 23:21:48.676704 - K tpye: 0316755494 - thamnguyen@ubot.vn - DAILY - No inv
-2023-02-09 23:21:59.727828 - C tpye: 3600724955-thamnguyen@ubot.vn-DAILY- So hoa don tren TCT: 5
-2023-02-09 23:22:13.757195 - K tpye: 3600724955 - thamnguyen@ubot.vn - DAILY- So hoa don tren TCT: 9
-2023-02-09 23:22:27.808227 - C tpye: 3603656252-thamnguyen@ubot.vn-DAILY- So hoa don tren TCT: 1
-2023-02-09 23:22:35.956265 - K tpye: 3603656252 - thamnguyen@ubot.vn - DAILY - No inv
-2023-02-09 23:22:56.915861 - C tpye: 3603882244 - thamnguyen@ubot.vn - DAILY - No inv
-2023-02-09 23:23:04.782624 - K tpye: 3603882244 - thamnguyen@ubot.vn - DAILY - No inv
-2023-02-09 23:23:26.332009 - C tpye: 2900912203-lamuathu2011@ubot.vn-DAILY- So hoa don tren TCT: 2
-2023-02-09 23:23:38.247467 - K tpye: 2900912203 - lamuathu2011@ubot.vn - DAILY- So hoa don tren TCT: 1
-2023-02-09 23:23:52.836828 - C tpye: 0109381272-congtyhalobay@ubot.vn-DAILY- So hoa don tren TCT: 16
-2023-02-09 23:24:15.668537 - K tpye: 0109381272 - congtyhalobay@ubot.vn - DAILY- So hoa don tren TCT: 14
-2023-02-09 23:24:22.570154 - C tpye: 0109381272-001 - congtyhalobay@ubot.vn - DAILY - No inv
-2023-02-09 23:24:35.747099 - K tpye: 0109381272-001 - congtyhalobay@ubot.vn - DAILY- So hoa don tren TCT: 1
 2023-02-10 15:07:20.330709 - C tpye: 0314753332-U001 - catthai@ubot.vn - DAILY - No inv
 2023-02-10 15:07:34.181828 - K tpye: 0314753332-U001 - catthai@ubot.vn - DAILY- So hoa don tren TCT: 1
 2023-02-10 15:08:40.498322 - C tpye: 0301758647-U001-catthai@ubot.vn-DAILY- So hoa don tren TCT: 219
@@ -1829,148 +1062,6 @@ _______________DAILY_______________
 2023-02-12 19:25:50.731892 - K tpye: 0109381272-001 - congtyhalobay@ubot.vn - DAILY- So hoa don tren TCT: 1
 
 _______________tpye_______________
-2023-02-09 09:20:26.945897 - C tpye: 0312891224 - nongnghiepviet@ubot.vn - 2023T1 - No inv
-2023-02-09 09:20:54.322201 - K tpye: 0312891224 - nongnghiepviet@ubot.vn - 2023T1 - So hoa don tren TCT: 17
-2023-02-09 09:22:02.512946 - C tpye: 1301050165 - baboi@ubot.vn - 2023T1 - So hoa don tren TCT: 9
-2023-02-09 09:22:34.261991 - K tpye: 1301050165 - baboi@ubot.vn - 2023T1 - So hoa don tren TCT: 2
-2023-02-09 09:23:16.359713 - C tpye: 0316156035 - zoopcare@ubot.vn - 2023T1 - So hoa don tren TCT: 12
-2023-02-09 09:24:00.067824 - K tpye: 0316156035 - zoopcare@ubot.vn - 2023T1 - So hoa don tren TCT: 4
-2023-02-09 09:25:21.380193 - C tpye: 5600268431 - lethao@ubot.vn - 2023T1 - So hoa don tren TCT: 3
-2023-02-09 09:26:06.005490 - K tpye: 5600268431 - lethao@ubot.vn - 2023T1 - So hoa don tren TCT: 7
-2023-02-09 09:26:29.267477 - C tpye: 0106925693 - tayson@ubot.vn - 2022T1 - So hoa don tren TCT: 1
-2023-02-09 09:27:26.037218 - K tpye: 0106925693 - tayson@ubot.vn - 2022T1 - So hoa don tren TCT: 8
-2023-02-09 09:27:57.166297 - C tpye: 0106925693 - tayson@ubot.vn - 2022T2 - So hoa don tren TCT: 2
-2023-02-09 09:28:46.574450 - K tpye: 0106925693 - tayson@ubot.vn - 2022T2 - So hoa don tren TCT: 21
-2023-02-09 09:29:28.682675 - C tpye: 0106925693 - tayson@ubot.vn - 2022T3 - So hoa don tren TCT: 15
-2023-02-09 09:30:31.168944 - K tpye: 0106925693 - tayson@ubot.vn - 2022T3 - So hoa don tren TCT: 34
-2023-02-09 09:31:03.171875 - C tpye: 0106925693 - tayson@ubot.vn - 2022T4 - So hoa don tren TCT: 16
-2023-02-09 09:31:48.221811 - K tpye: 0106925693 - tayson@ubot.vn - 2022T4 - So hoa don tren TCT: 16
-2023-02-09 09:33:01.796297 - C tpye: 0106925693 - tayson@ubot.vn - 2022T5 - So hoa don tren TCT: 46
-2023-02-09 09:34:50.444484 - K tpye: 0106925693 - tayson@ubot.vn - 2022T5 - So hoa don tren TCT: 40
-2023-02-09 09:36:35.877438 - C tpye: 0106925693 - tayson@ubot.vn - 2022T6 - So hoa don tren TCT: 78
-2023-02-09 09:37:43.644299 - K tpye: 0106925693 - tayson@ubot.vn - 2022T6 - So hoa don tren TCT: 36
-2023-02-09 09:37:48.319919 - C tpye: 0110104731 - tayson@ubot.vn - 2022T1 - No inv
-2023-02-09 09:37:57.638476 - K tpye: 0110104731 - tayson@ubot.vn - 2022T1 - No inv
-2023-02-09 09:38:04.079554 - C tpye: 0110104731 - tayson@ubot.vn - 2022T2 - No inv
-2023-02-09 09:38:21.145805 - K tpye: 0110104731 - tayson@ubot.vn - 2022T2 - No inv
-2023-02-09 09:38:33.420478 - C tpye: 0110104731 - tayson@ubot.vn - 2022T3 - No inv
-2023-02-09 09:38:46.891408 - K tpye: 0110104731 - tayson@ubot.vn - 2022T3 - No inv
-2023-02-09 09:40:00.329926 - C tpye: 0110104731 - tayson@ubot.vn - 2022T4 - No inv
-2023-02-09 09:40:38.194830 - K tpye: 0110104731 - tayson@ubot.vn - 2022T4 - No inv
-2023-02-09 09:40:46.686189 - C tpye: 0110104731 - tayson@ubot.vn - 2022T5 - No inv
-2023-02-09 09:40:56.214102 - K tpye: 0110104731 - tayson@ubot.vn - 2022T5 - No inv
-2023-02-09 09:41:02.265394 - C tpye: 0110104731 - tayson@ubot.vn - 2022T6 - No inv
-2023-02-09 09:41:20.285569 - K tpye: 0110104731 - tayson@ubot.vn - 2022T6 - No inv
-2023-02-09 09:42:38.378564 - C tpye: 0106720713 - hasen@ubot.vn - 2022T12 - So hoa don tren TCT: 119
-2023-02-09 09:43:25.149988 - K tpye: 0106720713 - hasen@ubot.vn - 2022T12 - So hoa don tren TCT: 32
-2023-02-09 09:43:38.006997 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T10 - So hoa don tren TCT: 49
-2023-02-09 09:44:06.227098 - C tpye: 0101456254 - triviet@ubot.vn - 2022T1 - So hoa don tren TCT: 26
-2023-02-09 09:44:24.237449 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T10 - So hoa don tren TCT: 26
-2023-02-09 09:44:26.492264 - K tpye: 0101456254 - triviet@ubot.vn - 2022T1 - So hoa don tren TCT: 6
-2023-02-09 09:44:54.094992 - C tpye: 0101456254 - triviet@ubot.vn - 2022T2 - So hoa don tren TCT: 22
-2023-02-09 09:45:13.787164 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T11 - So hoa don tren TCT: 65
-2023-02-09 09:46:06.654313 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T11 - So hoa don tren TCT: 27
-2023-02-09 09:46:55.992768 - K tpye: 0101456254 - triviet@ubot.vn - 2022T2 - So hoa don tren TCT: 17
-2023-02-09 09:46:59.169404 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T12 - So hoa don tren TCT: 84
-2023-02-09 09:47:18.661330 - C tpye: 0101456254 - triviet@ubot.vn - 2022T3 - So hoa don tren TCT: 51
-2023-02-09 09:47:34.826523 - K tpye: 0101456254 - triviet@ubot.vn - 2022T3 - So hoa don tren TCT: 13
-2023-02-09 09:47:45.441084 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T12 - So hoa don tren TCT: 23
-2023-02-09 09:47:57.077143 - C tpye: 0101456254 - triviet@ubot.vn - 2022T4 - So hoa don tren TCT: 49
-2023-02-09 09:48:01.681543 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T1 - So hoa don tren TCT: 12
-2023-02-09 09:48:17.079838 - K tpye: 0101456254 - triviet@ubot.vn - 2022T4 - So hoa don tren TCT: 27
-2023-02-09 09:48:18.318928 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T1 - So hoa don tren TCT: 11
-2023-02-09 09:48:39.246388 - C tpye: 0101456254 - triviet@ubot.vn - 2022T5 - So hoa don tren TCT: 62
-2023-02-09 09:48:48.512344 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 3
-2023-02-09 09:48:55.953076 - K tpye: 0101456254 - triviet@ubot.vn - 2022T5 - So hoa don tren TCT: 42
-2023-02-09 09:49:02.288888 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 2
-2023-02-09 09:49:15.140303 - C tpye: 0101456254 - triviet@ubot.vn - 2022T6 - So hoa don tren TCT: 59
-2023-02-09 09:49:40.311630 - K tpye: 0101456254 - triviet@ubot.vn - 2022T6 - So hoa don tren TCT: 45
-2023-02-09 09:50:11.934596 - C tpye: 0101456254 - triviet@ubot.vn - 2022T7 - So hoa don tren TCT: 82
-2023-02-09 09:50:46.284055 - K tpye: 0101456254 - triviet@ubot.vn - 2022T7 - So hoa don tren TCT: 95
-2023-02-09 09:51:23.325740 - C tpye: 0101456254 - triviet@ubot.vn - 2022T8 - So hoa don tren TCT: 74
-2023-02-09 09:51:43.827433 - K tpye: 0101456254 - triviet@ubot.vn - 2022T8 - So hoa don tren TCT: 62
-2023-02-09 09:52:30.253008 - C tpye: 0101456254 - triviet@ubot.vn - 2022T9 - So hoa don tren TCT: 102
-2023-02-09 09:52:52.407828 - K tpye: 0101456254 - triviet@ubot.vn - 2022T9 - So hoa don tren TCT: 79
-2023-02-09 09:53:22.077745 - C tpye: 0101456254 - triviet@ubot.vn - 2022T10 - So hoa don tren TCT: 110
-2023-02-09 09:53:55.759225 - K tpye: 0101456254 - triviet@ubot.vn - 2022T10 - So hoa don tren TCT: 78
-2023-02-09 09:54:20.092778 - C tpye: 0101456254 - triviet@ubot.vn - 2022T11 - So hoa don tren TCT: 78
-2023-02-09 09:54:42.871477 - K tpye: 0101456254 - triviet@ubot.vn - 2022T11 - So hoa don tren TCT: 109
-2023-02-09 09:55:34.145535 - C tpye: 0101456254 - triviet@ubot.vn - 2022T12 - So hoa don tren TCT: 154
-2023-02-09 09:55:56.232181 - K tpye: 0101456254 - triviet@ubot.vn - 2022T12 - So hoa don tren TCT: 124
-2023-02-09 09:56:19.481716 - C tpye: 4201688111 - damkhanhan@ubot.vn - 2023T1 - So hoa don tren TCT: 52
-2023-02-09 09:56:57.541744 - K tpye: 4201688111 - damkhanhan@ubot.vn - 2023T1 - So hoa don tren TCT: 23
-2023-02-09 09:57:28.262403 - C tpye: 4201688111 - damkhanhan@ubot.vn - 2023T2 - So hoa don tren TCT: 21
-2023-02-09 09:57:46.997462 - K tpye: 4201688111 - damkhanhan@ubot.vn - 2023T2 - So hoa don tren TCT: 13
-2023-02-09 14:46:18.754351 - C tpye: 0311894286 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 7
-2023-02-09 14:46:47.682932 - K tpye: 0311894286 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 8
-2023-02-09 14:47:01.287650 - C tpye: 0311894286 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 2
-2023-02-09 14:47:19.492513 - K tpye: 0311894286 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 1
-2023-02-09 14:47:43.382735 - C tpye: 0305139990 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 14
-2023-02-09 14:47:55.312569 - K tpye: 0305139990 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 18
-2023-02-09 14:48:09.269652 - C tpye: 0305139990 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 3
-2023-02-09 14:48:35.438844 - K tpye: 0305139990 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 3
-2023-02-09 14:48:50.800815 - C tpye: 0313630049 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 3
-2023-02-09 14:49:11.517473 - K tpye: 0313630049 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 7
-2023-02-09 14:49:28.781922 - C tpye: 0313630049 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 2
-2023-02-09 14:49:41.952195 - K tpye: 0313630049 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 3
-2023-02-09 14:50:07.904140 - C tpye: 0312988988 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 56
-2023-02-09 14:50:44.766631 - K tpye: 0312988988 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 29
-2023-02-09 14:51:05.458150 - C tpye: 0312988988 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 32
-2023-02-09 14:51:27.270870 - K tpye: 0312988988 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 10
-2023-02-09 14:51:49.381755 - C tpye: 0316469091 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 3
-2023-02-09 14:52:04.245820 - K tpye: 0316469091 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 4
-2023-02-09 14:52:19.353075 - C tpye: 0316469091 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 2
-2023-02-09 14:52:48.077774 - K tpye: 0316469091 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 3
-2023-02-09 14:53:02.886601 - C tpye: 0317050761 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 6
-2023-02-09 14:53:18.550201 - K tpye: 0317050761 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 2
-2023-02-09 14:53:45.206666 - C tpye: 0317050761 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 8
-2023-02-09 14:53:56.940448 - K tpye: 0317050761 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 1
-2023-02-09 14:54:12.085707 - C tpye: 0317258696 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 3
-2023-02-09 14:54:25.035198 - K tpye: 0317258696 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 1
-2023-02-09 14:54:34.242605 - C tpye: 0317258696 - duyenact@ubot.vn - 2023T2 - No inv
-2023-02-09 14:55:28.571853 - K tpye: 0317258696 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 1
-2023-02-09 14:55:44.635213 - C tpye: 0312653484 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 27
-2023-02-09 14:55:57.248290 - K tpye: 0312653484 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 7
-2023-02-09 14:56:29.219254 - C tpye: 0312653484 - vanact@ubot.vn - 2023T2 - So hoa don tren TCT: 5
-2023-02-09 14:56:53.356230 - K tpye: 0312653484 - vanact@ubot.vn - 2023T2 - So hoa don tren TCT: 4
-2023-02-09 14:57:24.589414 - C tpye: 0317169076 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 63
-2023-02-09 14:57:41.652746 - K tpye: 0317169076 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 8
-2023-02-09 14:58:04.638786 - C tpye: 0317169076 - vanact@ubot.vn - 2023T2 - So hoa don tren TCT: 34
-2023-02-09 14:58:27.779793 - K tpye: 0317169076 - vanact@ubot.vn - 2023T2 - So hoa don tren TCT: 2
-2023-02-09 14:58:41.753190 - C tpye: 0314393880 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 4
-2023-02-09 14:59:07.179639 - K tpye: 0314393880 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 1
-2023-02-09 14:59:16.318594 - C tpye: 0314393880 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 14:59:22.349468 - K tpye: 0314393880 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 14:59:56.869349 - C tpye: 0313217723 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 39
-2023-02-09 15:00:15.445402 - K tpye: 0313217723 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 17
-2023-02-09 15:00:27.797790 - C tpye: 0313217723 - vanact@ubot.vn - 2023T2 - So hoa don tren TCT: 5
-2023-02-09 15:00:44.740059 - K tpye: 0313217723 - vanact@ubot.vn - 2023T2 - So hoa don tren TCT: 3
-2023-02-09 15:01:04.502249 - C tpye: 0317454242 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 1
-2023-02-09 15:01:20.518163 - K tpye: 0317454242 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 2
-2023-02-09 15:01:27.499121 - C tpye: 0317454242 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:01:36.782576 - K tpye: 0317454242 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:01:53.032358 - C tpye: 0316994573 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 1
-2023-02-09 15:02:13.928306 - K tpye: 0316994573 - vanact@ubot.vn - 2023T1 - No inv
-2023-02-09 15:02:31.089722 - C tpye: 0316994573 - vanact@ubot.vn - 2023T2 - So hoa don tren TCT: 1
-2023-02-09 15:02:46.441855 - K tpye: 0316994573 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:03:07.081280 - C tpye: 0317231091 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 1
-2023-02-09 15:03:12.997554 - K tpye: 0317231091 - vanact@ubot.vn - 2023T1 - No inv
-2023-02-09 15:03:22.344979 - C tpye: 0317231091 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:03:30.716218 - K tpye: 0317231091 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:03:38.744977 - C tpye: 0316289807 - vanact@ubot.vn - 2023T1 - No inv
-2023-02-09 15:03:46.618797 - K tpye: 0316289807 - vanact@ubot.vn - 2023T1 - No inv
-2023-02-09 15:03:58.482005 - C tpye: 0316289807 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:04:08.032153 - K tpye: 0316289807 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:05:00.759959 - C tpye: 0313695310 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 5
-2023-02-09 15:05:25.940023 - K tpye: 0313695310 - duyenact@ubot.vn - 2023T1 - So hoa don tren TCT: 10
-2023-02-09 15:05:50.408015 - C tpye: 0313695310 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 1
-2023-02-09 15:06:05.802778 - K tpye: 0313695310 - duyenact@ubot.vn - 2023T2 - So hoa don tren TCT: 3
-2023-02-09 15:07:04.086850 - C tpye: 0313243586 - vanact@ubot.vn - 2023T1 - So hoa don tren TCT: 1
-2023-02-09 15:07:23.952836 - K tpye: 0313243586 - vanact@ubot.vn - 2023T1 - No inv
-2023-02-09 15:07:30.158390 - C tpye: 0313243586 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 15:07:45.561534 - K tpye: 0313243586 - vanact@ubot.vn - 2023T2 - No inv
-2023-02-09 16:36:09.497151 - C tpye: 2300834842 - daiha9@ubot.vn - 2023T1 - So hoa don tren TCT: 42
-2023-02-09 16:36:31.149283 - C tpye: 2300834842 - daiha9@ubot.vn - 2023T2 - So hoa don tren TCT: 6
 2023-02-10 10:41:46.340330 - K tpye: 3702020027 - ngocchau2885@ubot.vn - 2023T1 - So hoa don tren TCT: 25
 2023-02-10 13:22:55.951760 - C tpye: 0106720713 - hasen@ubot.vn - 2022T1 - So hoa don tren TCT: 21
 2023-02-10 13:23:24.799170 - K tpye: 0106720713 - hasen@ubot.vn - 2022T1 - No inv
@@ -2470,3 +1561,296 @@ _______________tpye_______________
 2023-02-13 10:56:19.303517 - K tpye: 3603710118 - tamthinhphat@ubot.vn - 2023T2 - No inv
 2023-02-13 10:56:27.361623 - C tpye: 3603791269 - tamthinhphat@ubot.vn - 2023T2 - No inv
 2023-02-13 10:56:43.360305 - K tpye: 3603791269 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 10:57:28.129267 - C tpye: 3603291280 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 10:57:47.868247 - K tpye: 3603291280 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 10:58:17.873967 - C tpye: 3603792865 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 10:58:49.779905 - K tpye: 3603792865 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 17
+2023-02-13 10:58:56.476102 - C tpye: 3603813963 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 10:59:24.095092 - K tpye: 3603813963 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 10:59:51.739253 - C tpye: 3603818432 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:00:09.218685 - K tpye: 3603818432 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:01:07.193347 - C tpye: 3603817284 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 4
+2023-02-13 11:01:13.972159 - K tpye: 3603817284 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:01:35.184622 - C tpye: 3603861029 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:01:51.789862 - K tpye: 3603861029 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:01:59.421989 - C tpye: 3702686177 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:02:11.392284 - K tpye: 3702686177 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:02:29.242556 - C tpye: 3603589630 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:02:51.756470 - K tpye: 3603589630 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:04:04.880721 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T10 - So hoa don tren TCT: 49
+2023-02-13 11:04:49.735361 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T10 - So hoa don tren TCT: 26
+2023-02-13 11:05:58.345982 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T11 - So hoa don tren TCT: 65
+2023-02-13 11:06:41.462275 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T11 - So hoa don tren TCT: 27
+2023-02-13 11:07:56.216343 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T12 - So hoa don tren TCT: 84
+2023-02-13 11:08:46.687612 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2022T12 - So hoa don tren TCT: 23
+2023-02-13 11:09:28.001412 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T1 - So hoa don tren TCT: 12
+2023-02-13 11:10:10.032775 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T1 - So hoa don tren TCT: 11
+2023-02-13 11:10:58.258326 - C tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 5
+2023-02-13 11:11:17.820686 - K tpye: 3602300408 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 4
+2023-02-13 11:11:53.491469 - C tpye: 3603751883 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:11:57.790721 - K tpye: 3603751883 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:12:05.988340 - C tpye: 3603769489 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:12:24.433465 - K tpye: 3603769489 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:12:45.646823 - C tpye: 3702939773 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:13:01.129369 - K tpye: 3702939773 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:13:13.486197 - C tpye: 3603461101 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:13:38.589065 - K tpye: 3603461101 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:13:46.281604 - C tpye: 3603792079 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:14:07.515699 - K tpye: 3603792079 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:14:34.093006 - C tpye: 3603288714 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 11:14:59.456695 - K tpye: 3603288714 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:15:19.663288 - C tpye: 3603699961 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:15:40.267743 - K tpye: 3603699961 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:15:57.770423 - C tpye: 3603611205 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:16:04.371664 - K tpye: 3603611205 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:16:24.233396 - C tpye: 0312673515 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:16:42.143292 - K tpye: 0312673515 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 8
+2023-02-13 11:17:13.908258 - C tpye: 3603587827 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:17:23.733666 - K tpye: 3603587827 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:17:31.487944 - C tpye: 3603727270 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:17:38.811670 - K tpye: 3603727270 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:17:54.905705 - C tpye: 3603431562 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:18:04.495665 - K tpye: 3603431562 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:18:21.465280 - C tpye: 3603682728 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:18:34.038799 - K tpye: 3603682728 - tamthinhphat@ubot.vn - 2023T2 - So hoa don tren TCT: 4
+2023-02-13 11:18:53.983406 - C tpye: 3603629788 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:19:33.492916 - K tpye: 3603629788 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:20:12.385874 - C tpye: 3603850933 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:20:25.058668 - K tpye: 3603850933 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:21:09.898529 - C tpye: 0109381272 - congtyhalobay@ubot.vn - 2023T2 - So hoa don tren TCT: 20
+2023-02-13 11:21:57.692455 - K tpye: 0109381272 - congtyhalobay@ubot.vn - 2023T2 - So hoa don tren TCT: 15
+2023-02-13 11:22:16.614003 - C tpye: 0109381272-001 - congtyhalobay@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:22:45.930703 - K tpye: 0109381272-001 - congtyhalobay@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:23:05.979262 - C tpye: 0801299800 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:23:36.023161 - K tpye: 0801299800 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 9
+2023-02-13 11:24:07.002706 - C tpye: 0801376438 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:24:48.222669 - K tpye: 0801376438 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 11:25:17.613410 - C tpye: 1001192306 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:25:53.885247 - K tpye: 1001192306 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 4
+2023-02-13 11:26:15.746245 - C tpye: 0107978955 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:26:39.796651 - K tpye: 0107978955 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:27:04.584128 - C tpye: 0108853405 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:27:16.505459 - K tpye: 0108853405 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:27:41.305026 - C tpye: 0800476373 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 15
+2023-02-13 11:28:14.711651 - K tpye: 0800476373 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 18
+2023-02-13 11:28:47.427484 - C tpye: 0801316291 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:29:10.160401 - K tpye: 0801316291 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:29:59.307577 - C tpye: 0801245851 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 9
+2023-02-13 11:30:10.107974 - K tpye: 0801245851 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:30:16.162268 - C tpye: 0801337573 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:30:29.222809 - K tpye: 0801337573 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:31:23.938195 - C tpye: 0801377223 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 8
+2023-02-13 11:31:54.280685 - K tpye: 0801377223 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 21
+2023-02-13 11:32:13.343865 - C tpye: 0801374303 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 11:32:19.414230 - K tpye: 0801374303 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:32:32.669072 - C tpye: 0801381043 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:32:50.442358 - K tpye: 0801381043 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:33:02.420774 - C tpye: 0801356093 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:33:10.439033 - K tpye: 0801356093 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:34:13.226871 - C tpye: 0800016369 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:34:57.313260 - K tpye: 0800016369 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 9
+2023-02-13 11:35:07.325953 - C tpye: 0800300330 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:35:19.654421 - K tpye: 0800300330 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:35:53.795010 - C tpye: 0801254415 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 8
+2023-02-13 11:36:55.605777 - K tpye: 0801254415 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:37:17.958796 - C tpye: 0316591574 - innohub@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:37:39.152781 - K tpye: 0316591574 - innohub@ubot.vn - 2023T2 - No inv
+2023-02-13 11:37:50.533825 - C tpye: 0801317263 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:37:59.862430 - K tpye: 0801317263 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:38:25.453422 - C tpye: 0107633037-001 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:38:41.051315 - K tpye: 0107633037-001 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:39:27.908448 - C tpye: 0801366969 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 6
+2023-02-13 11:39:40.282744 - K tpye: 0801366969 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:40:25.000581 - C tpye: 0801362587 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 7
+2023-02-13 11:40:34.107470 - K tpye: 0801362587 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:41:31.599941 - C tpye: 0801187046 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:41:58.950546 - K tpye: 0801187046 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:42:11.104082 - C tpye: 0800830659 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:42:46.690822 - K tpye: 0800830659 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 8
+2023-02-13 11:43:08.917596 - C tpye: 0801357428 - linhvt@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:43:14.255560 - K tpye: 0801357428 - linhvt@ubot.vn - 2023T2 - No inv
+2023-02-13 11:44:01.730787 - C tpye: 3703066105 - acm2022@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:44:26.077220 - K tpye: 3703066105 - acm2022@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:46:44.101387 - C tpye: 0100931299-025 - biccuulong@ubot.vn - 2023T2 - So hoa don tren TCT: 378
+2023-02-13 11:47:12.121990 - K tpye: 0100931299-025 - biccuulong@ubot.vn - 2023T2 - So hoa don tren TCT: 10
+2023-02-13 11:47:31.496747 - C tpye: 4601449703 - plht@ubot.vn - 2023T2 - So hoa don tren TCT: 9
+2023-02-13 11:48:07.959468 - K tpye: 4601449703 - plht@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 11:48:46.718701 - C tpye: 0110102406 - duyenbobo@ubot.vn - 2023T2 - So hoa don tren TCT: 60
+2023-02-13 11:49:47.895577 - K tpye: 0110102406 - duyenbobo@ubot.vn - 2023T2 - So hoa don tren TCT: 25
+2023-02-13 11:49:55.437856 - C tpye: 0317500971 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:50:04.609047 - K tpye: 0317500971 - tamthinhphat@ubot.vn - 2023T2 - No inv
+2023-02-13 11:50:31.034075 - C tpye: 0107410030 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 5
+2023-02-13 11:50:55.346052 - K tpye: 0107410030 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:51:18.597730 - C tpye: 0104604944 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 11:51:52.221443 - K tpye: 0104604944 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 33
+2023-02-13 11:52:14.199298 - C tpye: 0106475927 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 11:52:57.066749 - K tpye: 0106475927 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 10
+2023-02-13 11:53:09.484838 - C tpye: 0109885209 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:53:15.881825 - K tpye: 0109885209 - bichthuy@ubot.vn - 2023T2 - No inv
+2023-02-13 11:53:34.465617 - C tpye: 0108066398 - bichthuy@ubot.vn - 2023T2 - No inv
+2023-02-13 11:54:21.553783 - K tpye: 0108066398 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 11:55:11.271706 - C tpye: 0109799863 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 5
+2023-02-13 11:55:58.738657 - K tpye: 0109799863 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:56:24.864988 - C tpye: 0109957608 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:56:36.298794 - K tpye: 0109957608 - bichthuy@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 11:56:45.496321 - C tpye: 3703034103 - acm2022@ubot.vn - 2023T2 - No inv
+2023-02-13 11:57:37.846579 - K tpye: 3703034103 - acm2022@ubot.vn - 2023T2 - No inv
+2023-02-13 11:57:55.845204 - C tpye: 0110192738 - hienle@ubot.vn - 2023T2 - No inv
+2023-02-13 11:58:10.879671 - K tpye: 0110192738 - hienle@ubot.vn - 2023T2 - No inv
+2023-02-13 11:58:16.890719 - C tpye: 0110122762 - hienle@ubot.vn - 2023T2 - No inv
+2023-02-13 11:58:30.699590 - K tpye: 0110122762 - hienle@ubot.vn - 2023T2 - No inv
+2023-02-13 11:58:57.680353 - C tpye: 0314203699 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:59:20.833922 - K tpye: 0314203699 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 11:59:58.477271 - C tpye: 0313856575 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 22
+2023-02-13 12:00:30.005400 - K tpye: 0313856575 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 9
+2023-02-13 12:00:46.711465 - C tpye: 4500508222 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 12:01:14.064016 - K tpye: 4500508222 - lethunguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:01:36.220949 - C tpye: 0313971916 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 12:01:44.452597 - K tpye: 0313971916 - lethunguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:02:03.431884 - C tpye: 0313214793 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 4
+2023-02-13 12:02:25.238010 - K tpye: 0313214793 - lethunguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 2
+2023-02-13 12:02:54.576068 - C tpye: 0105198389 - namminh@ubot.vn - 2022T1 - So hoa don tren TCT: 20
+2023-02-13 12:03:26.368921 - K tpye: 0105198389 - namminh@ubot.vn - 2022T1 - So hoa don tren TCT: 1
+2023-02-13 12:03:55.003877 - C tpye: 0105198389 - namminh@ubot.vn - 2022T2 - So hoa don tren TCT: 12
+2023-02-13 12:04:08.252295 - K tpye: 0105198389 - namminh@ubot.vn - 2022T2 - No inv
+2023-02-13 12:04:39.650757 - C tpye: 0105198389 - namminh@ubot.vn - 2022T3 - So hoa don tren TCT: 25
+2023-02-13 12:04:59.031996 - K tpye: 0105198389 - namminh@ubot.vn - 2022T3 - So hoa don tren TCT: 1
+2023-02-13 12:05:41.107838 - C tpye: 0105198389 - namminh@ubot.vn - 2022T4 - So hoa don tren TCT: 69
+2023-02-13 12:06:31.844348 - K tpye: 0105198389 - namminh@ubot.vn - 2022T4 - So hoa don tren TCT: 18
+2023-02-13 12:07:17.353219 - C tpye: 0105198389 - namminh@ubot.vn - 2022T5 - So hoa don tren TCT: 47
+2023-02-13 12:08:06.389168 - K tpye: 0105198389 - namminh@ubot.vn - 2022T5 - So hoa don tren TCT: 17
+2023-02-13 12:08:55.477435 - C tpye: 0105198389 - namminh@ubot.vn - 2022T6 - So hoa don tren TCT: 92
+2023-02-13 12:09:38.740422 - K tpye: 0105198389 - namminh@ubot.vn - 2022T6 - So hoa don tren TCT: 20
+2023-02-13 12:10:34.963115 - C tpye: 0105198389 - namminh@ubot.vn - 2022T7 - So hoa don tren TCT: 72
+2023-02-13 12:11:12.157989 - K tpye: 0105198389 - namminh@ubot.vn - 2022T7 - So hoa don tren TCT: 28
+2023-02-13 12:12:24.108476 - C tpye: 0105198389 - namminh@ubot.vn - 2022T8 - So hoa don tren TCT: 100
+2023-02-13 12:13:44.830260 - K tpye: 0105198389 - namminh@ubot.vn - 2022T8 - So hoa don tren TCT: 36
+2023-02-13 12:14:37.438923 - C tpye: 0105198389 - namminh@ubot.vn - 2022T9 - So hoa don tren TCT: 58
+2023-02-13 12:15:42.618183 - K tpye: 0105198389 - namminh@ubot.vn - 2022T9 - So hoa don tren TCT: 36
+2023-02-13 12:16:31.224367 - C tpye: 0105198389 - namminh@ubot.vn - 2022T10 - So hoa don tren TCT: 82
+2023-02-13 12:17:18.272459 - K tpye: 0105198389 - namminh@ubot.vn - 2022T10 - So hoa don tren TCT: 32
+2023-02-13 12:17:57.259093 - C tpye: 0105198389 - namminh@ubot.vn - 2022T11 - So hoa don tren TCT: 66
+2023-02-13 12:18:41.066898 - K tpye: 0105198389 - namminh@ubot.vn - 2022T11 - So hoa don tren TCT: 28
+2023-02-13 12:19:18.341792 - C tpye: 0105198389 - namminh@ubot.vn - 2023T2 - So hoa don tren TCT: 22
+2023-02-13 12:19:47.376369 - K tpye: 0105198389 - namminh@ubot.vn - 2023T2 - So hoa don tren TCT: 3
+2023-02-13 12:20:13.940010 - C tpye: 0106925693 - tayson@ubot.vn - 2022T1 - So hoa don tren TCT: 1
+2023-02-13 12:20:44.132242 - K tpye: 0106925693 - tayson@ubot.vn - 2022T1 - So hoa don tren TCT: 8
+2023-02-13 12:21:17.237596 - C tpye: 0106925693 - tayson@ubot.vn - 2022T2 - So hoa don tren TCT: 2
+2023-02-13 12:22:20.621050 - K tpye: 0106925693 - tayson@ubot.vn - 2022T2 - So hoa don tren TCT: 21
+2023-02-13 12:22:59.104206 - C tpye: 0106925693 - tayson@ubot.vn - 2022T3 - So hoa don tren TCT: 15
+2023-02-13 12:23:43.515332 - K tpye: 0106925693 - tayson@ubot.vn - 2022T3 - So hoa don tren TCT: 34
+2023-02-13 12:24:19.413572 - C tpye: 0106925693 - tayson@ubot.vn - 2022T4 - So hoa don tren TCT: 16
+2023-02-13 12:24:49.281543 - K tpye: 0106925693 - tayson@ubot.vn - 2022T4 - So hoa don tren TCT: 16
+2023-02-13 12:25:19.682793 - C tpye: 0106925693 - tayson@ubot.vn - 2022T5 - So hoa don tren TCT: 46
+2023-02-13 12:26:15.696795 - K tpye: 0106925693 - tayson@ubot.vn - 2022T5 - So hoa don tren TCT: 40
+2023-02-13 12:26:54.524548 - C tpye: 0106925693 - tayson@ubot.vn - 2022T6 - So hoa don tren TCT: 78
+2023-02-13 12:27:36.969901 - K tpye: 0106925693 - tayson@ubot.vn - 2022T6 - So hoa don tren TCT: 36
+2023-02-13 12:27:45.925247 - C tpye: 0110104731 - tayson@ubot.vn - 2022T1 - No inv
+2023-02-13 12:27:51.727638 - K tpye: 0110104731 - tayson@ubot.vn - 2022T1 - No inv
+2023-02-13 12:28:09.254792 - C tpye: 0110104731 - tayson@ubot.vn - 2022T2 - No inv
+2023-02-13 12:28:24.141625 - K tpye: 0110104731 - tayson@ubot.vn - 2022T2 - No inv
+2023-02-13 12:28:31.685854 - C tpye: 0110104731 - tayson@ubot.vn - 2022T3 - No inv
+2023-02-13 12:28:40.711631 - K tpye: 0110104731 - tayson@ubot.vn - 2022T3 - No inv
+2023-02-13 12:28:48.922795 - C tpye: 0110104731 - tayson@ubot.vn - 2022T4 - No inv
+2023-02-13 12:29:04.306998 - K tpye: 0110104731 - tayson@ubot.vn - 2022T4 - No inv
+2023-02-13 12:29:09.033134 - C tpye: 0110104731 - tayson@ubot.vn - 2022T5 - No inv
+2023-02-13 12:29:14.749402 - K tpye: 0110104731 - tayson@ubot.vn - 2022T5 - No inv
+2023-02-13 12:29:24.547580 - C tpye: 0110104731 - tayson@ubot.vn - 2022T6 - No inv
+2023-02-13 12:29:31.924986 - K tpye: 0110104731 - tayson@ubot.vn - 2022T6 - No inv
+2023-02-13 12:34:41.134414 - C tpye: 0303108080 - headway@ubot.vn - 2023T2 - So hoa don tren TCT: 833
+2023-02-13 12:38:51.209685 - K tpye: 0303108080 - headway@ubot.vn - 2023T2 - So hoa don tren TCT: 548
+2023-02-13 12:39:14.738079 - C tpye: 2802530622 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 13
+2023-02-13 12:40:24.374477 - K tpye: 2802530622 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 61
+2023-02-13 12:40:47.413063 - C tpye: 2802530622 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 9
+2023-02-13 12:41:38.540677 - K tpye: 2802530622 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 25
+2023-02-13 12:41:43.245353 - C tpye: 2801361682 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:42:02.531396 - K tpye: 2801361682 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 1
+2023-02-13 12:42:08.697601 - C tpye: 2801361682 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:42:27.826318 - K tpye: 2801361682 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:42:47.248904 - C tpye: 2802582236 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 2
+2023-02-13 12:43:30.227571 - K tpye: 2802582236 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 81
+2023-02-13 12:43:48.872834 - C tpye: 2802582236 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 4
+2023-02-13 12:44:39.108716 - K tpye: 2802582236 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 26
+2023-02-13 12:45:02.476700 - C tpye: 2802932836 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 1
+2023-02-13 12:45:11.662313 - K tpye: 2802932836 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:45:21.143145 - C tpye: 2802932836 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:45:29.194665 - K tpye: 2802932836 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:45:40.754057 - C tpye: 2802856582 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 1
+2023-02-13 12:45:55.837454 - K tpye: 2802856582 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:46:19.474439 - C tpye: 2802856582 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 5
+2023-02-13 12:46:47.805671 - K tpye: 2802856582 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:46:56.768786 - C tpye: 2802867143 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:47:02.868195 - K tpye: 2802867143 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:47:10.886164 - C tpye: 2802867143 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:47:32.737113 - K tpye: 2802867143 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:48:38.082737 - C tpye: 2802837050 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 16
+2023-02-13 12:48:44.761003 - K tpye: 2802837050 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:49:11.104048 - C tpye: 2802837050 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 5
+2023-02-13 12:49:18.901152 - K tpye: 2802837050 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:49:53.639411 - C tpye: 2802761161 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 2
+2023-02-13 12:50:01.992075 - K tpye: 2802761161 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:50:25.332284 - C tpye: 2802761161 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 12:50:53.560420 - K tpye: 2802761161 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:51:01.417103 - C tpye: 2802525083 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:51:23.496678 - K tpye: 2802525083 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:51:36.537091 - C tpye: 2802525083 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:51:44.368431 - K tpye: 2802525083 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:52:26.395210 - C tpye: 2802554750 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 18
+2023-02-13 12:52:32.534150 - K tpye: 2802554750 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:53:03.203324 - C tpye: 2802554750 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 9
+2023-02-13 12:53:16.583224 - K tpye: 2802554750 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:53:24.397265 - C tpye: 2802315632 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:53:40.062274 - K tpye: 2802315632 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:53:53.693262 - C tpye: 2802315632 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:54:02.018001 - K tpye: 2802315632 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:54:11.995793 - C tpye: 2802838872 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:54:32.818395 - K tpye: 2802838872 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:54:39.018517 - C tpye: 2802838872 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:54:46.424172 - K tpye: 2802838872 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:54:55.436144 - C tpye: 2802780566 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:55:11.858270 - K tpye: 2802780566 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:55:28.147900 - C tpye: 2802780566 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:55:46.476996 - K tpye: 2802780566 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:56:18.144760 - C tpye: 2803022621 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 12:56:45.480033 - K tpye: 2803022621 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 1
+2023-02-13 12:56:59.480216 - C tpye: 2803022621 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:57:11.753886 - K tpye: 2803022621 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 12:57:34.209172 - C tpye: 2803026009 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 1
+2023-02-13 12:58:04.889893 - K tpye: 2803026009 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 26
+2023-02-13 12:58:25.076332 - C tpye: 2803026009 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 1
+2023-02-13 12:59:12.979169 - K tpye: 2803026009 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 12
+2023-02-13 13:00:02.277810 - C tpye: 2803035973 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 2
+2023-02-13 13:00:10.349772 - K tpye: 2803035973 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 13:00:17.974019 - C tpye: 2803035973 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 13:00:28.219451 - K tpye: 2803035973 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 13:00:41.288277 - C tpye: 2803016466 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 13:01:11.342990 - K tpye: 2803016466 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 33
+2023-02-13 13:01:36.347560 - C tpye: 2803016466 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 13:02:26.051864 - K tpye: 2803016466 - thomnguyen@ubot.vn - 2023T2 - So hoa don tren TCT: 14
+2023-02-13 13:02:56.027501 - C tpye: 2801944444 - thomnguyen@ubot.vn - 2022T10 - So hoa don tren TCT: 14
+2023-02-13 13:03:32.651321 - K tpye: 2801944444 - thomnguyen@ubot.vn - 2022T10 - So hoa don tren TCT: 16
+2023-02-13 13:04:00.848480 - C tpye: 2801944444 - thomnguyen@ubot.vn - 2022T11 - So hoa don tren TCT: 17
+2023-02-13 13:04:44.725825 - K tpye: 2801944444 - thomnguyen@ubot.vn - 2022T11 - So hoa don tren TCT: 18
+2023-02-13 13:05:22.880660 - C tpye: 2801944444 - thomnguyen@ubot.vn - 2022T12 - So hoa don tren TCT: 23
+2023-02-13 13:06:12.203522 - K tpye: 2801944444 - thomnguyen@ubot.vn - 2022T12 - So hoa don tren TCT: 32
+2023-02-13 13:06:45.535188 - C tpye: 2801944444 - thomnguyen@ubot.vn - 2023T1 - So hoa don tren TCT: 4
+2023-02-13 13:06:52.333620 - K tpye: 2801944444 - thomnguyen@ubot.vn - 2023T1 - No inv
+2023-02-13 13:07:11.890282 - C tpye: 2801944444 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 13:07:18.716587 - K tpye: 2801944444 - thomnguyen@ubot.vn - 2023T2 - No inv
+2023-02-13 13:07:40.725082 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T1 - So hoa don tren TCT: 3
+2023-02-13 13:08:18.693343 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T1 - So hoa don tren TCT: 17
+2023-02-13 13:08:39.606226 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T2 - So hoa don tren TCT: 5
+2023-02-13 13:09:20.240357 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T2 - So hoa don tren TCT: 13
+2023-02-13 13:09:49.314511 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T3 - So hoa don tren TCT: 24
+2023-02-13 13:10:41.029111 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T3 - So hoa don tren TCT: 18
+2023-02-13 13:11:10.364923 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T4 - So hoa don tren TCT: 23
+2023-02-13 13:11:58.926401 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T4 - So hoa don tren TCT: 20
+2023-02-13 13:12:20.866550 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T5 - So hoa don tren TCT: 14
+2023-02-13 13:12:57.879156 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T5 - So hoa don tren TCT: 50
+2023-02-13 13:13:33.206195 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T6 - So hoa don tren TCT: 38
+2023-02-13 13:14:10.237799 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T6 - So hoa don tren TCT: 33
+2023-02-13 13:14:47.961064 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T7 - So hoa don tren TCT: 26
+2023-02-13 13:15:54.820414 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T7 - So hoa don tren TCT: 43
+2023-02-13 13:16:25.685418 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T8 - So hoa don tren TCT: 36
+2023-02-13 13:17:16.878570 - K tpye: 0102976295 - thuylam@ubot.vn - 2022T8 - So hoa don tren TCT: 32
+2023-02-13 13:17:47.890178 - C tpye: 0102976295 - thuylam@ubot.vn - 2022T9 - So hoa don tren TCT: 31
